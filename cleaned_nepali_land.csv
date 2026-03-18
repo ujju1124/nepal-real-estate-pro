@@ -1,0 +1,2044 @@
+location_raw,facing,price_amount_npr,price_unit,road_width_feet,road_surface,land_size_aana,district
+"Duwakot, Bhaktapur",West,2200000.0,per_aana,20.0,Soil Stabilized,3.1,Bhaktapur
+"Sitapakha, Lalitpur",West,3800000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Changathali, Lalitpur",South,4000000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Gothatar, Kathmandu",North,3500000.0,per_aana,13.0,Dhalan,3.3,Kathmandu
+"Shital Height, Lalitpur",North-East,4500000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Changathali, Lalitpur",West,3500000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Chakupat, Lalitpur",East,8000000.0,per_aana,26.0,Black Topped,8.2,Lalitpur
+"Harisiddhi, Lalitpur",West,4000000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Chandragiri, Kathmandu",North,2900000.0,per_aana,15.0,Soil Stabilized,,Kathmandu
+"Kusunti, Lalitpur",West,4500000.0,per_aana,13.0,Dhalan,3.2,Lalitpur
+"Dholahiti, Lalitpur",South-West,4500000.0,per_aana,26.0,Dhalan,,Lalitpur
+"Bhairabnath Mandir, Bhaktapur",,5000000.0,per_aana,26.0,Dhalan,,Bhaktapur
+"Rudreshwor, Kathmandu",West,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Dudhpati, Bhaktapur",South,4300000.0,per_aana,20.0,Dhalan,5.1,Bhaktapur
+"Taukhel, Lalitpur",South-East,2500000.0,per_aana,16.0,Black Topped,,Lalitpur
+"Chhaling, Bhaktapur",East,2500000.0,per_aana,26.0,Dhalan,,Bhaktapur
+"Bhandari Marg, Lalitpur",East,3900000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Suncity, Kathmandu",South-East,3800000.0,per_aana,13.0,Dhalan,3.1,Kathmandu
+"Gothatar, Kathmandu",West,4300000.0,per_aana,13.0,Dhalan,3.1,Kathmandu
+"Gothatar, Kathmandu",East,4500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Gothatar, Kathmandu",North,4800000.0,per_aana,20.0,Dhalan,3.1,Kathmandu
+"Katunje, Bhaktapur",West,3600000.0,per_aana,16.0,Dhalan,3.1,Bhaktapur
+"Katunje, Bhaktapur",North,3400000.0,per_aana,20.0,Dhalan,4.2,Bhaktapur
+"Harsha chowk, Bhaktapur",South,3400000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Katunje, Bhaktapur",South,3300000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",West,3800000.0,per_aana,15.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",East,4000000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",South,4500000.0,per_aana,16.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",East,4200000.0,per_aana,10.0,Dhalan,4.1,Bhaktapur
+"Dadhikot, Bhaktapur",South-West,2550000.0,per_aana,16.0,Dhalan,,Bhaktapur
+"Dadhikot, Bhaktapur",East,3000000.0,per_aana,16.0,Dhalan,,Bhaktapur
+"Dadhikot, Bhaktapur",South-East,3000000.0,per_aana,16.0,Dhalan,,Bhaktapur
+"Sirutar, Bhaktapur",South,2700000.0,per_aana,20.0,Dhalan,4.1,Bhaktapur
+"Katunje, Bhaktapur",West,3600000.0,per_aana,16.0,Dhalan,3.1,Bhaktapur
+"Dadhikot, Bhaktapur",North,2700000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",East,14500000.0,total,13.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",South-West,3700000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Balkot, Bhaktapur",North-East,4200000.0,per_aana,13.0,Dhalan,3.1,Bhaktapur
+"Badikhel, Lalitpur",South-West,2150000.0,per_aana,16.0,Dhalan,5.2,Lalitpur
+"Harisiddhi, Lalitpur",South-West,4000000.0,per_aana,14.0,Dhalan,,Lalitpur
+"Badikhel, Lalitpur",West,2200000.0,per_aana,16.0,Dhalan,4.2,Lalitpur
+"Tathali, Bhaktapur",South,1900000.0,per_aana,13.0,Soil Stabilized,3.2,Bhaktapur
+"Banasthali, Kathmandu",West,5800000.0,per_aana,16.0,Dhalan,,Kathmandu
+"Thankot, Kathmandu",South-East,2900000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Sudal, Bhaktapur",South-East,2200000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Bhatkeko Pool, Kathmandu",South-West,6000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Kapan, Kathmandu",West,5600000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Balkot, Bhaktapur",North-West,4700000.0,per_aana,20.0,Dhalan,4.1,Bhaktapur
+"Balkot, Bhaktapur",West,4800000.0,per_aana,,,4.2,Bhaktapur
+"Balkot, Bhaktapur",West,4000000.0,per_aana,13.0,Dhalan,3.1,Bhaktapur
+"Dadhikot, Bhaktapur",East,10500000.0,total,13.0,Dhalan,,Bhaktapur
+"Dadhikot, Bhaktapur",South-East,3800000.0,per_aana,16.0,Dhalan,4.2,Bhaktapur
+"Balkot, Bhaktapur",South-East,4000000.0,per_aana,20.0,Paved,4.2,Bhaktapur
+"Sirutar, Bhaktapur",East,3700000.0,per_aana,13.0,Paved,4.2,Bhaktapur
+"Pepsicola, Kathmandu",South,5500000.0,per_aana,13.0,Soil Stabilized,4.2,Kathmandu
+"Pepsicola, Kathmandu",South-East,5200000.0,per_aana,16.0,Paved,5.2,Kathmandu
+"Pepsicola, Kathmandu",East,5800000.0,per_aana,13.0,Paved,4.2,Kathmandu
+"Imadol, Lalitpur",West,5000000.0,per_aana,13.0,Soil Stabilized,3.2,Lalitpur
+"Budhanilkantha, Kathmandu",South-East,3500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Gothatar, Kathmandu",West,4000000.0,per_aana,20.0,Paved,4.3,Kathmandu
+"Gothatar, Kathmandu",West,4000000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Bhimdhunga, Kathmandu",North-East,2800000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Tahachal, Kathmandu",North-West,8000000.0,per_aana,,,,Kathmandu
+"Sirutar, Bhaktapur",South-East,3500000.0,per_aana,13.0,Paved,,Bhaktapur
+"Kamerotar, Bhaktapur",East,5500000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Balkot, Bhaktapur",North-East,4500000.0,per_aana,22.0,Paved,,Bhaktapur
+"Sipadol, Bhaktapur",,2000000.0,per_aana,10.0,Dhalan,,Bhaktapur
+"Sirutar, Bhaktapur",West,2500000.0,per_aana,16.0,Soil Stabilized,4.2,Bhaktapur
+"Sitapaila, Kathmandu",South-East,5200000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Lamatar, Lalitpur",South,2800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Sudal, Bhaktapur",West,2200000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Mantar, Kathmandu",West,5200000.0,per_aana,20.0,Paved,3.3,Kathmandu
+"Maharajgunj, Kathmandu",East,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Gothatar, Kathmandu",East,4700000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Sudal, Bhaktapur",,2200000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Naikap, Kathmandu",East,4500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Imadol, Lalitpur",North,4600000.0,per_aana,20.0,Soil Stabilized,3.1,Lalitpur
+"Bafal, Kathmandu",North-West,5800000.0,per_aana,13.0,Alley,,Kathmandu
+"Sitapaila, Kathmandu",South-East,4800000.0,per_aana,13.0,Dhalan,6.2,Kathmandu
+"Shital Height, Lalitpur",West,3500000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Dibyeshwori Townplanning, Bhaktapur",East,6500000.0,per_aana,20.0,Paved,3.2,Bhaktapur
+"Gothatar, Kathmandu",West,4700000.0,per_aana,13.0,Soil Stabilized,4.1,Kathmandu
+"Imadol, Lalitpur",North,4800000.0,per_aana,20.0,Soil Stabilized,3.2,Lalitpur
+"Hattigauda, Kathmandu",South,3500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",West,6000000.0,per_aana,24.0,Paved,,Lalitpur
+"Bhandari Marg, Lalitpur",South-East,3800000.0,per_aana,13.0,Paved,5.2,Lalitpur
+"Gothatar, Kathmandu",North-East,4500000.0,per_aana,13.0,Paved,,Kathmandu
+"Lubhu, Lalitpur",West,2800000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Ochu Height, Lalitpur",South-East,5300000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Sitapaila, Kathmandu",West,2800000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Sipadol, Bhaktapur",East,3500000.0,per_aana,20.0,Black Topped,4.0,Bhaktapur
+"Sipadol, Bhaktapur",South-East,,,20.0,Black Topped,6.3,Bhaktapur
+"Balambu, Kathmandu",East,3000000.0,per_aana,26.0,Soil Stabilized,,Kathmandu
+"Syuchatar, Kathmandu",South,1600000.0,per_aana,4.0,Soil Stabilized,,Kathmandu
+"Ramkot, Kathmandu",South,2800000.0,per_aana,14.0,Soil Stabilized,,Kathmandu
+"Ranibari, Kathmandu",North-East,5500000.0,per_aana,,,,Kathmandu
+"Pepsicola, Kathmandu",South,6000000.0,per_aana,20.0,Black Topped,2.2,Kathmandu
+"Pepsicola, Kathmandu",South,7000000.0,per_aana,20.0,Black Topped,3.2,Kathmandu
+"Pepsicola, Kathmandu",West,5800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bafal, Kathmandu",East,66000000.0,total,13.0,Soil Stabilized,,Kathmandu
+"Bishnumati Bridge, Kathmandu",South-East,3500000.0,per_aana,,,,Kathmandu
+"Sudal, Bhaktapur",South,2500000.0,per_aana,26.0,Dhalan,5.3,Bhaktapur
+"Suryabinayak, Bhaktapur",North-West,3500000.0,per_aana,19.0,Dhalan,3.2,Bhaktapur
+"Bhaisepati, Lalitpur",North,5200000.0,per_aana,26.0,Soil Stabilized,3.2,Lalitpur
+"Godawari, Lalitpur",West,4300000.0,total,,,,Lalitpur
+", Rupandehi",South-East,250000000.0,total,24.0,Black Topped,,Unknown
+"Shital Height, Lalitpur",North-East,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Dadhikot, Bhaktapur",North,2700000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Bhaisepati, Lalitpur",North-East,4600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Bhaisepati, Lalitpur",West,4800000.0,per_aana,18.0,Gravelled,,Lalitpur
+"Bhaisepati, Lalitpur",East,4800000.0,per_aana,18.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",South-East,3800000.0,per_aana,20.0,Soil Stabilized,4.1,Lalitpur
+"Changunarayan, Bhaktapur",West,2000000.0,per_aana,10.0,Soil Stabilized,3.1,Bhaktapur
+"Shital Height, Lalitpur",South-West,4400000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Lubhu, Lalitpur",North-West,3500000.0,per_aana,13.0,Gravelled,7.2,Lalitpur
+"Lubhu, Lalitpur",South,3000000.0,per_aana,10.0,Gravelled,4.2,Lalitpur
+"Shital Height, Lalitpur",East,5200000.0,per_aana,13.0,Paved,,Lalitpur
+"Bhaisepati, Lalitpur",North-East,4700000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Duwakot, Bhaktapur",West,2200000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Lubhu, Lalitpur",North-East,3700000.0,per_aana,10.0,Paved,4.1,Lalitpur
+"Bhangal , Kathmandu",East,4800000.0,per_aana,13.0,Black Topped,5.1,Kathmandu
+"Imadol, Lalitpur",North,3900000.0,per_aana,20.0,Black Topped,5.2,Lalitpur
+"Lubhu, Lalitpur",East,3500000.0,per_aana,13.0,Soil Stabilized,3.1,Lalitpur
+"Lubhu, Lalitpur",North-East,3600000.0,per_aana,13.0,Paved,,Lalitpur
+"Shital Height, Lalitpur",West,5200000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Kamerotar, Bhaktapur",North-East,5300000.0,per_aana,20.0,Black Topped,5.2,Bhaktapur
+"Tikathali, Lalitpur",South-East,4600000.0,per_aana,13.0,Soil Stabilized,3.1,Lalitpur
+"Bhaisepati, Lalitpur",South-East,6500000.0,per_aana,26.0,Gravelled,,Lalitpur
+"Bhaisepati, Lalitpur",South,4500000.0,per_aana,22.0,Dhalan,,Lalitpur
+"Bhaisepati, Lalitpur",South-West,5500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Kamerotar, Bhaktapur",West,5300000.0,per_aana,20.0,Black Topped,4.1,Bhaktapur
+"Kamerotar, Bhaktapur",East,5700000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Shital Height, Lalitpur",East,4800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Bhaisepati, Lalitpur",South,5800000.0,per_aana,20.0,Dhalan,,Lalitpur
+"New Baneshwor, Kathmandu",South,7000000.0,per_aana,28.0,Black Topped,3.2,Kathmandu
+"Tinthana, Kathmandu",South,,,16.0,Dhalan,8.2,Kathmandu
+"Gothatar, Kathmandu",North,4000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Tikathali, Lalitpur",West,4500000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Shital Height, Lalitpur",West,5500000.0,per_aana,13.0,Dhalan,3.3,Lalitpur
+"Bhaisepati, Lalitpur",South,5800000.0,per_aana,20.0,Paved,,Lalitpur
+"Lubhu, Lalitpur",South-East,3200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Chasidol, Lalitpur",East,3500000.0,per_aana,13.0,Soil Stabilized,3.1,Lalitpur
+"Kamerotar, Bhaktapur",South,5600000.0,per_aana,20.0,Paved,4.3,Bhaktapur
+"Kamerotar, Bhaktapur",East,5200000.0,per_aana,20.0,Paved,,Bhaktapur
+"Chapali, Kathmandu",South,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Radhe Radhe, Bhaktapur",East,5800000.0,per_aana,13.0,Soil Stabilized,3.1,Bhaktapur
+"Narayanthan , Kathmandu",West,5500000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Shital Height, Lalitpur",North-West,4500000.0,per_aana,13.0,Paved,4.2,Lalitpur
+"Bhaisepati, Lalitpur",North,5800000.0,per_aana,20.0,Black Topped,5.2,Lalitpur
+"Lubhu, Lalitpur",North-East,3400000.0,per_aana,13.0,Soil Stabilized,3.1,Lalitpur
+"Bhaisepati, Lalitpur",North-West,5100000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Bhaisepati, Lalitpur",East,5500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Dhobighat, Lalitpur",East,7500000.0,per_aana,,,,Lalitpur
+"Lubhu, Lalitpur",South,3600000.0,per_aana,13.0,Soil Stabilized,3.1,Lalitpur
+"Chabahil, Kathmandu",South,5100000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Thankot, Kathmandu",East,2500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Raniban, Kathmandu",North,5500000.0,per_aana,,,,Kathmandu
+"Tokha Chandeshwori, Kathmandu",South,3000000.0,per_aana,14.0,Gravelled,28.2,Kathmandu
+"Chapagaun, Lalitpur",North-East,1800000.0,per_aana,20.0,Black Topped,4.2,Lalitpur
+"Lamatar, Lalitpur",North-East,2500000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Bode, Bhaktapur",North-West,3700000.0,per_aana,25.0,Black Topped,,Bhaktapur
+"Dahachowk, Kathmandu",South-West,2350000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",West,5500000.0,per_aana,20.0,Black Topped,5.1,Kathmandu
+", Lalitpur",South-East,1600000.0,per_aana,20.0,Paved,,Lalitpur
+"Bhanimandal, Lalitpur",North,,,,,,Lalitpur
+"Satungal, Kathmandu",South-East,3800000.0,per_aana,20.0,Dhalan,4.1,Kathmandu
+"Golfutar, Kathmandu",South,8000000.0,per_aana,22.0,Black Topped,15.2,Kathmandu
+"Kaushaltar, Bhaktapur",North,4500000.0,per_aana,13.0,Black Topped,,Bhaktapur
+"Machhe Gaun, Kathmandu",North-West,2400000.0,per_aana,13.0,Soil Stabilized,10.2,Kathmandu
+"Rarahill, Kathmandu",North-East,3400000.0,per_aana,13.0,Soil Stabilized,4.2,Kathmandu
+"Rarahill, Kathmandu",North-East,3400000.0,per_aana,13.0,Soil Stabilized,5.2,Kathmandu
+"Jhulpokhari, Kathmandu",East,2300000.0,per_aana,13.0,Soil Stabilized,8.2,Kathmandu
+"Greenland Chowk, Kathmandu",West,4700000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sukedhara, Kathmandu",East,6800000.0,per_aana,24.0,Black Topped,,Kathmandu
+"Taukhel, Lalitpur",East,2500000.0,per_aana,,,4.1,Lalitpur
+"Lokanthali, Bhaktapur",East,6500000.0,per_aana,26.0,Soil Stabilized,5.2,Bhaktapur
+"Bhaisepati, Lalitpur",South-East,5200000.0,per_aana,,,,Lalitpur
+"Dahachowk, Kathmandu",South-East,3500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Dahachowk, Kathmandu",South-East,2500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Chapagaun, Lalitpur",West,1000000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Thaiba, Lalitpur",South,2800000.0,per_aana,10.0,Soil Stabilized,,Lalitpur
+"Lokanthali, Bhaktapur",South,6500000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Lakhan Chowk, Rupandehi",East,,,25.0,Black Topped,0.12,Unknown
+"Pepsicola, Kathmandu",East,5800000.0,per_aana,13.0,Paved,4.2,Kathmandu
+"Balkot, Bhaktapur",North,6500000.0,per_aana,26.0,Paved,,Bhaktapur
+"Machhe Gaun, Kathmandu",South-East,1850000.0,per_aana,18.0,Dhalan,5.2,Kathmandu
+"Dhapakhel, Lalitpur",North-East,2200000.0,per_aana,18.0,Gravelled,,Lalitpur
+"Sudal, Bhaktapur",South-East,2100000.0,per_aana,20.0,Black Topped,4.1,Bhaktapur
+"Sipadol, Bhaktapur",North-East,3400000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Sanothimi, Bhaktapur",West,4200000.0,per_aana,20.0,Soil Stabilized,3.3,Bhaktapur
+"Dhapasi, Kathmandu",South-East,4500000.0,per_aana,13.0,Gravelled,5.2,Kathmandu
+"Dadhikot, Bhaktapur",North,2800000.0,per_aana,20.0,Paved,,Bhaktapur
+"Syuchatar, Kathmandu",South-West,3500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Sirutar, Bhaktapur",South,3500000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Bhaisepati, Lalitpur",South,4700000.0,per_aana,13.0,Soil Stabilized,6.3,Lalitpur
+"Namgel, Kathmandu",South,9500000.0,total,13.0,Black Topped,3.2,Kathmandu
+"Sirutar, Bhaktapur",East,3700000.0,per_aana,13.0,Soil Stabilized,4.2,Bhaktapur
+"Bhaisepati, Lalitpur",West,6500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Kalanki, Kathmandu",East,10500000.0,per_aana,10.0,Black Topped,,Kathmandu
+"Jhulpokhari, Kathmandu",South,2800000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Balkot, Bhaktapur",North-East,4900000.0,per_aana,13.0,Paved,4.2,Bhaktapur
+"Tikathali, Lalitpur",South,4000000.0,per_aana,13.0,Paved,5.1,Lalitpur
+"Gatthaghar, Bhaktapur",East,4500000.0,per_aana,13.0,Paved,3.2,Bhaktapur
+"Lokanthali, Bhaktapur",South-West,5500000.0,per_aana,13.0,Paved,,Bhaktapur
+"Imadol, Lalitpur",North-East,7500000.0,per_aana,24.0,Dhalan,,Lalitpur
+"Jhulpokhari, Kathmandu",East,2400000.0,per_aana,13.0,Soil Stabilized,4.2,Kathmandu
+"Gatthaghar, Bhaktapur",East,5000000.0,per_aana,20.0,Soil Stabilized,3.2,Bhaktapur
+"Dadhikot, Bhaktapur",East,2200000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Kamerotar, Bhaktapur",South,5200000.0,per_aana,20.0,Soil Stabilized,4.3,Bhaktapur
+"Sirutar, Bhaktapur",East,2700000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Lokanthali, Bhaktapur",North-West,6600000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Mulpani, Kathmandu",North,2200000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Balkot, Bhaktapur",East,3800000.0,per_aana,13.0,Soil Stabilized,6.1,Bhaktapur
+"Jhaukhel, Bhaktapur",West,2600000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Thali, Kathmandu",South-East,2900000.0,per_aana,,,3.3,Kathmandu
+"Bhaisepati, Lalitpur",South-East,6500000.0,per_aana,20.0,Paved,6.2,Lalitpur
+"Tathali, Bhaktapur",South,2200000.0,per_aana,10.0,Black Topped,,Bhaktapur
+"Chandol, Kathmandu",East,7000000.0,per_aana,13.0,Black Topped,5.2,Kathmandu
+"Ramkot, Kathmandu",South,3000000.0,per_aana,20.0,Black Topped,4.3,Kathmandu
+"Balkot, Bhaktapur",East,4100000.0,per_aana,16.0,Paved,3.1,Bhaktapur
+"Bhaisepati, Lalitpur",South,5800000.0,per_aana,20.0,Paved,,Lalitpur
+"Balkot, Bhaktapur",West,4000000.0,per_aana,13.0,Paved,,Bhaktapur
+"Suryabinayak, Bhaktapur",South-East,4200000.0,per_aana,18.0,Black Topped,4.1,Bhaktapur
+"Chamati, Kathmandu",South,7300000.0,per_aana,26.0,Black Topped,4.3,Kathmandu
+"Lokanthali, Bhaktapur",South,4000000.0,per_aana,11.0,Soil Stabilized,5.2,Bhaktapur
+"Narayantar, Kathmandu",North-East,4700000.0,per_aana,13.0,Paved,5.1,Kathmandu
+"Bode, Bhaktapur",West,2200000.0,per_aana,20.0,Paved,,Bhaktapur
+"Pepsicola, Kathmandu",North,5500000.0,per_aana,13.0,Soil Stabilized,4.2,Kathmandu
+"Bhaisepati, Lalitpur",South,3800000.0,per_aana,13.0,Soil Stabilized,7.3,Lalitpur
+"Lokanthali, Bhaktapur",North-East,4600000.0,per_aana,20.0,Soil Stabilized,3.2,Bhaktapur
+"Pepsicola, Kathmandu",East,6500000.0,per_aana,14.0,Paved,,Kathmandu
+"Manamaiju, Kathmandu",South-West,5500000.0,per_aana,,,5.1,Kathmandu
+"Lokanthali, Bhaktapur",North-East,4900000.0,per_aana,26.0,Soil Stabilized,,Bhaktapur
+"Budhanilkantha, Kathmandu",North,4500000.0,per_aana,,,,Kathmandu
+"Baluwatar, Kathmandu",South,6800000.0,per_aana,,,,Kathmandu
+"Pasikot, Kathmandu",East,25000000.0,total,20.0,Black Topped,5.3,Kathmandu
+"Lokanthali, Bhaktapur",South,4500000.0,per_aana,10.0,Paved,,Bhaktapur
+"Pepsicola, Kathmandu",East,6500000.0,per_aana,14.0,Paved,,Kathmandu
+"Lubhu, Lalitpur",South-East,3200000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Pepsicola, Kathmandu",West,6000000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Thali, Kathmandu",West,3200000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Imadol, Lalitpur",North-East,4500000.0,per_aana,13.0,Paved,,Lalitpur
+"Dhobighat, Lalitpur",North,6500000.0,per_aana,,,,Lalitpur
+"Ochu Height, Lalitpur",East,4800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Changathali, Lalitpur",South,4000000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Hariyalinagar, Kathmandu",North,2200000.0,per_aana,16.0,Dhalan,,Kathmandu
+"Lubhu, Lalitpur",South,2800000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Chhauni, Kathmandu",South,6500000.0,per_aana,,,,Kathmandu
+"White Gumba, Kathmandu",East,1700000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Baluwa, Kathmandu",,950000.0,per_aana,13.0,Gravelled,3.1,Kathmandu
+"Ramkot, Kathmandu",South,3500000.0,per_aana,13.0,Dhalan,3.2,Kathmandu
+"Harisiddhi, Lalitpur",South,4000000.0,per_aana,20.0,Soil Stabilized,4.2,Lalitpur
+"Gundu, Bhaktapur",East,1500000.0,per_aana,,,,Bhaktapur
+"Budhanilkantha, Kathmandu",South-West,4300000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Shivanagar, Chitwan",East,,,20.0,Black Topped,,Unknown
+"Bhaisepati, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Tokha, Kathmandu",West,6800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Changathali, Lalitpur",South-East,3500000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Pepsicola, Kathmandu",East,6500000.0,per_aana,20.0,Soil Stabilized,4.2,Kathmandu
+"Kusunti, Lalitpur",East,,,26.0,Soil Stabilized,,Lalitpur
+"Hepali Height, Kathmandu",South,6500000.0,per_aana,,,3.2,Kathmandu
+"Bansbari, Kathmandu",South,6500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",East,5600000.0,per_aana,16.0,Dhalan,,Kathmandu
+"Budhanilkantha, Kathmandu",North,5500000.0,per_aana,,,,Kathmandu
+"Balkot, Bhaktapur",East,3800000.0,per_aana,13.0,Paved,,Bhaktapur
+"Sirutar, Bhaktapur",East,3100000.0,per_aana,13.0,Soil Stabilized,3.2,Bhaktapur
+"Lubhu, Lalitpur",South,2800000.0,per_aana,20.0,Paved,,Lalitpur
+"Tikathali, Lalitpur",South,3000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Sanagaun, Lalitpur",East,5500000.0,per_aana,13.0,Paved,2.2,Lalitpur
+"Maharajgunj, Kathmandu",South-East,7600000.0,per_aana,20.0,Black Topped,6.3,Kathmandu
+"Rampur, Dhanusa",West,,,20.0,Dhalan,0.4,Unknown
+"Banasthali, Kathmandu",,60000.0,per_sqm,,,,Kathmandu
+"Sirutar, Bhaktapur",South-West,2700000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Sirutar, Bhaktapur",East,3300000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Sitapakha, Lalitpur",South,4000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Sunkhani, Nuwakot",North,1400000.0,per_ropani,12.0,Soil Stabilized,,Unknown
+"Sunkhani, Nuwakot",East,125000000.0,total,16.0,Soil Stabilized,,Unknown
+"Lubhu, Lalitpur",North-West,2900000.0,per_aana,13.0,Soil Stabilized,3.2,Lalitpur
+"Lubhu, Lalitpur",East,4000000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Tikathali, Lalitpur",South,4500000.0,per_aana,13.0,Paved,,Lalitpur
+"Birtamode, Jhapa",North,800000.0,per_dhur,20.0,Soil Stabilized,,Unknown
+"Kadaghari, Kathmandu",South,3900000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Thali, Kathmandu",East,2000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Mulpani, Kathmandu",West,2500000.0,per_aana,15.0,Gravelled,3.3,Kathmandu
+"Harisiddhi, Lalitpur",West,4200000.0,per_aana,20.0,Paved,4.2,Lalitpur
+"Kharibot, Kathmandu",North-East,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Kavresthali, Kathmandu",South-West,1700000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Mechinagar, Jhapa",West,,,7.0,Black Topped,,Unknown
+"Bhaisepati, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Mahalaxmisthan, Lalitpur",South,8000000.0,per_aana,13.0,Paved,,Lalitpur
+"Kamerotar, Bhaktapur",North,5500000.0,per_aana,20.0,Paved,5.2,Bhaktapur
+"Old Baneshwor, Kathmandu",East,,,18.0,Dhalan,,Kathmandu
+"Gatthaghar, Bhaktapur",West,5500000.0,per_aana,10.0,Black Topped,6.1,Bhaktapur
+"Dahachowk, Kathmandu",,2400000.0,per_aana,12.0,Gravelled,5.3,Kathmandu
+"Imadol, Lalitpur",North-East,5800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Balkot, Bhaktapur",North,4400000.0,per_aana,20.0,Paved,4.2,Bhaktapur
+"Sunakothi, Lalitpur",South,3500000.0,per_aana,13.0,Paved,,Lalitpur
+"Shital Height, Lalitpur",North,4300000.0,per_aana,13.0,Soil Stabilized,4.1,Lalitpur
+"Shital Height, Lalitpur",North,4500000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Balkot, Bhaktapur",West,4000000.0,per_aana,13.0,Paved,4.1,Bhaktapur
+"Kapan, Kathmandu",North-East,4500000.0,per_aana,13.0,Paved,,Kathmandu
+"Sanagaun, Lalitpur",East,4200000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Pepsicola, Kathmandu",North-East,6500000.0,per_aana,20.0,Black Topped,5.2,Kathmandu
+"Balkot, Bhaktapur",East,6500000.0,per_aana,13.0,Paved,,Bhaktapur
+"Dhobighat, Lalitpur",South,7500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Pasikot, Kathmandu",East,5200000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Sirutar, Bhaktapur",South,3800000.0,per_aana,13.0,Paved,3.1,Bhaktapur
+"Sanepa, Lalitpur",South,8500000.0,per_aana,14.0,Black Topped,,Lalitpur
+"Sirutar, Bhaktapur",West,3800000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Tikathali, Lalitpur",North,3600000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Daskilla, Dhading",North,,,12.0,Gravelled,,Unknown
+"Bafal, Lalitpur",South-West,6500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Chapali, Kathmandu",North-West,5000000.0,per_aana,13.0,Black Topped,6.2,Kathmandu
+"Kuleshwor, Kathmandu",North-East,7500000.0,per_aana,16.0,Black Topped,8.2,Kathmandu
+"Chapali, Kathmandu",East,4500000.0,per_aana,,,4.2,Kathmandu
+"Guheshwori, Kathmandu",East,6500000.0,per_aana,12.0,Black Topped,2.2,Kathmandu
+"Kurtha, Dhanusa",North,900000.0,per_dhur,42.0,Black Topped,0.12,Unknown
+"Godawari, Lalitpur",East,2500000.0,per_aana,20.0,Paved,4.1,Lalitpur
+"Tikathali, Lalitpur",North-East,4000000.0,per_aana,13.0,Dhalan,3.1,Lalitpur
+"Mujeliya, Dhanusa",East,1500000.0,per_dhur,52.0,Dhalan,0.18,Unknown
+"Kurtha, Dhanusa",South,3000000.0,per_dhur,13.0,Soil Stabilized,,Unknown
+"Baluwatar, Kathmandu",South,8000000.0,per_aana,20.0,Black Topped,22.5,Kathmandu
+"Ganesh Chowk, Kathmandu",South,3700000.0,total,13.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",North-East,3800000.0,per_aana,20.0,Soil Stabilized,3.3,Lalitpur
+"Dhapakhel, Lalitpur",,2200000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Kurtha, Dhanusa",East,340000.0,per_dhur,,,0.22,Unknown
+"Ekatabasti, Kathmandu",West,25000000.0,total,13.0,Black Topped,,Kathmandu
+"Sanobharyang, Kathmandu",East,,,20.0,Black Topped,,Kathmandu
+"Kuleshwor, Kathmandu",North,6000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Kuleshwor, Kathmandu",South,8000000.0,per_aana,22.0,Black Topped,,Kathmandu
+"Dillibazar, Kathmandu",South,7700000.0,per_aana,20.0,Black Topped,4.2,Kathmandu
+"Thaiba, Lalitpur",West,2600000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Shital Height, Lalitpur",South,4100000.0,per_aana,12.0,Soil Stabilized,,Lalitpur
+"Lubhu, Lalitpur",North-East,3300000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Tikathali, Lalitpur",South,3800000.0,per_aana,8.0,Soil Stabilized,,Lalitpur
+"Chobhar, Kathmandu",North-East,2800000.0,per_aana,22.0,Black Topped,11.2,Kathmandu
+"Chobhar, Kathmandu",South-West,2800000.0,per_aana,20.0,Black Topped,5.2,Kathmandu
+"Imadol, Lalitpur",East,4300000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Imadol, Lalitpur",North,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Imadol, Lalitpur",South-West,4500000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Kuleshwor, Kathmandu",North-West,6000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Ramhiti, Kathmandu",East,,,12.0,Black Topped,19.2,Kathmandu
+"Harisiddhi, Lalitpur",South,3000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Bafal, Lalitpur",East,6800000.0,per_aana,12.0,Black Topped,,Lalitpur
+"Bafal, Lalitpur",South,6800000.0,per_aana,13.0,Black Topped,10.2,Lalitpur
+"Ochu Height, Lalitpur",South,3800000.0,total,10.0,Soil Stabilized,,Lalitpur
+"Radhe Radhe, Bhaktapur",South,,,,Black Topped,2.2,Bhaktapur
+"Imadol, Lalitpur",South-West,4500000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Gairidhara, Kathmandu",East,9000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sanepa, Lalitpur",South,8000000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Tokha Chandeshwori, Kathmandu",West,3000000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Ochu Height, Lalitpur",South,4100000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Zero Mile, Dhanusa",South-East,700000.0,total,14.0,Soil Stabilized,,Unknown
+"Pidariya Mai Temple, Dhanusa",North-West,800000.0,per_dhur,,,0.5,Unknown
+"Tahachal, Kathmandu",North-East,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",South-East,3700000.0,per_aana,13.0,Soil Stabilized,3.3,Lalitpur
+"Khahare, Kathmandu",,,,16.0,Black Topped,,Kathmandu
+"Harhar Mahadev, Kathmandu",,,,18.0,Black Topped,12.2,Kathmandu
+"Kageshwari Manohara, Kathmandu",East,,,15.0,Black Topped,,Kathmandu
+"Sankhu, Kathmandu",East,1650000.0,total,10.0,Black Topped,2.2,Kathmandu
+"Bhaisepati, Lalitpur",South,5200000.0,per_aana,13.0,Paved,,Lalitpur
+"Ochu Height, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Nil Barahi Mandir, Bhaktapur",South-East,3900000.0,total,,,4.2,Bhaktapur
+"Muhanpokhari, Kathmandu",West,3500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Siddhipur, Lalitpur",South,4300000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Kaushaltar, Bhaktapur",North,4000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Campus Chowk, Dhanusa",South,1500000.0,per_dhur,29.0,Black Topped,0.18,Unknown
+"Machhe Gaun, Kathmandu",North-East,13000000.0,total,14.0,Black Topped,,Kathmandu
+"Rajaul, Dhanusa",West,450000.0,per_dhur,14.0,Soil Stabilized,,Unknown
+"Mujeliya, Dhanusa",South,400000.0,per_dhur,15.0,Soil Stabilized,0.17,Unknown
+"Basundhara, Kathmandu",East,7000000.0,per_aana,13.0,Black Topped,7.1,Kathmandu
+"Sanagaun, Lalitpur",South,4100000.0,per_aana,20.0,Paved,,Lalitpur
+"Sanagaun Lubhu, Lalitpur",South,4100000.0,per_aana,20.0,Paved,,Lalitpur
+"Chalnakhel, Kathmandu",South,1800000.0,total,13.0,Black Topped,,Kathmandu
+"Hattiban, Lalitpur",North-East,4100000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Kurtha, Dhanusa",South,650000.0,per_dhur,42.0,Black Topped,0.13,Unknown
+"Sapantirtha, Kathmandu",South,3500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Sanagaun, Lalitpur",South,4200000.0,per_aana,13.0,Paved,,Lalitpur
+"Tikathali, Lalitpur",West,3400000.0,per_aana,13.0,Paved,,Lalitpur
+"Pidariya Mai Temple, Dhanusa",North,850000.0,per_dhur,12.0,Soil Stabilized,0.5,Unknown
+"Sitapaila, Kathmandu",South,,,13.0,Black Topped,,Kathmandu
+"Mujeliya, Dhanusa",North,400000.0,per_dhur,16.0,Soil Stabilized,0.17,Unknown
+"Mujeliya, Dhanusa",South-West,450000.0,per_dhur,13.0,Black Topped,0.11,Unknown
+"Lubhu, Lalitpur",North,3200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Chapali, Kathmandu",North-East,5100000.0,total,13.0,Black Topped,10.2,Kathmandu
+"Imadol, Lalitpur",East,4500000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Changathali, Lalitpur",South,3000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Imadol, Lalitpur",South,3800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Mills Area, Dhanusa",East,7500000.0,per_dhur,41.0,Black Topped,0.7,Unknown
+"Bega Shivapur, Dhanusa",North,700000.0,per_dhur,42.0,Black Topped,,Unknown
+"Mills Area, Dhanusa",South,1000000.0,per_dhur,26.0,Dhalan,0.7,Unknown
+"Old Baneshwor, Kathmandu",West,8000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Shital Height, Lalitpur",South-West,4000000.0,total,13.0,Soil Stabilized,,Lalitpur
+"Newroad, Kaski",East,,,,Black Topped,7.4,Unknown
+"Budhanilkantha, Kathmandu",North,4500000.0,total,13.0,Black Topped,,Kathmandu
+"Budhanilkantha, Kathmandu",East,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Mahendra Chowk, Morang",East,10000000.0,total,20.0,Gravelled,1.5,Unknown
+"Budhanilkantha, Kathmandu",West,4000000.0,per_aana,20.0,Black Topped,4.3,Kathmandu
+"Tikathali, Lalitpur",South,4200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Devichaur, Lalitpur",South,500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Tikathali, Lalitpur",North,3700000.0,per_aana,13.0,Paved,4.2,Lalitpur
+"Hattiban, Lalitpur",South,4800000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Changunarayan, Bhaktapur",North-West,2600000.0,per_aana,13.0,Black Topped,,Bhaktapur
+"Lubhu, Lalitpur",North,3200000.0,per_aana,13.0,Paved,,Lalitpur
+"Lubhu, Lalitpur",North,3200000.0,per_aana,13.0,Paved,,Lalitpur
+"Krishna Mandir, Kathmandu",East,3500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tokha, Kathmandu",North,3500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Lokanthali, Bhaktapur",West,6500000.0,per_aana,26.0,Soil Stabilized,3.2,Bhaktapur
+"Sanothimi, Bhaktapur",South-East,6500000.0,per_aana,20.0,Paved,,Bhaktapur
+"Pasikot, Kathmandu",East,4200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Hattigauda, Kathmandu",East,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bhangal , Kathmandu",South,4700000.0,total,12.0,Black Topped,,Kathmandu
+"Setipakha, Lalitpur",North-East,3800000.0,per_aana,13.0,Paved,,Lalitpur
+"Gwarko, Lalitpur",South-West,6500000.0,per_aana,13.0,Paved,,Lalitpur
+"Ochu Height, Lalitpur",West,4000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Sanothimi, Bhaktapur",South,5600000.0,per_aana,20.0,Paved,,Bhaktapur
+"Lama Gaun, Nuwakot",North-East,2500000.0,per_aana,13.0,Black Topped,25.2,Unknown
+"Harisiddhi, Lalitpur",North-West,3900000.0,per_aana,13.0,Paved,,Lalitpur
+"Narayanthan, Nuwakot",North-East,30800000.0,total,12.0,Gravelled,351.2,Unknown
+"Sanothimi, Bhaktapur",East,5900000.0,per_aana,20.0,Paved,,Bhaktapur
+"Sunkhani, Nuwakot",North-East,39000000.0,total,16.0,Gravelled,417.1,Unknown
+"Mathbhanjyang, Nuwakot",South,6600000.0,total,13.0,Gravelled,,Unknown
+"Thimi, Bhaktapur",East,3300000.0,per_aana,13.0,Paved,,Bhaktapur
+"Samakhusi, Kathmandu",East,6500000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Dhapakhel, Lalitpur",South,2800000.0,per_aana,10.0,Soil Stabilized,4.2,Lalitpur
+"Jhor, Kathmandu",East,3000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Pepsicola, Kathmandu",South,3500000.0,per_aana,22.0,Soil Stabilized,,Kathmandu
+"Sanothimi, Bhaktapur",South-West,6500000.0,per_aana,20.0,Paved,,Bhaktapur
+"Sirutar, Bhaktapur",East,2600000.0,per_aana,20.0,Paved,,Bhaktapur
+"Sanothimi, Bhaktapur",North-East,5800000.0,per_aana,13.0,Paved,3.2,Bhaktapur
+"Sanothimi, Bhaktapur",North-East,5700000.0,per_aana,20.0,Paved,,Bhaktapur
+"Sanothimi, Bhaktapur",East,6000000.0,per_aana,20.0,Paved,,Bhaktapur
+"Lokanthali, Bhaktapur",West,6500000.0,per_aana,26.0,Soil Stabilized,3.2,Bhaktapur
+"Nil Barahi Mandir, Bhaktapur",North-East,3900000.0,per_aana,20.0,Soil Stabilized,4.2,Bhaktapur
+"Kaushaltar, Bhaktapur",North,4000000.0,per_aana,13.0,Paved,,Bhaktapur
+"Bafal, Lalitpur",East,6500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Kalanki, Kathmandu",South,1800000.0,per_aana,3.0,Soil Stabilized,,Kathmandu
+"Ochu Height, Lalitpur",West,4000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Kanyam, Ilam",East,,,9.0,Dhalan,,Unknown
+"Setipakha, Lalitpur",North-East,3800000.0,per_aana,13.0,Paved,,Lalitpur
+"Hattiban, Lalitpur",South,4800000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Tikathali, Lalitpur",South,6000000.0,total,26.0,Black Topped,,Lalitpur
+"Balkot, Bhaktapur",South,3700000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Imadol, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Sanagaun, Lalitpur",East,4000000.0,per_aana,20.0,Dhalan,3.1,Lalitpur
+"Duwakot, Bhaktapur",South,2600000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Kaushaltar, Bhaktapur",South,4400000.0,per_aana,13.0,Soil Stabilized,2.2,Bhaktapur
+"Harisiddhi, Lalitpur",North-West,3900000.0,per_aana,13.0,Paved,,Lalitpur
+"Lokanthali, Bhaktapur",West,5500000.0,per_aana,16.0,Soil Stabilized,,Bhaktapur
+"Bhaisepati, Lalitpur",East,5500000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Godamchaur, Lalitpur",South,1150000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Thimi, Bhaktapur",South,4000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Tokha, Kathmandu",South-East,5000000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Gatthaghar, Bhaktapur",North,5800000.0,per_aana,24.0,Paved,5.2,Bhaktapur
+"Tikathali, Lalitpur",North-West,5500000.0,per_aana,13.0,Soil Stabilized,3.2,Lalitpur
+"Nikoshera, Bhaktapur",East,5500000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Chapali, Kathmandu",South,5500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Imadol, Lalitpur",South-East,6500000.0,per_aana,13.0,Soil Stabilized,5.3,Lalitpur
+"Bhaisepati, Lalitpur",East,5200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Kaushaltar, Bhaktapur",East,4300000.0,per_aana,20.0,Soil Stabilized,6.3,Bhaktapur
+"Tokha, Kathmandu",West,3800000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Hattigauda, Kathmandu",East,4300000.0,per_aana,13.0,Soil Stabilized,4.1,Kathmandu
+"Bhaisepati, Lalitpur",South,5800000.0,per_aana,13.0,Black Topped,5.1,Lalitpur
+"Balkot, Bhaktapur",East,4300000.0,per_aana,13.0,Soil Stabilized,3.3,Bhaktapur
+"Imadol, Lalitpur",East,4200000.0,per_aana,10.0,Soil Stabilized,,Lalitpur
+"Hattigauda, Kathmandu",North-East,4700000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Mulpani, Kathmandu",North-East,4300000.0,per_aana,13.0,Soil Stabilized,6.2,Kathmandu
+"Nikoshera, Bhaktapur",South-West,3700000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Kuleshwor, Kathmandu",North,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",North-West,3900000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Kaushaltar, Bhaktapur",North,4000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Lokanthali, Bhaktapur",North-West,5200000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Suncity, Kathmandu",South,6000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Balkot, Bhaktapur",East,5000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Gatthaghar, Bhaktapur",West,5800000.0,per_aana,20.0,Paved,,Bhaktapur
+"Mulpani, Kathmandu",South,3500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Pasikot, Kathmandu",South,4500000.0,per_aana,13.0,Gravelled,4.2,Kathmandu
+"Sanothimi, Bhaktapur",West,4000000.0,per_aana,20.0,Paved,,Bhaktapur
+"Dibyeshwori Townplanning, Bhaktapur",West,6300000.0,per_aana,20.0,Soil Stabilized,5.2,Bhaktapur
+"Hattigauda, Kathmandu",North-East,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Mulpani, Kathmandu",West,3700000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Sanagaun, Lalitpur",West,3800000.0,per_aana,20.0,Soil Stabilized,3.2,Lalitpur
+"Imadol, Lalitpur",North-East,6500000.0,per_aana,13.0,Paved,,Lalitpur
+"Basundhara, Kathmandu",West,5500000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Imadol, Lalitpur",North-East,6500000.0,total,12.0,Dhalan,,Lalitpur
+"Kuleshwor, Kathmandu",North,6000000.0,per_aana,18.0,Black Topped,,Kathmandu
+"Machhe Gaun, Kathmandu",South,3200000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Imadol, Lalitpur",North-West,6500000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Mulpani, Kathmandu",East,3500000.0,per_aana,10.0,Soil Stabilized,,Kathmandu
+"Mulpani, Kathmandu",North-East,4300000.0,per_aana,13.0,Soil Stabilized,6.2,Kathmandu
+"Mulpani, Kathmandu",South,3500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Mulpani, Kathmandu",North,3500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Pepsicola, Kathmandu",West,5800000.0,per_aana,20.0,Soil Stabilized,3.3,Kathmandu
+"Lubhu, Lalitpur",South,2800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Godamchaur, Lalitpur",East,,,12.0,Black Topped,,Lalitpur
+"Gatthaghar, Bhaktapur",West,5500000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Shital Height, Lalitpur",South,4800000.0,per_aana,13.0,Paved,,Lalitpur
+"Dhumbarahi, Kathmandu",South-East,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Kaushaltar, Bhaktapur",North,4000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Sanothimi, Bhaktapur",West,5500000.0,per_aana,,,,Bhaktapur
+"Imadol, Lalitpur",North-East,6500000.0,per_aana,13.0,Soil Stabilized,5.3,Lalitpur
+"Sukedhara, Kathmandu",South,7000000.0,per_aana,13.0,Black Topped,5.2,Kathmandu
+"Imadol, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Thimi, Bhaktapur",North-East,5000000.0,per_aana,20.0,Paved,,Bhaktapur
+"Thimi, Bhaktapur",South,4000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Mulpani, Kathmandu",North-East,4300000.0,per_aana,13.0,Soil Stabilized,6.2,Kathmandu
+"Imadol, Lalitpur",North,5000000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Damauli, Tanahun",East,,,20.0,Soil Stabilized,,Unknown
+"Bansbari, Kathmandu",North,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Samakhusi, Kathmandu",North,6000000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",North-West,3000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Imadol, Lalitpur",East,5000000.0,total,13.0,Soil Stabilized,,Lalitpur
+"Sanepa, Lalitpur",North,6500000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Dhumbarahi, Kathmandu",East,5500000.0,per_aana,10.0,Black Topped,2.3,Kathmandu
+"Sanepa, Lalitpur",West,6000000.0,per_aana,,,,Lalitpur
+"Bode, Bhaktapur",East,4000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Kaushaltar, Bhaktapur",West,4600000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Bhangal , Kathmandu",West,4200000.0,per_aana,28.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",South-East,3600000.0,per_aana,16.0,Soil Stabilized,,Lalitpur
+"Hattigauda, Kathmandu",West,4500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Bhaisepati, Lalitpur",East,6500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Chapali, Kathmandu",North,4500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Kaushaltar, Bhaktapur",East,4200000.0,total,13.0,Soil Stabilized,,Bhaktapur
+"Chhaimale, Kathmandu",East,,,16.0,Soil Stabilized,266.2,Kathmandu
+"Sanagaun, Lalitpur",West,3600000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Imadol, Lalitpur",East,4700000.0,per_aana,13.0,Paved,,Lalitpur
+"Dhulikhel, Kavrepalanchok",North-East,2000000.0,per_aana,20.0,Black Topped,4.2,Unknown
+"Phutung, Kathmandu",North-West,5000000.0,per_aana,22.0,Black Topped,4.3,Kathmandu
+"Balaju, Kathmandu",South-West,17500000.0,total,13.0,Black Topped,2.2,Kathmandu
+"Nepaltar, Kathmandu",South-West,5500000.0,per_aana,13.0,Black Topped,5.2,Kathmandu
+"Imadol, Lalitpur",South,3300000.0,per_aana,13.0,Soil Stabilized,3.2,Lalitpur
+"Nepaltar, Kathmandu",South-West,5700000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Imadol, Lalitpur",North,4500000.0,per_aana,13.0,Dhalan,3.2,Lalitpur
+"Nepaltar, Kathmandu",South,6000000.0,per_aana,13.0,Black Topped,5.2,Kathmandu
+"Nepaltar, Kathmandu",West,4500000.0,per_aana,22.0,Gravelled,,Kathmandu
+"Mulpani, Kathmandu",North-East,4300000.0,per_aana,13.0,Soil Stabilized,6.2,Kathmandu
+"Kaushaltar, Bhaktapur",South,5500000.0,per_aana,20.0,Soil Stabilized,3.3,Bhaktapur
+"Imadol, Lalitpur",West,3800000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Kalanki, Kathmandu",North-West,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Kaushaltar, Bhaktapur",West,4500000.0,per_aana,13.0,Soil Stabilized,3.2,Bhaktapur
+"Kalanki, Kathmandu",North-East,4000000.0,per_aana,13.0,Black Topped,3.1,Kathmandu
+"Mulpani, Kathmandu",North-East,4300000.0,per_aana,13.0,Soil Stabilized,6.2,Kathmandu
+"Nagdaha, Lalitpur",East,2100000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Paknajol, Kathmandu",South,14000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",South,4200000.0,total,13.0,Soil Stabilized,,Lalitpur
+"Lubhu, Lalitpur",South,2800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Chasidol, Lalitpur",North,2700000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Chasidol, Lalitpur",South,2600000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Kaushaltar, Bhaktapur",West,5000000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Ochu Height, Lalitpur",East,3800000.0,per_aana,13.0,Paved,,Lalitpur
+"Gothatar, Kathmandu",East,4500000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Lubhu, Lalitpur",South-East,3600000.0,per_aana,16.0,Soil Stabilized,,Lalitpur
+"Grande Hospital, Kathmandu",North,5500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Dharmasthali, Kathmandu",South-East,5500000.0,per_aana,22.0,Black Topped,,Kathmandu
+"Ochu Height, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Lokanthali, Bhaktapur",East,6200000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Kaushaltar, Bhaktapur",South,4300000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Budhanilkantha, Kathmandu",East,3500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Dillibazar, Kathmandu",South,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Panchkhal, Kavrepalanchok",East,100000000.0,total,,Black Topped,,Unknown
+"Bhaisepati, Lalitpur",South,5200000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Bhatkeko Pool, Kathmandu",South,9000000.0,per_aana,30.0,Black Topped,8.1,Kathmandu
+"Banepa, Kavrepalanchok",South-West,4800000.0,per_aana,20.0,Black Topped,4.1,Unknown
+"Banepa, Kavrepalanchok",North,2000000.0,per_aana,15.0,Gravelled,25.3,Unknown
+"Dhulikhel, Kavrepalanchok",South,400000.0,per_aana,15.0,Gravelled,,Unknown
+"Dhulikhel, Kavrepalanchok",South-West,1500000.0,per_aana,15.0,Black Topped,4.3,Unknown
+"Bisankhunarayan, Lalitpur",South-West,1200000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Darjeeling Height, Bhaktapur",South-West,3500000.0,per_aana,20.0,Soil Stabilized,,Bhaktapur
+"Kharipati, Bhaktapur",North,3000000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Sanothimi, Bhaktapur",West,4000000.0,per_aana,14.0,Black Topped,3.2,Bhaktapur
+"Katunje, Bhaktapur",East,4800000.0,per_aana,15.0,Black Topped,,Bhaktapur
+"Grande Hospital, Kathmandu",West,4900000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Shankhu Patichaur, Kavrepalanchok",South,375000.0,per_aana,13.0,Soil Stabilized,,Unknown
+"Shankhu Patichaur, Kavrepalanchok",South,400000.0,per_aana,16.0,Soil Stabilized,42.1,Unknown
+"Kaushaltar, Bhaktapur",South,5000000.0,per_aana,16.0,Soil Stabilized,,Bhaktapur
+"Sudal, Bhaktapur",South-East,2300000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Gatthaghar, Bhaktapur",North,5800000.0,per_aana,24.0,Dhalan,5.2,Bhaktapur
+"Kaushaltar, Bhaktapur",South-East,4200000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Lokanthali, Bhaktapur",North-West,5200000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Kaushaltar, Bhaktapur",West,4600000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Bhaisepati, Lalitpur",South,5800000.0,per_aana,13.0,Paved,5.1,Lalitpur
+"Kaushaltar, Bhaktapur",East,5000000.0,per_aana,13.0,Paved,,Bhaktapur
+"Gatthaghar, Bhaktapur",North-East,5700000.0,per_aana,20.0,Paved,6.1,Bhaktapur
+"Gothatar, Kathmandu",South,4000000.0,per_aana,12.0,Paved,,Kathmandu
+"Hattiban, Lalitpur",East,5500000.0,per_aana,20.0,Gravelled,3.1,Lalitpur
+"Basundhara, Kathmandu",East,5500000.0,per_aana,13.0,Paved,,Kathmandu
+"Chobhar, Kathmandu",South,50000.0,per_sqm,16.0,Black Topped,,Kathmandu
+"Duwakot, Bhaktapur",South,2600000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Helmet Danda, Bhaktapur",North-West,4000000.0,per_aana,13.0,Dhalan,2.2,Bhaktapur
+"Mahadevtar, Kathmandu",West,31000000.0,total,13.0,Black Topped,5.2,Kathmandu
+"Lubhu, Lalitpur",South-West,2800000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Pepsicola, Kathmandu",East,8000000.0,total,20.0,Soil Stabilized,,Kathmandu
+"Sudal, Bhaktapur",East,2400000.0,per_aana,32.0,Black Topped,4.2,Bhaktapur
+"Nagdaha, Lalitpur",East,2100000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Pepsicola, Kathmandu",West,6200000.0,per_aana,20.0,Soil Stabilized,5.3,Kathmandu
+"Imadol, Lalitpur",East,4300000.0,per_aana,13.0,Paved,3.3,Lalitpur
+"Balkot, Bhaktapur",South,3800000.0,per_aana,20.0,Dhalan,,Bhaktapur
+"Satungal, Kathmandu",North,3700000.0,per_aana,13.0,Gravelled,3.1,Kathmandu
+"Satungal, Kathmandu",South,3700000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Dadhikot, Bhaktapur",East,2400000.0,per_aana,20.0,Gravelled,5.2,Bhaktapur
+"Lubhu, Lalitpur",South-West,2800000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Pepsicola, Kathmandu",West,5700000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Devdaha, Rupandehi",South,,,,,,Unknown
+"Imadol, Lalitpur",East,5800000.0,per_aana,20.0,Dhalan,8.3,Lalitpur
+"Bhaisepati, Lalitpur",South,4000000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Bhaisepati, Lalitpur",South-East,6500000.0,per_aana,13.0,Soil Stabilized,3.3,Lalitpur
+"Tikathali, Lalitpur",North,3200000.0,per_aana,10.0,Soil Stabilized,2.3,Lalitpur
+"Baluwatar, Kathmandu",North,6800000.0,per_aana,12.0,Black Topped,4.1,Kathmandu
+"Panchetar, Kathmandu",South,17000000.0,total,20.0,Black Topped,4.2,Kathmandu
+"Sanothimi, Bhaktapur",South,4300000.0,per_aana,12.0,Dhalan,4.2,Bhaktapur
+"Kaushaltar, Bhaktapur",East,5000000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Tikathali, Lalitpur",South,4200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Hattiban, Lalitpur",West,3800000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Hattiban, Lalitpur",North,3700000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Hattiban, Lalitpur",North,5000000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Sanothimi, Bhaktapur",South,3600000.0,per_aana,13.0,Soil Stabilized,3.1,Bhaktapur
+"Tikathali, Lalitpur",North,3200000.0,per_aana,10.0,Soil Stabilized,2.3,Lalitpur
+"Nagdaha, Lalitpur",East,2100000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Imadol, Lalitpur",South-East,4000000.0,per_aana,13.0,Soil Stabilized,2.2,Lalitpur
+"Duwakot, Bhaktapur",East,3100000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Harisiddhi, Lalitpur",South-West,75000000.0,total,13.0,Dhalan,,Lalitpur
+"Lubhu, Lalitpur",South-West,2800000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Jawalakhel, Lalitpur",South,40000000.0,total,12.0,Black Topped,,Lalitpur
+"Hattiban, Lalitpur",South,3600000.0,per_aana,13.0,Soil Stabilized,3.3,Lalitpur
+"Shital Height, Lalitpur",South-West,4400000.0,per_aana,20.0,Dhalan,4.2,Lalitpur
+"Hattiban, Lalitpur",West,4800000.0,per_aana,26.0,Dhalan,,Lalitpur
+"Pikhel, Bhaktapur",,4500000.0,total,13.0,Gravelled,3.3,Bhaktapur
+"Imadol, Lalitpur",North,4300000.0,per_aana,12.0,Soil Stabilized,3.1,Lalitpur
+"Hattiban, Lalitpur",West,5400000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Bafal, Kathmandu",East,6700000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Nagdaha, Lalitpur",East,2100000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Chobhar, Kathmandu",East,3000000.0,per_aana,12.0,Dhalan,,Kathmandu
+"Setipakha, Lalitpur",East,,,23.0,Dhalan,5.3,Lalitpur
+"Suryabinayak, Bhaktapur",South,35000.0,per_sqm,,,,Bhaktapur
+"Manamaiju, Kathmandu",East,4500000.0,per_aana,,,,Kathmandu
+"Sanothimi, Bhaktapur",South,3600000.0,total,13.0,Dhalan,4.1,Bhaktapur
+"Sanothimi, Bhaktapur",South,4200000.0,per_aana,13.0,Dhalan,4.3,Bhaktapur
+"Machhegaun , Kathmandu",South-East,1900000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Bafal, Kathmandu",South-East,5500000.0,per_aana,13.0,Paved,,Kathmandu
+"Rudreshwor, Kathmandu",West,5000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Bafal, Kathmandu",West,5500000.0,per_aana,13.0,Paved,,Kathmandu
+"Kalanki, Kathmandu",West,5000000.0,per_aana,13.0,Paved,,Kathmandu
+"Dhumbarahi, Kathmandu",East,6700000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tokha, Kathmandu",South,3500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Dachhila, Dhading",East,4100000.0,per_ropani,22.0,Black Topped,,Unknown
+"Sitapaila, Kathmandu",North,4500000.0,total,21.0,Black Topped,5.2,Kathmandu
+"Budhanilkantha, Kathmandu",East,3800000.0,per_aana,16.0,Black Topped,13.1,Kathmandu
+"Lubhu, Lalitpur",North,3750000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Deuwa chowk, Kathmandu",South-East,,,13.0,Dhalan,,Kathmandu
+"Deuwa chowk, Kathmandu",South-East,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",East,2700000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sunakothi, Lalitpur",East,4500000.0,per_aana,14.0,Dhalan,,Lalitpur
+"Setipakha, Lalitpur",South-East,5500000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Sunakothi, Lalitpur",South-East,4500000.0,per_aana,12.0,Soil Stabilized,,Lalitpur
+"Chunikhel, Kathmandu",South,3000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sunakothi, Lalitpur",South-East,5000000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Sunakothi, Lalitpur",North-East,4500000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Suryadarshan Height, Kathmandu",North-East,4000000.0,per_aana,13.0,Dhalan,3.3,Kathmandu
+"Kakani, Nuwakot",North,,,26.0,Soil Stabilized,,Unknown
+"Sitapaila, Kathmandu",North-West,2500000.0,per_aana,20.0,Dhalan,5.1,Kathmandu
+"Dharmasthali, Kathmandu",South,3500000.0,per_aana,20.0,Soil Stabilized,4.1,Kathmandu
+"Kavresthali, Kathmandu",South-East,2700000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Jitpurphedi, Kathmandu",North,2350000.0,per_aana,20.0,Gravelled,4.1,Kathmandu
+"Jarankhu, Kathmandu",East,3300000.0,per_aana,12.0,Gravelled,,Kathmandu
+"Pasikot, Kathmandu",West,4500000.0,per_aana,22.0,Black Topped,,Kathmandu
+"Thankot, Kathmandu",South,3350000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Bungamati, Lalitpur",East,2500000.0,per_aana,20.0,Gravelled,3.2,Lalitpur
+"Bhangal , Kathmandu",East,4500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Imadol, Lalitpur",West,4300000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Damaitar, Lalitpur",North,,,13.0,Soil Stabilized,,Lalitpur
+"Rudreshwor, Kathmandu",North-East,6000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sanepa, Lalitpur",East,9000000.0,per_aana,20.0,Black Topped,4.0,Lalitpur
+"Kalanki, Kathmandu",West,8000000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Kalanki, Kathmandu",South-East,7000000.0,per_aana,13.0,Dhalan,3.1,Kathmandu
+"Tikathali, Lalitpur",South-East,3800000.0,per_aana,,,4.2,Lalitpur
+"Pukhulachhi, Kathmandu",East,2250000.0,per_aana,12.0,Dhalan,,Kathmandu
+"Balkot, Bhaktapur",North-East,4500000.0,per_aana,26.0,Black Topped,,Bhaktapur
+"Imadol, Lalitpur",North,4300000.0,per_aana,13.0,Dhalan,3.1,Lalitpur
+"Thankot, Kathmandu",South-East,2600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Imadol, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,9.2,Lalitpur
+"Dhapakhel, Lalitpur",,4200000.0,per_aana,13.0,Black Topped,3.2,Lalitpur
+"Kalanki, Kathmandu",South-East,4100000.0,per_aana,13.0,Black Topped,6.2,Kathmandu
+"Dhumbarahi, Kathmandu",South,23000000.0,total,13.0,Black Topped,,Kathmandu
+"Dhumbarahi, Kathmandu",North,8500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sanagaun Lubhu, Lalitpur",North,3200000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Ochu Height, Lalitpur",South,5000000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Chapagaun, Lalitpur",West,1580000.0,per_aana,13.0,Gravelled,3.3,Lalitpur
+"Suryadarshan Height, Kathmandu",South-East,,,16.0,Black Topped,4.5,Kathmandu
+"Bouddha, Kathmandu",South,,,12.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",South-East,3800000.0,per_aana,16.0,Dhalan,4.1,Lalitpur
+"Chhaimale, Kathmandu",East,619000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Imadol, Lalitpur",West,3900000.0,per_aana,10.0,Soil Stabilized,3.3,Lalitpur
+"Bhaisepati, Lalitpur",South,4000000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Bhaisepati, Lalitpur",East,3800000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Bhaisepati, Lalitpur",South,3800000.0,per_aana,15.0,Soil Stabilized,,Lalitpur
+"Hattiban, Lalitpur",North-East,,,13.0,Paved,,Lalitpur
+"Katunje, Bhaktapur",South-West,3800000.0,per_aana,13.0,Dhalan,4.1,Bhaktapur
+"Naya Naikap, Kathmandu",South-East,4000000.0,per_aana,26.0,Dhalan,,Kathmandu
+"Lubhu, Lalitpur",North,3200000.0,per_aana,13.0,Black Topped,3.2,Lalitpur
+"Lubhu, Lalitpur",South,3200000.0,per_aana,,,3.2,Lalitpur
+"Lubhu, Lalitpur",South,3200000.0,per_aana,12.0,Soil Stabilized,3.1,Lalitpur
+"Bhaisepati, Lalitpur",North-West,4500000.0,per_aana,14.0,Dhalan,4.2,Lalitpur
+"Chobhar, Kathmandu",North-West,3000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Chobhar, Kathmandu",North-West,2700000.0,per_aana,8.0,Black Topped,,Kathmandu
+"Dhalpa road, Kathmandu",South,96000000.0,total,20.0,Black Topped,42.3,Kathmandu
+"Bhaisepati, Lalitpur",South,6500000.0,per_aana,15.0,Black Topped,,Lalitpur
+"Changathali, Lalitpur",South,3200000.0,per_aana,12.0,Soil Stabilized,,Lalitpur
+"Narayanthan , Kathmandu",South,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",North-East,3100000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Jharuwarasi, Lalitpur",South,2500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Dhangadhi, Kailali",East,,,36.0,Black Topped,,Unknown
+"Harisiddhi, Lalitpur",South,3600000.0,per_aana,26.0,Black Topped,4.2,Lalitpur
+"Tyanglafat, Kathmandu",North-East,5000000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Tyanglafat, Kathmandu",North-East,5500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tyanglafat, Kathmandu",West,5000000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Maitrinagar, Kathmandu",North-East,4500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Nakhudole, Lalitpur",South,4950000.0,per_aana,10.0,Paved,,Lalitpur
+"Naubise, Dhading",East,9500000.0,total,,Dhalan,5.1,Unknown
+"Chapali, Kathmandu",West,4600000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Chandol, Kathmandu",North-East,8000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Maharajgunj, Kathmandu",South,7000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Kalanki, Kathmandu",South,3500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Gairidhara, Kathmandu",East,16000000.0,per_aana,30.0,Black Topped,,Kathmandu
+"Naxal, Kathmandu",,10000000.0,per_aana,23.0,Black Topped,,Kathmandu
+"Baluwatar, Kathmandu",East,8500000.0,per_aana,,,,Kathmandu
+"Chundevi, Kathmandu",South-West,7500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Kalanki, Kathmandu",West,3500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Thamel, Kathmandu",North-East,15000000.0,per_aana,20.0,Black Topped,11.2,Kathmandu
+"Imadol, Lalitpur",North,5700000.0,per_aana,14.0,Dhalan,,Lalitpur
+"Sanagaun Lubhu, Lalitpur",North,10000000.0,total,12.0,Dhalan,2.2,Lalitpur
+"Bhangal , Kathmandu",South,4700000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",West,3400000.0,per_aana,11.0,Dhalan,4.3,Lalitpur
+"Lubhu, Lalitpur",East,3600000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Lubhu, Lalitpur",West,4300000.0,per_aana,22.0,Paved,3.2,Lalitpur
+"Lubhu, Lalitpur",East,3800000.0,per_aana,,,,Lalitpur
+"Lubhu, Lalitpur",East,4000000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Lubhu, Lalitpur",South,4200000.0,per_aana,20.0,Paved,,Lalitpur
+"Chandol, Kathmandu",South,6500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Dhunchepakha, Bhaktapur",East,4200000.0,per_aana,20.0,Paved,,Bhaktapur
+"Balajutar, Kathmandu",West,3500000.0,per_aana,5.0,Black Topped,,Kathmandu
+"Dhunchepakha, Bhaktapur",East,3600000.0,per_aana,20.0,Gravelled,6.1,Bhaktapur
+"Sanobharyang, Kathmandu",North-West,5500000.0,per_aana,10.0,Black Topped,6.2,Kathmandu
+"Harhar Mahadev, Kathmandu",South,3300000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sanobharyang, Kathmandu",South,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Mhaipi, Kathmandu",,5000000.0,per_aana,8.0,Paved,3.1,Kathmandu
+"Sorhakhutte, Kathmandu",South,6500000.0,per_aana,13.0,Black Topped,7.2,Kathmandu
+"Chamati, Kathmandu",South,8500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Halchowk, Kathmandu",South-East,2500000.0,per_aana,3.0,Black Topped,,Kathmandu
+"Balaju, Kathmandu",South-East,5500000.0,per_aana,10.0,Black Topped,3.1,Kathmandu
+"Chhetrapati, Kathmandu",South,5000000.0,per_aana,5.0,Black Topped,,Kathmandu
+"Lazimpat, Kathmandu",East,7000000.0,per_aana,8.0,Black Topped,,Kathmandu
+"Naya Bazar, Kathmandu",North-West,12500000.0,per_aana,40.0,Black Topped,,Kathmandu
+"Halchowk, Kathmandu",South-West,3200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Baluwatar, Kathmandu",North-East,7700000.0,per_aana,10.0,Black Topped,8.2,Kathmandu
+"Gairidhara, Kathmandu",South-East,6500000.0,per_aana,12.0,Black Topped,7.1,Kathmandu
+"Balkhu, Kathmandu",North,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Handigaun, Kathmandu",North,6500000.0,per_aana,18.0,Black Topped,,Kathmandu
+"Sitapaila, Kathmandu",North-West,5000000.0,per_aana,13.0,Black Topped,10.2,Kathmandu
+"Lazimpat, Kathmandu",East,9500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Teku, Kathmandu",East,6000000.0,per_aana,10.0,Black Topped,,Kathmandu
+"Kalanki, Kathmandu",South-East,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Maharajgunj, Kathmandu",North,6000000.0,per_aana,18.0,Black Topped,,Kathmandu
+"Kuleshwor, Kathmandu",North,6000000.0,per_aana,10.0,Black Topped,,Kathmandu
+"Balkhu, Kathmandu",South,5500000.0,per_aana,8.0,Black Topped,,Kathmandu
+"Chamati, Kathmandu",South,7500000.0,per_aana,20.0,Black Topped,5.2,Kathmandu
+"Kuleshwor, Kathmandu",South,8500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Lazimpat, Kathmandu",North,10000000.0,per_aana,16.0,Black Topped,6.2,Kathmandu
+"Bishalnagar, Kathmandu",East,11500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Naya Bazar, Kathmandu",North,12500000.0,per_aana,20.0,Black Topped,7.2,Kathmandu
+"Samakhusi, Kathmandu",South,5200000.0,per_aana,13.0,Black Topped,9.2,Kathmandu
+"Kirtipur, Kathmandu",East,2300000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",North-East,3200000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Gongabu, Kathmandu",South,,,10.0,Black Topped,,Kathmandu
+"Lazimpat, Kathmandu",South-East,8000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sanobharyang, Kathmandu",South,5200000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Mahalaxmisthan, Lalitpur",South-East,87500000.0,total,20.0,Black Topped,10.1,Lalitpur
+"Dhobighat, Lalitpur",West,8000000.0,per_aana,16.0,Black Topped,,Lalitpur
+"Godawari, Lalitpur",West,2500000.0,per_aana,12.0,Gravelled,4.1,Lalitpur
+"Dhapakhel, Lalitpur",South,6200000.0,per_aana,13.0,Black Topped,11.5,Lalitpur
+"Dhapakhel, Lalitpur",North-West,85000000.0,total,16.0,Black Topped,,Lalitpur
+"Bhanimandal, Lalitpur",West,10500000.0,per_aana,10.0,Black Topped,,Lalitpur
+"Kupandole, Lalitpur",North-East,8500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Dhapakhel, Lalitpur",North-East,5300000.0,per_aana,16.0,Black Topped,,Lalitpur
+"Dhapakhel, Lalitpur",South-West,5500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Nakhipot, Lalitpur",South-West,3800000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Nakhipot, Lalitpur",East,3800000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Godawari, Lalitpur",North-West,2600000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Godawari, Lalitpur",West,1800000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Jharuwarasi, Lalitpur",East,2600000.0,per_aana,10.0,Soil Stabilized,,Lalitpur
+"Godawari, Lalitpur",South,1850000.0,per_aana,13.0,Soil Stabilized,4.3,Lalitpur
+"Hattiban, Lalitpur",East,5600000.0,per_aana,16.0,Paved,,Lalitpur
+"Dhobighat, Lalitpur",East,8500000.0,per_aana,24.0,Black Topped,,Lalitpur
+"Soltimode, Kathmandu",South,9500000.0,per_aana,14.0,Paved,,Kathmandu
+"Kuleshwor, Kathmandu",West,10000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Godawari, Lalitpur",East,2300000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Godawari, Lalitpur",North-East,2600000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Mahalaxmisthan, Lalitpur",South,8500000.0,per_aana,18.0,Black Topped,,Lalitpur
+"Jwagal, Lalitpur",East,7500000.0,per_aana,13.0,Black Topped,5.8,Lalitpur
+"Dhobighat, Lalitpur",East,5000000.0,per_aana,12.0,Black Topped,,Lalitpur
+"Jawalakhel, Lalitpur",East,13500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Jharuwarasi, Lalitpur",South-East,2000000.0,per_aana,10.0,Gravelled,,Lalitpur
+"Thasikhel, Lalitpur",East,6500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Nakhipot, Lalitpur",South-West,4500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Jhamsikhel, Lalitpur",West,16500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Sanepa, Lalitpur",East,13500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Jhamsikhel, Lalitpur",North,13000000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Godamchaur, Lalitpur",South,2500000.0,per_aana,20.0,Gravelled,3.5,Lalitpur
+"Ochu Height, Lalitpur",North-East,4000000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Sanepa, Lalitpur",South,6500000.0,per_aana,13.0,Gravelled,7.2,Lalitpur
+"Sanepa, Lalitpur",North,8500000.0,per_aana,10.0,Soil Stabilized,,Lalitpur
+"Tikathali, Lalitpur",South-West,4300000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Tikathali, Lalitpur",East,4300000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Bhaisepati, Lalitpur",East,3200000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Sunakothi, Lalitpur",North-East,4200000.0,per_aana,20.0,Paved,,Lalitpur
+"Tikathali, Lalitpur",North,4300000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Nakhipot, Lalitpur",East,6000000.0,per_aana,26.0,Paved,,Lalitpur
+"Thecho, Lalitpur",West,2350000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Chapagaun, Lalitpur",East,1800000.0,per_aana,13.0,Paved,19.1,Lalitpur
+"Sunakothi, Lalitpur",South-East,4200000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sunakothi, Lalitpur",South,4000000.0,per_aana,13.0,Paved,4.2,Lalitpur
+"Godawari, Lalitpur",West,1300000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Godawari, Lalitpur",South-East,1600000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Jharuwarasi, Lalitpur",West,1800000.0,per_aana,20.0,Soil Stabilized,3.2,Lalitpur
+"Dhulikhel, Kavrepalanchok",South-West,3000000.0,per_ropani,14.0,Soil Stabilized,,Unknown
+"Tikathali, Lalitpur",South,4300000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Lubhu, Lalitpur",North,2800000.0,per_aana,13.0,Paved,,Lalitpur
+"Tikathali, Lalitpur",South,3800000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Changathali, Lalitpur",East,3800000.0,per_aana,13.0,Dhalan,3.5,Lalitpur
+"Godawari, Lalitpur",North-West,2000000.0,per_aana,13.0,Soil Stabilized,4.1,Lalitpur
+"Baneshwor, Kathmandu",South,13000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Baneshwor, Kathmandu",East,8000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Baneshwor, Kathmandu",East,7600000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Baneshwor, Kathmandu",East,11000000.0,per_aana,22.0,Black Topped,,Kathmandu
+"Dillibazar, Kathmandu",East,7500000.0,per_aana,12.0,Black Topped,6.3,Kathmandu
+"Maitidevi, Kathmandu",South,9000000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Baneshwor, Kathmandu",East,8500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Baneshwor, Kathmandu",North,6800000.0,per_aana,12.0,Black Topped,6.2,Kathmandu
+"Nagdaha, Lalitpur",East,3300000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Nagdaha, Lalitpur",South-West,3200000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Nagdaha, Lalitpur",South-West,3200000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Jharuwarasi, Lalitpur",West,1600000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Jharuwarasi, Lalitpur",East,2000000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Nagdaha, Lalitpur",North-West,2600000.0,per_aana,13.0,Paved,,Lalitpur
+"Nagdaha, Lalitpur",East,2000000.0,per_aana,13.0,Paved,,Lalitpur
+"Dhapakhel, Lalitpur",North-East,4500000.0,per_aana,13.0,Paved,,Lalitpur
+"Nakhipot, Lalitpur",East,4500000.0,per_aana,13.0,Paved,4.2,Lalitpur
+"Sunakothi, Lalitpur",South,4000000.0,per_aana,16.0,Paved,,Lalitpur
+"Duwakot, Bhaktapur",West,3200000.0,per_aana,13.0,Gravelled,3.2,Bhaktapur
+"Thecho, Lalitpur",South,2200000.0,per_aana,13.0,Paved,,Lalitpur
+"Kusunti, Lalitpur",West,5500000.0,per_aana,13.0,Paved,,Lalitpur
+"Kusunti, Lalitpur",South,6500000.0,per_aana,20.0,Paved,,Lalitpur
+"Duwakot, Bhaktapur",East,3500000.0,per_aana,13.0,Gravelled,3.5,Bhaktapur
+"Nikoshera, Bhaktapur",East,3800000.0,per_aana,20.0,Gravelled,3.5,Bhaktapur
+"Sallaghari, Bhaktapur",East,4200000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Harisiddhi, Lalitpur",North-East,3200000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Bagdol, Lalitpur",South,5500000.0,per_aana,20.0,Paved,,Lalitpur
+"Satdobato, Lalitpur",North,3500000.0,per_aana,8.0,Paved,,Lalitpur
+"Satdobato, Lalitpur",North,3500000.0,per_aana,8.0,Paved,,Lalitpur
+"Gothatar, Kathmandu",North,5100000.0,per_aana,20.0,Paved,5.2,Kathmandu
+"Lubhu, Lalitpur",North,2500000.0,per_aana,36.0,Paved,,Lalitpur
+"Lubhu, Lalitpur",South-East,1900000.0,per_aana,36.0,Paved,15.1,Lalitpur
+"Lubhu, Lalitpur",North-East,2200000.0,per_aana,36.0,Paved,,Lalitpur
+"Shital Height, Lalitpur",East,3600000.0,per_aana,13.0,Paved,,Lalitpur
+"Imadol, Lalitpur",East,4200000.0,per_aana,13.0,Paved,,Lalitpur
+"Imadol, Lalitpur",North,4500000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Balkot, Bhaktapur",North,4100000.0,per_aana,13.0,Gravelled,3.3,Bhaktapur
+"Balkot, Bhaktapur",West,3800000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Changathali, Lalitpur",South-East,2850000.0,per_aana,10.0,Paved,9.3,Lalitpur
+"Godawari, Lalitpur",South,2800000.0,per_aana,13.0,Paved,,Lalitpur
+"Jhamsikhel, Lalitpur",South-East,18000000.0,per_aana,33.0,Paved,,Lalitpur
+"Lamatar, Lalitpur",East,2600000.0,per_aana,20.0,Paved,3.2,Lalitpur
+"Bhaisepati, Lalitpur",East,1250000.0,per_aana,13.0,Paved,,Lalitpur
+"Sanagaun, Lalitpur",,3200000.0,per_aana,13.0,Paved,,Lalitpur
+"Shankhamul, Kathmandu",East,7500000.0,per_aana,26.0,Black Topped,10.3,Kathmandu
+"Shankhamul, Kathmandu",North,8000000.0,per_aana,13.0,Black Topped,5.3,Kathmandu
+"Tinkune, Kathmandu",North,8500000.0,per_aana,25.0,Black Topped,,Kathmandu
+"Baneshwor, Kathmandu",North,9000000.0,per_aana,10.0,Black Topped,,Kathmandu
+"Koteshwor, Kathmandu",South,7500000.0,per_aana,13.0,Black Topped,7.2,Kathmandu
+"Anamnagar, Kathmandu",North-East,10000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Koteshwor, Kathmandu",North,5500000.0,per_aana,10.0,Black Topped,4.2,Kathmandu
+"Baneshwor, Kathmandu",West,8500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Putalisadak, Kathmandu",North,15000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",West,7500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",East,8000000.0,per_aana,12.0,Black Topped,3.1,Kathmandu
+"Dillibazar, Kathmandu",East,14000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Putalisadak, Kathmandu",South,12500000.0,per_aana,5.0,Gravelled,,Kathmandu
+"Nagdaha, Lalitpur",South-East,2800000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Lele, Lalitpur",South-West,1000000.0,per_aana,13.0,Paved,,Lalitpur
+"Lubhu, Lalitpur",East,3200000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Kalanki, Kathmandu",North-East,4500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Kalanki, Kathmandu",South-East,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Setipakha, Lalitpur",North-East,6000000.0,per_aana,20.0,Paved,,Lalitpur
+"Gwarko, Lalitpur",West,95000000.0,total,22.0,Paved,9.2,Lalitpur
+"Tikathali, Lalitpur",East,4300000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Bhaisepati, Lalitpur",North-East,2500000.0,per_aana,10.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",North-East,5500000.0,per_aana,22.0,Paved,,Lalitpur
+"Dhapakhel, Lalitpur",South,15500000.0,total,13.0,Gravelled,3.2,Lalitpur
+"Sitapakha, Lalitpur",West,25200000.0,total,13.0,Gravelled,,Lalitpur
+"Imadol, Lalitpur",South,4900000.0,per_aana,20.0,Paved,5.2,Lalitpur
+"Lubhu, Lalitpur",East,2700000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Naya Bazar, Kathmandu",South,7500000.0,per_aana,13.0,Black Topped,7.2,Kathmandu
+"Dallu, Kathmandu",East,7500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Nilopool, Kathmandu",North-East,5500000.0,per_aana,16.0,Black Topped,3.3,Kathmandu
+"Imadol, Lalitpur",West,4200000.0,per_aana,13.0,Paved,,Lalitpur
+"Bhatkepati, Kathmandu",South-East,2500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Bhangal , Kathmandu",West,4200000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Kalanki, Kathmandu",South-West,6000000.0,per_aana,13.0,Dhalan,4.1,Kathmandu
+"Pasikot, Kathmandu",South,5500000.0,per_aana,13.0,Paved,,Kathmandu
+"Kalanki, Kathmandu",North-East,6000000.0,per_aana,,,4.1,Kathmandu
+"Kalanki, Kathmandu",South-West,6000000.0,per_aana,12.0,Dhalan,,Kathmandu
+"Kalanki, Kathmandu",South-East,6000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Chapali, Kathmandu",South,5500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Changathali, Lalitpur",East,2800000.0,per_aana,12.0,Dhalan,4.2,Lalitpur
+"Shital Height, Lalitpur",East,3400000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Shital Height, Lalitpur",South-West,2500000.0,per_aana,13.0,Gravelled,6.2,Lalitpur
+"Imadol, Lalitpur",North-East,4500000.0,per_aana,10.0,Gravelled,3.3,Lalitpur
+"New Baneshwor, Kathmandu",South,,,12.0,Black Topped,,Kathmandu
+"Sitapakha, Lalitpur",East,3800000.0,per_aana,13.0,Paved,,Lalitpur
+"Chapali, Kathmandu",North-East,5500000.0,per_aana,24.0,Black Topped,,Kathmandu
+"Budhanilkantha, Kathmandu",East,6000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Dhungeadda, Kathmandu",North-East,6000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Dhungeadda, Kathmandu",North-East,6000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Dhungeadda, Kathmandu",North-East,5000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Dhungeadda, Kathmandu",South-East,5500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Salyanthan Road, Kathmandu",North-East,3100000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Shital Height, Lalitpur",East,3500000.0,per_aana,15.0,Gravelled,7.1,Lalitpur
+"Balkot, Bhaktapur",North,4100000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Dadhikot, Bhaktapur",South,3000000.0,per_aana,14.0,Gravelled,6.2,Bhaktapur
+"Bishundole, Lalitpur",West,2500000.0,per_aana,30.0,Paved,,Lalitpur
+"Lubhu, Lalitpur",South,2500000.0,per_aana,14.0,Gravelled,4.2,Lalitpur
+"Badikhel, Lalitpur",East,1500000.0,per_aana,20.0,Gravelled,5.2,Lalitpur
+"Satdobato, Lalitpur",East,7300000.0,per_aana,26.0,Paved,,Lalitpur
+"Imadol, Lalitpur",South-West,4000000.0,per_aana,13.0,Paved,2.2,Lalitpur
+"Pasikot, Kathmandu",South,5200000.0,per_aana,13.0,Paved,,Kathmandu
+"Pasikot, Kathmandu",South,5500000.0,per_aana,13.0,Paved,6.1,Kathmandu
+"Pasikot, Kathmandu",South,5500000.0,per_aana,13.0,Paved,5.3,Kathmandu
+"Sanagaun, Lalitpur",South,3800000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Sanagaun, Lalitpur",West,4500000.0,per_aana,26.0,Gravelled,6.2,Lalitpur
+"Sanagaun, Lalitpur",North,10000000.0,per_aana,13.0,Gravelled,2.2,Lalitpur
+"Shital Height, Lalitpur",West,4800000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Pasikot, Kathmandu",East,5500000.0,per_aana,20.0,Paved,,Kathmandu
+"Pasikot, Kathmandu",North,4500000.0,per_aana,20.0,Paved,,Kathmandu
+"Lamatar, Lalitpur",East,2500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",North-East,6500000.0,per_aana,16.0,Paved,,Lalitpur
+"Pasikot, Kathmandu",West,4600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Pasikot, Kathmandu",South,5500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Pasikot, Kathmandu",East,5500000.0,per_aana,20.0,Paved,6.3,Kathmandu
+"Dhapakhel, Lalitpur",North,3200000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Imadol, Lalitpur",South-East,4100000.0,per_aana,13.0,Paved,4.2,Lalitpur
+"Imadol, Lalitpur",South-West,4500000.0,per_aana,13.0,Paved,,Lalitpur
+"Imadol, Lalitpur",South-East,5000000.0,per_aana,13.0,Paved,,Lalitpur
+"Satdobato, Lalitpur",East,7300000.0,per_aana,26.0,Paved,,Lalitpur
+"Sunakothi, Lalitpur",East,6500000.0,per_aana,26.0,Paved,,Lalitpur
+"Chapagaun, Lalitpur",North-West,3500000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",East,3000000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Lamatar, Lalitpur",North-East,3000000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Phutung, Kathmandu",South,,,4.0,Gravelled,34.2,Kathmandu
+"Imadol, Lalitpur",South-East,3650000.0,per_aana,13.0,Paved,,Lalitpur
+"Ochu Height, Lalitpur",South-East,4500000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Imadol, Lalitpur",South-East,7500000.0,per_aana,11.0,Paved,,Lalitpur
+"Champadevi, Kathmandu",South-West,2400000.0,per_aana,13.0,Dhalan,3.2,Kathmandu
+"Tyanglafat, Kathmandu",South-East,4200000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Krishna Mandir, Kathmandu",North,2200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Imadol, Lalitpur",South-West,3900000.0,per_aana,13.0,Gravelled,2.2,Lalitpur
+"Balkot, Bhaktapur",East,4200000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Balkot, Bhaktapur",West,4900000.0,per_aana,26.0,Paved,,Bhaktapur
+"Chandragiri, Kathmandu",North-East,2600000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Tinthana, Kathmandu",South-West,3200000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Changathali, Lalitpur",North,3200000.0,per_aana,13.0,Dhalan,4.2,Lalitpur
+"Mulpani, Kathmandu",South,4000000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Bharatpur, Chitwan",North-East,,,,Black Topped,0.13,Unknown
+"Chardobato, Bhaktapur",North-West,5200000.0,per_aana,26.0,Black Topped,,Bhaktapur
+"Balkot, Bhaktapur",East,3300000.0,per_aana,13.0,Soil Stabilized,,Bhaktapur
+"Thimi, Bhaktapur",South,5500000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Kamerotar, Bhaktapur",South,5500000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Pharping, Kathmandu",East,3200000.0,per_aana,28.0,Black Topped,8.2,Kathmandu
+"Bhaktapur, Bhaktapur",South,3700000.0,per_aana,13.0,Gravelled,3.1,Bhaktapur
+"Saraswotikhel, Bhaktapur",West,4200000.0,per_aana,42.0,Black Topped,7.2,Bhaktapur
+"Biratnagar, Morang",North-West,,,18.0,Black Topped,,Unknown
+"Old Baneshwor, Kathmandu",East,6000000.0,per_aana,18.0,Dhalan,,Kathmandu
+"Pepsicola, Kathmandu",West,7500000.0,per_aana,26.0,Paved,5.2,Kathmandu
+"Pepsicola, Kathmandu",West,6000000.0,per_aana,22.0,Paved,,Kathmandu
+"Pepsicola, Kathmandu",West,7000000.0,per_aana,20.0,Paved,,Kathmandu
+"Lubhu, Lalitpur",North-East,2900000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Gothatar, Kathmandu",West,4500000.0,per_aana,20.0,Paved,4.2,Kathmandu
+"Gothatar, Kathmandu",East,4300000.0,per_aana,16.0,Paved,,Kathmandu
+"Dibyeshwori Townplanning, Bhaktapur",South-East,6800000.0,per_aana,20.0,Paved,,Bhaktapur
+"Sanothimi, Bhaktapur",South,10000000.0,per_aana,60.0,Black Topped,,Bhaktapur
+"Dibyeshwori Townplanning, Bhaktapur",South,6000000.0,per_aana,20.0,Paved,,Bhaktapur
+"Pepsicola, Kathmandu",South-West,6700000.0,per_aana,20.0,Paved,5.1,Kathmandu
+"Gothatar, Kathmandu",South,4400000.0,per_aana,13.0,Dhalan,4.1,Kathmandu
+"Kageshwari Manohara, Kathmandu",South-East,6700000.0,per_aana,12.0,Gravelled,,Kathmandu
+"Pepsicola, Kathmandu",South-East,6500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Thali, Kathmandu",East,2500000.0,per_aana,20.0,Gravelled,3.2,Kathmandu
+"Bhatkepati, Kathmandu",South-East,2900000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Dhunche Pakha, Bhaktapur",West,4200000.0,per_aana,16.0,Soil Stabilized,3.1,Bhaktapur
+"Dhunche Pakha, Bhaktapur",South,3800000.0,per_aana,13.0,Gravelled,3.1,Bhaktapur
+"Imadol, Lalitpur",East,5000000.0,per_aana,13.0,Gravelled,4.1,Lalitpur
+"Charghare , Kathmandu",South-West,2500000.0,per_aana,13.0,Dhalan,3.2,Kathmandu
+"Bhatkepati, Kathmandu",South-East,2900000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Bhatkepati, Kathmandu",South-East,2500000.0,per_aana,13.0,Dhalan,4.3,Kathmandu
+"Lamatar, Lalitpur",East,2000000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Shivanagar, Chitwan",East,12000000.0,total,20.0,Black Topped,,Unknown
+"Old Baneshwor, Kathmandu",South,8600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Chalnakhel, Kathmandu",East,2000000.0,per_aana,10.0,Soil Stabilized,7.2,Kathmandu
+"Pasikot, Kathmandu",East,4000000.0,per_aana,16.0,Black Topped,35.2,Kathmandu
+"Sanagaun, Lalitpur",East,2800000.0,per_aana,10.0,Gravelled,,Lalitpur
+"Siddhipur, Lalitpur",North-West,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",South,3200000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",East,2000000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Shantinagar, Kathmandu",East,65000000.0,per_aana,20.0,Paved,6.1,Kathmandu
+"Lubhu, Lalitpur",North-West,2600000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",South,2600000.0,per_aana,14.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",South,3700000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",South,3300000.0,per_aana,13.0,Gravelled,3.3,Lalitpur
+"Lubhu, Lalitpur",South,3500000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Shantinagar, Kathmandu",West,7500000.0,per_aana,20.0,Paved,8.2,Kathmandu
+"Pepsicola, Kathmandu",South,7000000.0,per_aana,26.0,Paved,,Kathmandu
+"Pepsicola, Kathmandu",East,6000000.0,per_aana,20.0,Gravelled,4.1,Kathmandu
+"Lokanthali, Bhaktapur",West,5700000.0,per_aana,20.0,Gravelled,4.1,Bhaktapur
+"Manohara, Kathmandu",East,,,20.0,Black Topped,2.2,Kathmandu
+"Pepsicola, Kathmandu",North-West,5500000.0,per_aana,20.0,Paved,5.2,Kathmandu
+"Bode, Bhaktapur",South,3800000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Bistagaun, Kathmandu",North-West,6000000.0,per_aana,20.0,Paved,,Kathmandu
+"Chalnakhel, Kathmandu",South,2100000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Kirtipur, Kathmandu",South-West,2600000.0,per_aana,13.0,Soil Stabilized,4.1,Kathmandu
+"Balkumari, Lalitpur",South-West,4500000.0,per_aana,13.0,Dhalan,5.2,Lalitpur
+"Bhatkepati, Kathmandu",South-West,2700000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Machhegaun , Kathmandu",South-West,2600000.0,per_aana,13.0,Dhalan,5.2,Kathmandu
+"Pepsicola, Kathmandu",West,5500000.0,per_aana,13.0,Gravelled,4.2,Kathmandu
+"Samakhusi, Kathmandu",South,7000000.0,per_aana,13.0,Paved,4.2,Kathmandu
+"Balkot, Bhaktapur",East,,,11.0,Paved,12.2,Bhaktapur
+"Lazimpat, Kathmandu",East,15000000.0,per_aana,42.0,Paved,,Kathmandu
+"Bhaisepati, Lalitpur",West,4500000.0,per_aana,20.0,Paved,,Lalitpur
+"Koteshwor, Kathmandu",South-East,8000000.0,per_aana,22.0,Paved,,Kathmandu
+"Sanagaun, Lalitpur",East,3500000.0,per_aana,20.0,Gravelled,3.2,Lalitpur
+"Lubhu, Lalitpur",South,3000000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",West,3500000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Chundevi, Kathmandu",North-East,8500000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",North-West,3000000.0,per_aana,26.0,Black Topped,,Lalitpur
+"Bhaisepati, Lalitpur",North-East,4500000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Tyanglafat, Kathmandu",South-West,3200000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Lubhu, Lalitpur",North-East,3000000.0,per_aana,20.0,Gravelled,3.2,Lalitpur
+"Imadol, Lalitpur",West,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",East,2800000.0,per_aana,6.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",East,3200000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",East,3200000.0,per_aana,13.0,Gravelled,4.3,Lalitpur
+"Harisiddhi, Lalitpur",East,3700000.0,per_aana,10.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",East,3200000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",South,3500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",West,3400000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Dhunchepakha, Bhaktapur",South,4000000.0,per_aana,13.0,Gravelled,3.1,Bhaktapur
+"Thapagaun, Kathmandu",East,8500000.0,per_aana,14.0,Black Topped,4.2,Kathmandu
+"Budhanilkantha, Kathmandu",East,4500000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Kirtipur, Kathmandu",South-East,4500000.0,per_aana,13.0,Dhalan,5.2,Kathmandu
+"Tyanglafat, Kathmandu",South-West,5000000.0,per_aana,13.0,Dhalan,8.2,Kathmandu
+"Tyanglafat, Kathmandu",South-East,4500000.0,per_aana,13.0,Dhalan,8.2,Kathmandu
+", Dhading",South,,,,,,Unknown
+"Tikathali, Lalitpur",North,3800000.0,per_aana,13.0,Gravelled,7.1,Lalitpur
+"Imadol, Lalitpur",North,4500000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Sanagaun, Lalitpur",North,4500000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Sanagaun, Lalitpur",South,3500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",East,4000000.0,per_aana,20.0,Gravelled,4.1,Lalitpur
+"Hattiban, Lalitpur",North,3800000.0,per_aana,6.0,Gravelled,3.2,Lalitpur
+"Bansbari, Kathmandu",East,6500000.0,per_aana,13.0,Paved,,Kathmandu
+"Bishalnagar, Kathmandu",South-East,9000000.0,per_aana,20.0,Paved,,Kathmandu
+"Baluwatar, Kathmandu",South,15000000.0,per_aana,16.0,Paved,3.2,Kathmandu
+"Tyanglafat, Kathmandu",South-West,4500000.0,per_aana,13.0,Dhalan,3.1,Kathmandu
+"Tyanglafat, Kathmandu",South-West,4500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Bansbari, Kathmandu",South,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",East,6500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tyanglafat, Kathmandu",South-East,4500000.0,per_aana,13.0,Dhalan,8.2,Kathmandu
+"Khumaltar, Lalitpur",North-East,6500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Hattiban, Lalitpur",South-East,4500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Hattiban, Lalitpur",South-East,4500000.0,per_aana,13.0,Gravelled,4.3,Lalitpur
+"Maharajgunj, Kathmandu",West,7500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Maharajgunj, Kathmandu",West,6000000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Maharajgunj, Kathmandu",East,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Hattiban, Lalitpur",North-West,3800000.0,per_aana,13.0,Paved,,Lalitpur
+"Hattiban, Lalitpur",South,3500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Tikathali, Lalitpur",North-West,4000000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Sanepa, Lalitpur",South,8000000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Balkhu, Kathmandu",South,450000.0,per_sqm,13.0,Black Topped,,Kathmandu
+"Lamatar, Lalitpur",North-East,8500000.0,per_aana,12.0,Gravelled,2.2,Lalitpur
+"Sanepa, Lalitpur",South-West,50000.0,per_sqm,13.0,Black Topped,,Lalitpur
+"Pepsicola, Kathmandu",South-East,6600000.0,per_aana,26.0,Paved,4.2,Kathmandu
+"Dhapakhel, Lalitpur",West,3200000.0,per_aana,20.0,Gravelled,6.1,Lalitpur
+"Dhapakhel, Lalitpur",North,3200000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Khumaltar, Lalitpur",South,5500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Duwakot, Bhaktapur",West,3300000.0,per_aana,16.0,Gravelled,,Bhaktapur
+"Balkot, Bhaktapur",North,3800000.0,per_aana,13.0,Paved,,Bhaktapur
+"Balkot, Bhaktapur",East,4000000.0,per_aana,22.0,Black Topped,6.2,Bhaktapur
+"Pepsicola, Kathmandu",South-West,6000000.0,per_aana,13.0,Paved,3.2,Kathmandu
+"Deuwa chowk, Kathmandu",East,4500000.0,per_aana,22.0,Paved,,Kathmandu
+"Bharatpur, Chitwan",North-West,600000.0,per_kattha,,Black Topped,,Unknown
+"Khumaltar, Lalitpur",East,5700000.0,per_aana,16.0,Paved,,Lalitpur
+"Hattiban, Lalitpur",South,5000000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Dhobichaur, Kathmandu",North,13000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",South,3900000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Chhampi, Lalitpur",South-East,2100000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",West,4000000.0,per_aana,20.0,Gravelled,3.3,Lalitpur
+"Lubhu, Lalitpur",West,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",South,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lokanthali, Bhaktapur",West,5500000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Khumaltar, Lalitpur",West,5700000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Khumaltar, Lalitpur",West,5900000.0,per_aana,20.0,Gravelled,7.2,Lalitpur
+"Khumaltar, Lalitpur",South-East,5800000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Khumaltar, Lalitpur",North-East,4500000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Setipakha, Lalitpur",West,4000000.0,per_aana,13.0,Gravelled,4.3,Lalitpur
+"Thapathali, Kathmandu",North,150000.0,per_sqm,12.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",South,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",South,3900000.0,per_aana,20.0,Gravelled,4.2,Lalitpur
+"Harisiddhi, Lalitpur",South,3900000.0,per_aana,20.0,Gravelled,4.2,Lalitpur
+"Sanagaun, Lalitpur",West,3600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",South,3600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Ratopool, Kathmandu",East,9000000.0,per_aana,30.0,Black Topped,,Kathmandu
+"Maharajgunj, Kathmandu",South-East,7000000.0,per_aana,18.0,Black Topped,,Kathmandu
+"Gatthaghar, Bhaktapur",South,4500000.0,per_aana,16.0,Gravelled,,Bhaktapur
+"Thimi, Bhaktapur",South,3500000.0,per_aana,13.0,Paved,,Bhaktapur
+"Harisiddhi, Lalitpur",South-East,3800000.0,per_aana,20.0,Soil Stabilized,5.2,Lalitpur
+"Harisiddhi, Lalitpur",South-East,4000000.0,per_aana,20.0,Soil Stabilized,3.1,Lalitpur
+"Harisiddhi, Lalitpur",North-East,3600000.0,per_aana,13.0,Dhalan,3.1,Lalitpur
+"Bhadra Basti, Kathmandu",West,4000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Budhanilkantha, Kathmandu",,7000000.0,per_aana,26.0,Black Topped,,Kathmandu
+"Katunje, Bhaktapur",South-East,4000000.0,per_aana,20.0,Black Topped,12.2,Bhaktapur
+"Baluwatar, Kathmandu",East,8500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sipadol, Bhaktapur",South-East,2900000.0,per_aana,,Dhalan,,Bhaktapur
+"Pasikot, Kathmandu",East,5500000.0,per_aana,20.0,Black Topped,5.1,Kathmandu
+"Tej Vinayak, Kathmandu",South,4500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Tej Vinayak, Kathmandu",South,4500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Gothatar, Kathmandu",West,6000000.0,per_aana,30.0,Paved,,Kathmandu
+"Bhaisepati, Lalitpur",West,5500000.0,per_aana,22.0,Gravelled,3.1,Lalitpur
+"Bhaisepati, Lalitpur",South,5500000.0,per_aana,22.0,Paved,,Lalitpur
+"Mahalaxmisthan, Lalitpur",South-East,7500000.0,per_aana,13.0,Paved,5.1,Lalitpur
+"Ochu Height, Lalitpur",South,4900000.0,per_aana,22.0,Paved,3.1,Lalitpur
+"Shital Height, Lalitpur",North,5000000.0,per_aana,20.0,Paved,,Lalitpur
+"Imadol, Lalitpur",West,4500000.0,per_aana,13.0,Paved,,Lalitpur
+"Balkot, Bhaktapur",West,3700000.0,per_aana,12.0,Paved,5.1,Bhaktapur
+"Sudal, Bhaktapur",South,1800000.0,per_aana,20.0,Dhalan,3.3,Bhaktapur
+"Naya Basti, Kathmandu",East,150000.0,per_sqm,20.0,Dhalan,,Kathmandu
+"Radhe Radhe, Bhaktapur",West,7000000.0,per_aana,,Black Topped,264.3,Bhaktapur
+"Jhor, Kathmandu",South,1300000.0,per_aana,12.0,Dhalan,,Kathmandu
+"Jhor, Kathmandu",South,1300000.0,per_aana,,,,Kathmandu
+"Purano Naikap, Kathmandu",East,2900000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Balkot, Bhaktapur",West,4000000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Balkot, Bhaktapur",East,3900000.0,per_aana,13.0,Gravelled,4.2,Bhaktapur
+"Balkot, Bhaktapur",South,4800000.0,per_aana,13.0,Paved,3.3,Bhaktapur
+"Balkot, Bhaktapur",West,3900000.0,per_aana,16.0,Dhalan,3.1,Bhaktapur
+"Taulung, Kathmandu",South-East,1700000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",West,3600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",South,3400000.0,per_aana,20.0,Gravelled,3.2,Lalitpur
+"Dhapakhel, Lalitpur",North-East,3000000.0,per_aana,13.0,Paved,,Lalitpur
+"Harisiddhi, Lalitpur",East,4000000.0,per_aana,13.0,Gravelled,4.1,Lalitpur
+"Harisiddhi, Lalitpur",East,3000000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Lamatar, Lalitpur",North,2300000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",North,2300000.0,per_aana,13.0,Gravelled,3.3,Lalitpur
+"Bhaisepati, Lalitpur",South-West,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Shital Height, Lalitpur",South,3800000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Imadol, Lalitpur",South,3350000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Shital Height, Lalitpur",East,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sankhu, Kathmandu",South,2700000.0,per_aana,16.0,Soil Stabilized,,Kathmandu
+"Lubhu, Lalitpur",North,2600000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",North,6200000.0,per_aana,26.0,Paved,,Lalitpur
+"Lubhu, Lalitpur",East,3200000.0,per_aana,10.0,Gravelled,,Lalitpur
+"Shital Height, Lalitpur",South,3800000.0,per_aana,13.0,Gravelled,6.1,Lalitpur
+"Dhungedhara, Kathmandu",South,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Rudreshwor, Kathmandu",West,6000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",North-West,3500000.0,per_aana,22.0,Gravelled,,Lalitpur
+"Siddhipur, Lalitpur",West,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Tikathali, Lalitpur",North,3800000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Lokanthali, Bhaktapur",East,7000000.0,per_aana,30.0,Paved,10.2,Bhaktapur
+"Balkot, Bhaktapur",South,4800000.0,per_aana,13.0,Paved,3.3,Bhaktapur
+"Bode, Bhaktapur",East,3500000.0,per_aana,26.0,Paved,,Bhaktapur
+"Tikathali, Lalitpur",South,70000.0,per_sqm,20.0,Gravelled,,Lalitpur
+"Bode, Bhaktapur",East,3600000.0,per_aana,20.0,Paved,,Bhaktapur
+"Lubhu, Lalitpur",South,3000000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Sanagaun, Lalitpur",East,3800000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",East,3700000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Tandi, Chitwan",South,5000000.0,per_kattha,,,2.3,Unknown
+"Sanagaun, Lalitpur",West,3500000.0,per_aana,13.0,Paved,,Lalitpur
+"Bhaisepati, Lalitpur",East,6000000.0,per_aana,20.0,Black Topped,4.3,Lalitpur
+"Imadol, Lalitpur",South,5000000.0,per_aana,25.0,Paved,,Lalitpur
+"Thaiba, Lalitpur",South,4000000.0,per_aana,15.0,Paved,4.2,Lalitpur
+"Hattiban, Lalitpur",South-West,3800000.0,per_aana,22.0,Paved,4.2,Lalitpur
+"Hattiban, Lalitpur",East,3500000.0,per_aana,15.0,Paved,4.2,Lalitpur
+"Bhaisepati, Lalitpur",South,,,13.0,Black Topped,5.1,Lalitpur
+"Mid Baneshwor, Kathmandu",East,8500000.0,per_aana,13.0,Black Topped,6.1,Kathmandu
+"Budhanilkantha, Kathmandu",North,5500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Nakkhu, Lalitpur",East,4500000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Hattiban, Lalitpur",West,3500000.0,per_aana,13.0,Paved,3.3,Lalitpur
+"Hattiban, Lalitpur",West,3500000.0,per_aana,13.0,Paved,3.3,Lalitpur
+"Hattiban, Lalitpur",East,4000000.0,per_aana,12.0,Paved,,Lalitpur
+"Hattiban, Lalitpur",North,4000000.0,per_aana,16.0,Paved,,Lalitpur
+"Setipakha, Lalitpur",West,4500000.0,per_aana,22.0,Gravelled,,Lalitpur
+"Setipakha, Lalitpur",North-East,4500000.0,per_aana,20.0,Paved,,Lalitpur
+"Imadol, Lalitpur",South,11500000.0,per_aana,12.0,Paved,3.1,Lalitpur
+"Imadol, Lalitpur",South-West,4400000.0,per_aana,14.0,Paved,4.1,Lalitpur
+"Balkumari, Lalitpur",South-East,4500000.0,per_aana,13.0,Paved,3.3,Lalitpur
+"Imadol, Lalitpur",West,4500000.0,per_aana,13.0,Paved,3.3,Lalitpur
+"Thimi, Bhaktapur",East,5200000.0,per_aana,26.0,Black Topped,,Bhaktapur
+"Kamerotar, Bhaktapur",East,4500000.0,per_aana,20.0,Paved,,Bhaktapur
+"Kamerotar, Bhaktapur",East,4700000.0,per_aana,26.0,Black Topped,,Bhaktapur
+"Kamerotar, Bhaktapur",West,4600000.0,per_aana,20.0,Paved,,Bhaktapur
+"Tej Vinayak, Kathmandu",East,3700000.0,per_aana,13.0,Paved,,Kathmandu
+"Bode, Bhaktapur",South,3800000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Dhumbarahi, Kathmandu",South,8000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Salyanthan Plotting, Kathmandu",South-East,2600000.0,per_aana,13.0,Soil Stabilized,4.2,Kathmandu
+"Balkot, Bhaktapur",East,3600000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Balkot, Bhaktapur",West,4000000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Kaushaltar, Bhaktapur",North,5000000.0,per_aana,13.0,Paved,,Bhaktapur
+"Thimi, Bhaktapur",East,4500000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Bhaktapur, Bhaktapur",West,5500000.0,per_aana,20.0,Paved,3.1,Bhaktapur
+"Pepsicola, Kathmandu",West,5700000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Sirutar, Bhaktapur",East,3500000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Tripureshwor, Kathmandu",South,,,20.0,Black Topped,,Kathmandu
+"Nalang, Dhading",West,75000.0,per_aana,20.0,Gravelled,,Unknown
+"Taukhel, Lalitpur",East,1800000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Sirutar, Bhaktapur",West,4200000.0,per_aana,22.0,Black Topped,,Bhaktapur
+"Dibyeshwori Townplanning, Bhaktapur",East,5500000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Buddhanagar, Kathmandu",East,9200000.0,per_aana,13.0,Black Topped,4.3,Kathmandu
+"Pepsicola, Kathmandu",South-East,7000000.0,per_aana,26.0,Black Topped,7.3,Kathmandu
+"Pepsicola, Kathmandu",West,6700000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",South,650000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Pepsicola, Kathmandu",West,6500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Pepsicola, Kathmandu",West,5500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Pasikot, Kathmandu",South,4200000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Changathali, Lalitpur",West,3600000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",North-East,3800000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Naya Naikap, Kathmandu",North,4500000.0,per_aana,12.0,Dhalan,,Kathmandu
+"Danchhi, Kathmandu",East,2200000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Thankot, Kathmandu",South-East,2600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Mahalaxmisthan, Lalitpur",East,9500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Khumaltar, Lalitpur",South-East,4500000.0,per_aana,13.0,Dhalan,4.3,Lalitpur
+"Dhumbarahi, Kathmandu",South-West,5700000.0,per_aana,,,,Kathmandu
+"Kalanki, Kathmandu",South-West,3100000.0,per_aana,,,,Kathmandu
+"Koteshwor, Kathmandu",North-East,55000000.0,per_aana,12.0,Dhalan,6.3,Kathmandu
+"Buddhanagar, Kathmandu",North-East,,,13.0,Black Topped,,Kathmandu
+"Sinamangal, Kathmandu",South-East,,,20.0,Black Topped,,Kathmandu
+"Ason, Kathmandu",South-East,50000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Shambhu Marga, Kathmandu",East,3800000.0,per_aana,13.0,Dhalan,,Kathmandu
+"New Baneshwor, Kathmandu",South,,,,,,Kathmandu
+"Tikathali, Lalitpur",,3900000.0,per_aana,,,,Lalitpur
+"Chobhar, Kathmandu",South,3000000.0,per_aana,13.0,Gravelled,5.3,Kathmandu
+"Kirtipur, Kathmandu",South,2600000.0,per_aana,12.0,Soil Stabilized,,Kathmandu
+"Tikathali, Lalitpur",West,4000000.0,per_aana,20.0,Dhalan,5.3,Lalitpur
+"Chandrapur, Rautahat",North,300000.0,per_dhur,50.0,Black Topped,2.1,Unknown
+"Kirtipur, Kathmandu",,3000000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Mandikhatar, Kathmandu",South,5000000.0,per_aana,13.0,Black Topped,6.1,Kathmandu
+"Dahachowk, Kathmandu",North-East,2800000.0,per_aana,26.0,Black Topped,7.1,Kathmandu
+"Dhumbarahi, Kathmandu",North-East,7500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Sitapaila, Kathmandu",South-East,3200000.0,per_aana,13.0,Black Topped,3.3,Kathmandu
+"Mulpani, Kathmandu",North-East,5000000.0,per_aana,30.0,Dhalan,6.2,Kathmandu
+"Deuwa Chowk, Kathmandu",West,5500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Lapsiphedi, Kathmandu",East,100000.0,per_aana,10.0,Soil Stabilized,,Kathmandu
+"Lapsiphedi, Kathmandu",East,150000.0,per_aana,10.0,Gravelled,,Kathmandu
+"Bharatpur, Chitwan",East,,,,,,Unknown
+"Samakhusi, Kathmandu",South-East,,,20.0,Dhalan,5.3,Kathmandu
+"Lokanthali, Bhaktapur",South-East,,,20.0,Dhalan,,Bhaktapur
+"Besigaun, Kathmandu",East,4500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Baluwakhani, Kathmandu",North-West,4200000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Nikoshera, Bhaktapur",West,4200000.0,per_aana,20.0,Paved,,Bhaktapur
+"Kamerotar, Bhaktapur",West,5000000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Balkot, Bhaktapur",East,3500000.0,per_aana,13.0,Gravelled,4.1,Bhaktapur
+"Balkhu, Lalitpur",West,275000.0,per_sqm,18.0,Black Topped,,Lalitpur
+"Balkot, Bhaktapur",North,4000000.0,per_aana,36.0,Paved,,Bhaktapur
+"Thimi, Bhaktapur",West,4500000.0,per_aana,10.0,Dhalan,,Bhaktapur
+"Harisiddhi, Lalitpur",West,4000000.0,per_aana,20.0,Gravelled,3.3,Lalitpur
+"Bageshwori, Bhaktapur",East,1000000.0,per_aana,20.0,Dhalan,,Bhaktapur
+"Lubhu, Lalitpur",South-East,3700000.0,per_aana,26.0,Gravelled,,Lalitpur
+"Old Baneshwor, Kathmandu",West,10000000.0,per_aana,20.0,Black Topped,3.3,Kathmandu
+"Shantinagar, Kathmandu",North,8500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",East,2800000.0,per_aana,20.0,Gravelled,,Lalitpur
+"New Baneshwor, Kathmandu",West,9500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"New Baneshwor, Kathmandu",West,10500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"New Baneshwor, Kathmandu",West,9500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Tokha, Kathmandu",East,2950000.0,per_aana,12.0,Gravelled,4.2,Kathmandu
+"Shankhamul, Kathmandu",North,10000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sinamangal, Kathmandu",North,11000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"New Baneshwor, Kathmandu",South,7900000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",North-East,3500000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",South-East,3200000.0,per_aana,20.0,Gravelled,6.2,Lalitpur
+"Lubhu, Lalitpur",South-West,3200000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",East,3300000.0,per_aana,13.0,Paved,,Lalitpur
+"Sanagaun, Lalitpur",South,4700000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",South,3700000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",South,3700000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",South,3300000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",North,2900000.0,per_aana,13.0,Gravelled,3.3,Lalitpur
+"Lubhu, Lalitpur",North-East,3500000.0,per_aana,16.0,Paved,,Lalitpur
+"Tikathali, Lalitpur",North-West,4000000.0,per_aana,13.0,Dhalan,3.2,Lalitpur
+"Tikathali, Lalitpur",North,2800000.0,per_aana,13.0,Paved,,Lalitpur
+"Sanagaun Lubhu, Lalitpur",West,3200000.0,per_aana,8.0,Dhalan,,Lalitpur
+"Sanagaun Lubhu, Lalitpur",West,3500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Balambu, Kathmandu",West,3500000.0,per_aana,32.0,Paved,,Kathmandu
+"Tikathali, Lalitpur",South,3500000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Setipakha, Lalitpur",South-West,4200000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Setipakha, Lalitpur",South-East,4200000.0,per_aana,13.0,Dhalan,5.2,Lalitpur
+"Imadol, Lalitpur",East,5200000.0,per_aana,13.0,Gravelled,7.3,Lalitpur
+"Nagarkot, Bhaktapur",South,300000.0,per_aana,16.0,Black Topped,,Bhaktapur
+"Maharajgunj, Kathmandu",West,7500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Bhangal , Kathmandu",North,3900000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bojepokhari, Lalitpur",West,5000000.0,per_aana,13.0,Paved,,Lalitpur
+"Tikathali, Lalitpur",South,4200000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Pepsicola, Kathmandu",South,6000000.0,per_aana,20.0,Paved,3.3,Kathmandu
+"Sanothimi, Bhaktapur",North-West,6000000.0,per_aana,13.0,Paved,,Bhaktapur
+"Sanagaun, Lalitpur",South,3300000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Sanagaun Lubhu, Lalitpur",South,11500000.0,total,13.0,Gravelled,2.3,Lalitpur
+"Sanagaun, Lalitpur",West,3700000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",South,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Kirtipur, Kathmandu",East,5500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Balkot, Bhaktapur",West,3700000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Naya Thimi, Bhaktapur",East,4000000.0,per_aana,20.0,Black Topped,7.3,Bhaktapur
+"Naya Thimi, Bhaktapur",East,3500000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Thankot, Kathmandu",East,2700000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Matatirtha, Kathmandu",East,2700000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Dahachowk, Kathmandu",South,2800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Matatirtha, Kathmandu",South,1800000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Bode, Bhaktapur",East,4000000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Bode, Bhaktapur",East,3600000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Budhanilkantha, Kathmandu",South,,,13.0,Black Topped,,Kathmandu
+"Siddhipur, Lalitpur",South,11700000.0,total,13.0,Gravelled,2.3,Lalitpur
+"Changathali, Lalitpur",East,2800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Ichangu Narayan, Kathmandu",South,5500000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Nagarjun, Kathmandu",North,7500000.0,per_aana,24.0,Black Topped,,Kathmandu
+"Satungal, Kathmandu",North-East,,,13.0,Gravelled,7.2,Kathmandu
+"Golfutar, Kathmandu",South-East,6500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Harisiddhi, Lalitpur",South,3900000.0,per_aana,20.0,Gravelled,4.2,Lalitpur
+"Harisiddhi, Lalitpur",West,3600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Harisiddhi, Lalitpur",South,3400000.0,per_aana,20.0,Gravelled,3.2,Lalitpur
+", Jhapa",East,900000.0,per_kattha,16.0,Gravelled,,Unknown
+"Sallaghari, Bhaktapur",East,4000000.0,per_aana,20.0,Paved,,Bhaktapur
+"Chapali, Kathmandu",East,4000000.0,per_aana,16.0,Gravelled,,Kathmandu
+"Golfutar, Kathmandu",East,6500000.0,per_aana,13.0,Paved,5.2,Kathmandu
+"Golfutar, Kathmandu",South,5500000.0,per_aana,13.0,Paved,,Kathmandu
+"Italitar, Kathmandu",South,6000000.0,per_aana,13.0,Paved,6.1,Kathmandu
+"Bhangal , Kathmandu",South-West,4500000.0,per_aana,20.0,Paved,,Kathmandu
+"Sallaghari, Bhaktapur",South,3000000.0,per_aana,26.0,Paved,,Bhaktapur
+"Katunje, Bhaktapur",North,3000000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Imadol, Lalitpur",West,4500000.0,per_aana,13.0,Gravelled,3.3,Lalitpur
+"Kamerotar, Bhaktapur",North,5600000.0,per_aana,23.0,Paved,5.1,Bhaktapur
+"Harisiddhi, Lalitpur",South,3000000.0,per_aana,13.0,Gravelled,4.3,Lalitpur
+"Imadol, Lalitpur",South,11500000.0,per_aana,13.0,Paved,,Lalitpur
+"Budhanilkantha, Kathmandu",,6000000.0,per_aana,,,,Kathmandu
+"Mid Baneshwor, Kathmandu",North,8500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Imadol, Lalitpur",South-West,4500000.0,per_aana,13.0,Paved,4.1,Lalitpur
+"Nikoshera, Bhaktapur",,3300000.0,per_aana,20.0,Paved,4.3,Bhaktapur
+"Magar Gaun, Bhaktapur",East,4500000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Gagalphedi, Kathmandu",North,2600000.0,per_aana,,,,Kathmandu
+"Bode, Bhaktapur",North,5000000.0,per_aana,40.0,Black Topped,,Bhaktapur
+"Bode, Bhaktapur",East,4200000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Bode, Bhaktapur",South,4000000.0,per_aana,20.0,Gravelled,4.1,Bhaktapur
+"Bode, Bhaktapur",North,3700000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Dhunche Pakha, Bhaktapur",North,3500000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Dhunche Pakha, Bhaktapur",West,3500000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Sallaghari, Bhaktapur",West,3500000.0,per_aana,14.0,Gravelled,3.1,Bhaktapur
+"Chabahil, Kathmandu",West,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Imadol, Lalitpur",West,9000000.0,total,13.0,Paved,3.1,Lalitpur
+"Imadol, Lalitpur",North,5500000.0,per_aana,26.0,Paved,,Lalitpur
+"Putalisadak, Kathmandu",East,13200000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Santari, Kathmandu",East,2500000.0,per_aana,22.0,Dhalan,,Kathmandu
+"Bhaisepati, Lalitpur",,5500000.0,per_aana,20.0,Paved,,Lalitpur
+"Bhaisepati, Lalitpur",North-West,4500000.0,per_aana,13.0,Black Topped,4.2,Lalitpur
+"Kapan, Kathmandu",West,4400000.0,per_aana,13.0,Dhalan,7.2,Kathmandu
+"Dhumbarahi, Kathmandu",North-West,6500000.0,per_aana,16.0,Black Topped,5.5,Kathmandu
+"Sanepa, Lalitpur",South,11500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Jhamsikhel, Lalitpur",North,9800000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Tikathali, Lalitpur",East,3800000.0,per_aana,13.0,Soil Stabilized,3.2,Lalitpur
+"Tikathali, Lalitpur",North,3800000.0,per_aana,13.0,Black Topped,3.5,Lalitpur
+"Dhapasi, Kathmandu",South-West,4000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Tokha Height, Kathmandu",South-West,4700000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Megha City, Kathmandu",South,3500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Balkumari, Lalitpur",East,3500000.0,per_aana,14.0,Black Topped,,Lalitpur
+"Satungal, Kathmandu",North,7000000.0,total,14.0,Dhalan,,Kathmandu
+"Dhangadhi, Kailali",South,160000000.0,total,35.0,Black Topped,5.18,Unknown
+"Budhanilkantha, Kathmandu",South,4500000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Hattigauda, Kathmandu",East,3800000.0,per_aana,15.0,Gravelled,4.2,Kathmandu
+"Chapali, Kathmandu",South-West,4500000.0,per_aana,13.0,Gravelled,6.2,Kathmandu
+"Bhaisepati, Lalitpur",North-East,3900000.0,per_aana,12.0,Gravelled,6.2,Lalitpur
+"Kalanki, Kathmandu",East,5500000.0,per_aana,12.0,Dhalan,6.1,Kathmandu
+"Naikap, Kathmandu",North-West,3700000.0,per_aana,13.0,Dhalan,3.3,Kathmandu
+"Hattiban, Lalitpur",West,3000000.0,per_aana,10.0,Black Topped,3.2,Lalitpur
+"Sitapaila, Kathmandu",North,4700000.0,per_aana,21.0,Black Topped,,Kathmandu
+"Lokanthali, Bhaktapur",East,6600000.0,per_aana,12.0,Black Topped,,Bhaktapur
+"Ramkot, Kathmandu",,3100000.0,per_aana,,,3.3,Kathmandu
+"Gothatar, Kathmandu",North-East,3700000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Sallaghari, Bhaktapur",North-East,4000000.0,per_aana,14.0,Black Topped,,Bhaktapur
+"Chaughada, Makwanpur",South,200000.0,per_dhur,20.0,Paved,4.7,Unknown
+"Mandikhatar, Kathmandu",South,6000000.0,per_aana,16.0,Black Topped,7.2,Kathmandu
+"Narayanthan , Kathmandu",East,4600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Nikoshera, Bhaktapur",West,4500000.0,per_aana,20.0,Dhalan,4.1,Bhaktapur
+"Duwakot, Bhaktapur",South-East,2750000.0,per_aana,20.0,Dhalan,,Bhaktapur
+"Hattiban, Lalitpur",West,5700000.0,per_aana,,,,Lalitpur
+"Hattiban, Lalitpur",North-West,5500000.0,per_aana,12.0,Paved,12.2,Lalitpur
+"Dhapakhel, Lalitpur",West,3600000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Gatthaghar, Bhaktapur",East,5000000.0,per_aana,13.0,Dhalan,3.1,Bhaktapur
+"Sukedhara, Kathmandu",South-East,3700000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Balkot, Bhaktapur",West,4500000.0,per_aana,13.0,Dhalan,4.2,Bhaktapur
+"Khadka Gaun, Bhaktapur",South,2000000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Khadka Gaun, Bhaktapur",South,2500000.0,per_aana,20.0,Gravelled,3.1,Bhaktapur
+"Bhatkeko Pool, Kathmandu",South,5000000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Narayanthan , Kathmandu",South,4000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Machhegaun , Kathmandu",North-East,2500000.0,per_aana,13.0,Dhalan,4.2,Kathmandu
+"Kavresthali, Kathmandu",North-East,3000000.0,per_aana,10.0,Gravelled,,Kathmandu
+"Kavresthali, Kathmandu",North-East,950000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Chhabeli, Kathmandu",North,2500000.0,per_aana,15.0,Dhalan,,Kathmandu
+"Bhangal , Kathmandu",,100000.0,per_sqm,13.0,Dhalan,,Kathmandu
+"Naikap, Kathmandu",North-East,2100000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bhangal , Kathmandu",East,4000000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Itahari, Sunsari",North,4800000.0,total,16.0,Black Topped,0.16,Unknown
+"Chandol, Kathmandu",North,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Khadka Gaun, Kathmandu",South-East,4500000.0,per_aana,13.0,Paved,5.3,Kathmandu
+"Tinthana, Kathmandu",East,,,,Black Topped,16.2,Kathmandu
+"Bijeshwori, Kathmandu",North-East,7000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Katari, Udayapur",East,,,20.0,Black Topped,1.1,Unknown
+"Budhanilkantha, Kathmandu",East,6500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Raniban, Kathmandu",South,5000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Raniban, Kathmandu",South-East,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Taulung, Kathmandu",North-East,2800000.0,per_aana,20.0,Dhalan,6.1,Kathmandu
+"Hepali Height, Kathmandu",South,8000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Bhangal , Kathmandu",North,3600000.0,per_aana,13.0,Black Topped,3.3,Kathmandu
+"Dhumbarahi, Kathmandu",South,7500000.0,per_aana,,,3.1,Kathmandu
+"Syuchatar, Kathmandu",East,3900000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Kirtipur, Kathmandu",East,2950000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Sanepa, Lalitpur",South,7500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Pulchowk, Lalitpur",South,,,10.0,Black Topped,,Lalitpur
+"Harisiddhi, Lalitpur",North-East,4600000.0,per_aana,10.0,Black Topped,,Lalitpur
+"Phutung, Kathmandu",South,1800000.0,per_aana,10.0,Black Topped,,Kathmandu
+"Sanagaun Lubhu, Lalitpur",South,3500000.0,per_aana,20.0,Gravelled,3.3,Lalitpur
+"Srijananagar, Bhaktapur",South,2990000.0,per_aana,,,4.1,Bhaktapur
+"Sitapaila, Kathmandu",,7000000.0,per_aana,22.0,Black Topped,5.3,Kathmandu
+"Samakhushi chowk, Kathmandu",,7000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Dhumbarahi, Kathmandu",South,7500000.0,per_aana,11.0,Paved,,Kathmandu
+"Gokarna, Kathmandu",South,3000000.0,per_aana,18.0,Dhalan,4.2,Kathmandu
+"Aani Gumba, Kathmandu",South,4000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Balambu, Kathmandu",North,3200000.0,per_aana,15.0,Black Topped,3.2,Kathmandu
+"White Gumba, Kathmandu",North-West,2500000.0,per_aana,13.0,Black Topped,5.1,Kathmandu
+"Sallaghari, Bhaktapur",West,29400000.0,total,18.0,Black Topped,,Bhaktapur
+"Sukedhara, Kathmandu",North,6500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Makalbari, Kathmandu",West,,,13.0,Black Topped,6.2,Kathmandu
+"Chapali, Kathmandu",North-East,4700000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Tyanglafat, Kathmandu",North,3800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Godawari, Lalitpur",North-East,1650000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Naya Naikap, Kathmandu",West,3500000.0,per_aana,8.0,Gravelled,,Kathmandu
+"Katunje, Bhaktapur",East,8000000.0,per_aana,13.0,Black Topped,,Bhaktapur
+"Raniban, Kathmandu",South-West,5200000.0,per_aana,13.0,Black Topped,4.1,Kathmandu
+"Ranibari, Kathmandu",South,8500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Buddhanagar, Kathmandu",South,8000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Jagdol, Kathmandu",North-East,3000000.0,per_aana,13.0,Dhalan,7.2,Kathmandu
+"Kavresthali, Kathmandu",North-East,4500000.0,per_aana,12.0,Gravelled,,Kathmandu
+"Goldhunga, Kathmandu",North-West,2000000.0,per_aana,12.0,Dhalan,,Kathmandu
+"Tyanglafat, Kathmandu",West,5500000.0,per_aana,13.0,Dhalan,7.3,Kathmandu
+"Gaushala, Kathmandu",South,10000000.0,per_aana,18.0,Black Topped,1.2,Kathmandu
+"Salyanthan Plotting, Kathmandu",South,2500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Champadevi, Kathmandu",East,2300000.0,per_aana,15.0,Soil Stabilized,,Kathmandu
+"Bagbazar, Kathmandu",North,154000000.0,total,15.0,Dhalan,,Kathmandu
+"Danchhi, Kathmandu",West,2500000.0,per_aana,20.0,Black Topped,4.1,Kathmandu
+"Budhanilkantha, Kathmandu",West,6000000.0,per_aana,22.0,Black Topped,5.2,Kathmandu
+"Jitpurphedi, Kathmandu",North-East,,,12.0,Dhalan,79.1,Kathmandu
+"Chobhar, Kathmandu",South-East,1800000.0,per_aana,22.0,Black Topped,,Kathmandu
+"Bhaktapur, Bhaktapur",East,3200000.0,per_aana,12.0,Dhalan,3.3,Bhaktapur
+"Panchkhal, Kavrepalanchok",North-East,600000.0,per_aana,13.0,Dhalan,,Unknown
+"Tinahu, Palpa",East,,,20.0,Black Topped,,Unknown
+"Kapan, Kathmandu",North-East,4200000.0,per_aana,16.0,Dhalan,,Kathmandu
+"Sankhu, Kathmandu",West,4000000.0,per_aana,30.0,Black Topped,11.1,Kathmandu
+"Jamal, Kathmandu",East,12000000.0,per_aana,13.0,Black Topped,14.2,Kathmandu
+"Banasthali, Kathmandu",South,4500000.0,per_aana,13.0,Gravelled,8.2,Kathmandu
+"Imadol, Lalitpur",West,4700000.0,per_aana,26.0,Black Topped,,Lalitpur
+"Hattigauda, Kathmandu",South,4200000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Budhanilkantha, Kathmandu",West,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",South-West,4500000.0,per_aana,10.0,Dhalan,,Lalitpur
+"Tinkune, Kathmandu",South,7800000.0,per_aana,,,4.2,Kathmandu
+"Minbhawan, Kathmandu",East,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Thimi, Bhaktapur",South,4600000.0,per_aana,20.0,Dhalan,3.3,Bhaktapur
+"Sundarijal, Kathmandu",South,600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Santari, Kathmandu",,1700000.0,per_aana,13.0,Soil Stabilized,4.1,Kathmandu
+"Tinchuli, Kathmandu",,4500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Danchhi, Kathmandu",,7500000.0,total,13.0,Dhalan,,Kathmandu
+"Panitanki, Bhaktapur",North-West,4200000.0,per_aana,13.0,Black Topped,7.2,Bhaktapur
+"Bhaisepati, Lalitpur",South,3450000.0,per_aana,13.0,Black Topped,,Lalitpur
+"Bhangal , Kathmandu",East,3800000.0,per_aana,,,,Kathmandu
+"Ganesh Chowk, Kathmandu",North,6500000.0,per_aana,22.0,Black Topped,,Kathmandu
+"Thimi, Bhaktapur",West,3800000.0,per_aana,12.0,Dhalan,3.2,Bhaktapur
+"Devchuli, Nawalpur",South,3300000.0,total,20.0,Gravelled,1.2,Unknown
+"Patneri, Kaski",South,2500000.0,per_aana,15.0,Paved,5.3,Unknown
+"Mulpani, Kathmandu",West,5500000.0,per_aana,18.0,Black Topped,6.1,Kathmandu
+"Jorpati, Kathmandu",North-East,2500000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Raniban, Kathmandu",North,6200000.0,per_aana,22.0,Black Topped,7.3,Kathmandu
+"Raniban, Kathmandu",West,5300000.0,per_aana,22.0,Dhalan,,Kathmandu
+"Budhanilkantha, Kathmandu",South-East,5200000.0,per_aana,13.0,Paved,,Kathmandu
+"Lamatar, Lalitpur",South,2500000.0,per_aana,13.0,Dhalan,2.2,Lalitpur
+"Italitar, Kathmandu",East,4200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Naxal, Kathmandu",South,10000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Tokha, Kathmandu",East,2600000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Paiyatar, Kathmandu",North-East,3700000.0,per_aana,14.0,Gravelled,3.2,Kathmandu
+"Birtamode, Jhapa",,3500000.0,total,16.0,Dhalan,0.9,Unknown
+"Kirtipur, Kathmandu",East,2600000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Chapali, Kathmandu",South-West,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",West,2800000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",North,2300000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Bhimdhunga, Kathmandu",South,,,14.0,Soil Stabilized,,Kathmandu
+"Banasthali, Kathmandu",East,6500000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Maharajgunj, Kathmandu",South,250000.0,per_sqm,32.0,Paved,,Kathmandu
+"Bafal, Kathmandu",South,140000.0,per_sqm,26.0,Paved,,Kathmandu
+"Bafal, Kathmandu",South,150000.0,per_sqm,26.0,Paved,,Kathmandu
+"Budhanilkantha, Kathmandu",East,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Lamatar, Lalitpur",East,1550000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Bungamati, Lalitpur",North-West,1600000.0,per_aana,,,13.1,Lalitpur
+"Pharping, Kathmandu",South-East,250000.0,per_aana,19.0,Black Topped,,Kathmandu
+"Goldhunga, Kathmandu",North-East,1350000.0,per_aana,7.0,Soil Stabilized,,Kathmandu
+"Thankot, Kathmandu",South,2700000.0,per_aana,13.0,Gravelled,3.2,Kathmandu
+"Panipokhari, Kathmandu",East,8300000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Bhangal , Kathmandu",North,3600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Budhanilkantha, Kathmandu",East,4500000.0,per_aana,,,,Kathmandu
+"Sudal, Bhaktapur",North,1950000.0,per_aana,15.0,Gravelled,,Bhaktapur
+"Sundarbasti, Kathmandu",South-West,5500000.0,per_aana,13.0,Paved,,Kathmandu
+"Bhangal , Kathmandu",East,4300000.0,per_aana,16.0,Paved,,Kathmandu
+"Bhangal , Kathmandu",South,5000000.0,per_aana,20.0,Paved,,Kathmandu
+"Mandikhatar, Kathmandu",,5000000.0,per_aana,20.0,Paved,,Kathmandu
+"Kalanki, Kathmandu",North,3600000.0,per_aana,10.0,Gravelled,5.2,Kathmandu
+"Kalanki, Kathmandu",North,3600000.0,per_aana,10.0,Gravelled,4.2,Kathmandu
+"Mandikhatar, Kathmandu",East,5700000.0,per_aana,12.0,Black Topped,4.3,Kathmandu
+"Baluwakhani, Kathmandu",North,5600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",South,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Maharajgunj, Kathmandu",North-West,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bishnumati Bridge, Kathmandu",East,3700000.0,per_aana,16.0,Black Topped,,Kathmandu
+"New Baneshwor, Kathmandu",West,7500000.0,per_aana,12.0,Paved,,Kathmandu
+"Kaushaltar, Bhaktapur",North,5000000.0,per_aana,13.0,Paved,3.2,Bhaktapur
+"Imadol, Lalitpur",North,4000000.0,per_aana,13.0,Paved,2.3,Lalitpur
+"Lokanthali, Bhaktapur",West,4500000.0,per_aana,13.0,Paved,4.2,Bhaktapur
+"Lokanthali, Bhaktapur",East,5500000.0,per_aana,22.0,Paved,4.2,Bhaktapur
+"Gothatar, Kathmandu",East,6200000.0,per_aana,16.0,Paved,,Kathmandu
+"Thulobharyang, Kathmandu",South,4800000.0,per_aana,13.0,Dhalan,2.3,Kathmandu
+"Gothatar, Kathmandu",West,6500000.0,per_aana,16.0,Paved,4.2,Kathmandu
+"Kitini, Lalitpur",South-East,2000000.0,per_aana,17.0,Dhalan,,Lalitpur
+"Mulpani, Kathmandu",South-West,5300000.0,per_aana,18.0,Black Topped,6.1,Kathmandu
+"Gothatar, Kathmandu",South,6500000.0,per_aana,20.0,Paved,,Kathmandu
+"Gothatar, Kathmandu",South,6500000.0,per_aana,20.0,Paved,4.2,Kathmandu
+"Gothatar, Kathmandu",East,6000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Harisiddhi, Lalitpur",South,3400000.0,per_aana,13.0,Paved,3.2,Lalitpur
+"Budhanilkantha, Kathmandu",West,7000000.0,per_aana,20.0,Paved,,Kathmandu
+"Harisiddhi, Lalitpur",North,3600000.0,per_aana,13.0,Soil Stabilized,3.3,Lalitpur
+"Harisiddhi, Lalitpur",South,3500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Harisiddhi, Lalitpur",South,3000000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Harisiddhi, Lalitpur",South-West,3500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Harisiddhi, Lalitpur",South,3000000.0,per_aana,13.0,Soil Stabilized,4.3,Lalitpur
+"Harisiddhi, Lalitpur",South,3300000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Harisiddhi, Lalitpur",North,2900000.0,per_aana,13.0,Soil Stabilized,3.3,Lalitpur
+"Harisiddhi, Lalitpur",South,3000000.0,per_aana,12.0,Gravelled,4.3,Lalitpur
+"Harisiddhi, Lalitpur",North,2900000.0,per_aana,13.0,Soil Stabilized,4.2,Lalitpur
+"Harisiddhi, Lalitpur",South,3300000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Harisiddhi, Lalitpur",North,3200000.0,per_aana,,,3.1,Lalitpur
+"Harisiddhi, Lalitpur",South,2600000.0,per_aana,,,,Lalitpur
+"Budhanilkantha, Kathmandu",South,5200000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Harisiddhi, Lalitpur",West,2800000.0,per_aana,13.0,Gravelled,3.3,Lalitpur
+"Harisiddhi, Lalitpur",West,3400000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Harisiddhi, Lalitpur",North-West,3500000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Kalanki, Kathmandu",West,4300000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Bafal, Kathmandu",West,5000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Tikathali, Lalitpur",North-West,3700000.0,per_aana,12.0,Gravelled,3.3,Lalitpur
+"Machhe Gaun, Kathmandu",North-West,2900000.0,per_aana,26.0,Gravelled,4.2,Kathmandu
+"Nil Barahi Mandir, Bhaktapur",South,2800000.0,per_aana,13.0,Paved,3.1,Bhaktapur
+"Bhangal , Kathmandu",East,4500000.0,per_aana,13.0,Black Topped,3.5,Kathmandu
+"Budhanilkantha, Kathmandu",South-West,6100000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Chapali, Kathmandu",South-West,5100000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Baluwakhani, Kathmandu",East,3800000.0,per_aana,13.0,Paved,,Kathmandu
+"Baluwakhani, Kathmandu",South,3800000.0,per_aana,13.0,Paved,,Kathmandu
+"Thulobharyang, Kathmandu",South,4500000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Thimi, Bhaktapur",South-East,3700000.0,per_aana,12.0,Gravelled,,Bhaktapur
+"Thimi, Bhaktapur",South-East,3700000.0,per_aana,12.0,Gravelled,4.1,Bhaktapur
+"Thimi, Bhaktapur",South-East,3700000.0,per_aana,12.0,Dhalan,3.3,Bhaktapur
+"Dadhikot, Bhaktapur",East,4500000.0,per_aana,20.0,Gravelled,3.2,Bhaktapur
+"Birendranagar, Chitwan",North-West,,,,Black Topped,,Unknown
+"Rabi Bhawan, Kathmandu",West,5200000.0,per_aana,10.0,Black Topped,,Kathmandu
+"Hattiban, Lalitpur",West,3500000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Bagdol, Lalitpur",East,4500000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Narayantar, Kathmandu",North,5000000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Imadol, Lalitpur",South,37000000.0,total,22.0,Paved,,Lalitpur
+"Bouddha, Kathmandu",South,,,12.0,Black Topped,,Kathmandu
+"Changunarayan, Bhaktapur",South,2500000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Bansbari, Kathmandu",West,6200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Imadol, Lalitpur",South,3000000.0,per_aana,16.0,Dhalan,,Lalitpur
+"Imadol, Lalitpur",South,2800000.0,per_aana,16.0,Dhalan,,Lalitpur
+"Imadol, Lalitpur",West,16500000.0,total,13.0,Paved,,Lalitpur
+"Imadol, Lalitpur",North-West,4700000.0,per_aana,13.0,Paved,,Lalitpur
+"Imadol, Lalitpur",South,5000000.0,per_aana,22.0,Paved,3.5,Lalitpur
+"Budhanilkantha, Kathmandu",South-West,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Deuwa Chowk, Kathmandu",South,5500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Hattiban, Lalitpur",North,4300000.0,per_aana,16.0,Dhalan,3.3,Lalitpur
+"Taukhel, Lalitpur",North-East,2800000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Taukhel, Lalitpur",South,2700000.0,per_aana,16.0,Dhalan,3.4,Lalitpur
+"Imadol, Lalitpur",South,4500000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Tokha, Kathmandu",South,5800000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Setipakha, Lalitpur",East,5800000.0,per_aana,20.0,Gravelled,8.3,Lalitpur
+"Chandragiri, Kathmandu",South,3350000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bhaisepati, Lalitpur",South,3450000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Syuchatar, Kathmandu",East,4600000.0,per_aana,10.0,Soil Stabilized,,Kathmandu
+"Pasikot, Kathmandu",East,4500000.0,per_aana,13.0,Gravelled,5.3,Kathmandu
+"Sanagaun, Lalitpur",East,3500000.0,per_aana,20.0,Dhalan,,Lalitpur
+"Thankot, Kathmandu",South-East,2800000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Dhumbarahi, Kathmandu",South-West,,,6.0,Black Topped,5.5,Kathmandu
+"Sitapaila, Kathmandu",South,16000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Purano Naikap, Kathmandu",South-East,4600000.0,per_aana,13.0,Dhalan,3.3,Kathmandu
+"Thankot, Kathmandu",East,2800000.0,per_aana,13.0,Dhalan,3.2,Kathmandu
+"Balkot, Bhaktapur",North-East,5500000.0,per_aana,13.0,Paved,5.1,Bhaktapur
+"Bhutkhel , Kathmandu",South,3800000.0,per_aana,26.0,Gravelled,,Kathmandu
+"Hattigauda, Kathmandu",South,2800000.0,per_aana,10.0,Gravelled,9.2,Kathmandu
+"Pasikot, Kathmandu",,2200000.0,per_aana,,,,Kathmandu
+"Kirtipur, Kathmandu",South-East,2600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Kirtipur, Kathmandu",South-East,2600000.0,per_aana,13.0,Soil Stabilized,4.1,Kathmandu
+"Kirtipur, Kathmandu",South-East,2600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Kirtipur, Kathmandu",South-East,3000000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Kirtipur, Kathmandu",South-East,3000000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Kirtipur, Kathmandu",East,2600000.0,per_aana,,,,Kathmandu
+"Kirtipur, Kathmandu",North,2300000.0,per_aana,13.0,Soil Stabilized,4.1,Kathmandu
+"Kirtipur, Kathmandu",East,2600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Tokha, Kathmandu",East,3800000.0,per_aana,26.0,Gravelled,,Kathmandu
+"Kapan, Kathmandu",East,4500000.0,per_aana,12.0,Soil Stabilized,,Kathmandu
+"Lubhu, Lalitpur",South,3000000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Basundhara, Kathmandu",West,18500000.0,per_aana,33.0,Gravelled,,Kathmandu
+"Chobhar, Kathmandu",North,3500000.0,per_aana,20.0,Gravelled,5.3,Kathmandu
+"Balwa, Dhanusa",North,500000.0,per_dhur,12.0,Soil Stabilized,0.7,Unknown
+"Gyaneshwor, Kathmandu",South,,,12.0,Dhalan,4.2,Kathmandu
+"Jorpati, Kathmandu",South-West,200000.0,per_year,20.0,Dhalan,,Kathmandu
+"Jorpati, Kathmandu",South,240000.0,per_sqm,40.0,Black Topped,,Kathmandu
+"Muhanpokhari, Kathmandu",South,3200000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Kageshwori, Kathmandu",West,32500000.0,total,,,,Kathmandu
+"Dhapakhel, Lalitpur",West,3500000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Jorpati, Kathmandu",South,5500000.0,per_sqm,18.0,Dhalan,3.2,Kathmandu
+"Hattiban, Lalitpur",North,4500000.0,per_aana,22.0,Paved,4.2,Lalitpur
+"Imadol, Lalitpur",East,5500000.0,per_aana,22.0,Paved,,Lalitpur
+"Imadol, Lalitpur",West,5500000.0,per_aana,20.0,Paved,,Lalitpur
+"Imadol, Lalitpur",East,4500000.0,per_aana,16.0,Alley,,Lalitpur
+"Bageshwori, Bhaktapur",East,1200000.0,per_aana,20.0,Dhalan,,Bhaktapur
+"Matatirtha, Kathmandu",South,,,13.0,Gravelled,,Kathmandu
+"Imadol, Lalitpur",East,4200000.0,per_aana,,,5.2,Lalitpur
+"Bhaisepati, Lalitpur",South,4500000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Siddhartha Colony, Kathmandu",North,5600000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Thankot, Kathmandu",North,,,13.0,Gravelled,,Kathmandu
+"Guheshwori, Kathmandu",East,,,,Black Topped,4.1,Kathmandu
+"Ramkot, Kathmandu",South-West,2300000.0,per_aana,12.0,Gravelled,,Kathmandu
+"Bhangal , Kathmandu",North-West,5000000.0,per_aana,13.0,Black Topped,5.5,Kathmandu
+"Phutung, Kathmandu",South,5000000.0,total,20.0,Black Topped,,Kathmandu
+"Mulpani, Kathmandu",South,4500000.0,per_aana,26.0,Black Topped,9.1,Kathmandu
+"Bairikhel, Bhaktapur",East,3500000.0,per_aana,20.0,Gravelled,3.2,Bhaktapur
+"Pikhel, Bhaktapur",West,2500000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Butwal, Rupandehi",,400000.0,per_dhur,60.0,Black Topped,,Unknown
+"Budhanilkantha, Kathmandu",South,5200000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Thahity, Kathmandu",East,4500000.0,per_aana,12.0,Paved,,Kathmandu
+"New Baneshwor, Kathmandu",North,7500000.0,per_aana,12.0,Alley,,Kathmandu
+"Grande Hospital, Kathmandu",South,6000000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Lazimpat, Kathmandu",South,9000000.0,per_aana,13.0,Black Topped,11.3,Kathmandu
+"Bageshwori, Bhaktapur",North,2300000.0,per_aana,6.0,Paved,,Bhaktapur
+"Hattiban, Lalitpur",South,3800000.0,per_aana,12.0,Dhalan,3.2,Lalitpur
+"Hattiban, Lalitpur",North,3800000.0,per_aana,12.0,Soil Stabilized,,Lalitpur
+"Hattiban, Lalitpur",West,3800000.0,per_aana,20.0,Gravelled,4.2,Lalitpur
+"Imadol, Lalitpur",South,5000000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Hattiban, Lalitpur",East,3500000.0,per_aana,12.0,Gravelled,4.2,Lalitpur
+"Lamatar, Lalitpur",West,2500000.0,per_aana,12.0,Soil Stabilized,,Lalitpur
+"Mid Baneshwor, Kathmandu",,10000000.0,per_aana,13.0,Black Topped,6.1,Kathmandu
+"Nakhudole, Lalitpur",,4500000.0,per_aana,16.0,Black Topped,,Lalitpur
+"Salyanthan Plotting, Kathmandu",West,2800000.0,per_aana,16.0,Dhalan,,Kathmandu
+"Tarkeshwor, Kathmandu",East,600000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Bafal, Kathmandu",East,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Thimi, Bhaktapur",West,52500000.0,total,20.0,Black Topped,7.3,Bhaktapur
+"Mandikhatar, Kathmandu",East,3200000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Bhaisepati, Kavrepalanchok",East,325000.0,per_aana,20.0,Soil Stabilized,4.2,Unknown
+"Bhaisepati, Lalitpur",North,3450000.0,per_aana,11.0,Gravelled,,Lalitpur
+"Bhaisepati, Kavrepalanchok",East,475000.0,per_aana,20.0,Soil Stabilized,,Unknown
+"Budhanilkantha, Kathmandu",West,4600000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Godamchaur, Lalitpur",West,1830000.0,per_aana,20.0,Soil Stabilized,3.1,Lalitpur
+"Kalanki, Kathmandu",South,4000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Sinamangal, Kathmandu",West,8000000.0,per_aana,13.0,Paved,5.2,Kathmandu
+"Syuchatar, Kathmandu",,4200000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Sanothimi, Bhaktapur",,4900000.0,per_aana,26.0,Black Topped,11.2,Bhaktapur
+"Harisiddhi, Lalitpur",,2400000.0,per_aana,4.0,Alley,,Lalitpur
+"Narayanthan , Kathmandu",East,4200000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Mulpani, Kathmandu",East,5000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Mandikhatar, Kathmandu",East,5500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Rudreshwor, Kathmandu",East,5500000.0,per_aana,12.0,Soil Stabilized,10.3,Kathmandu
+"Changathali, Lalitpur",South,2700000.0,per_aana,12.0,Dhalan,6.2,Lalitpur
+"Mulpani, Kathmandu",East,6000000.0,per_aana,25.0,Black Topped,,Kathmandu
+"Mulpani, Kathmandu",North-East,2000000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Sanagaun, Lalitpur",West,2600000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Godamchaur, Lalitpur",West,1830000.0,per_aana,20.0,Gravelled,4.2,Lalitpur
+"Bode, Bhaktapur",North,,,20.0,Paved,,Bhaktapur
+"Sanothimi, Bhaktapur",South,4100000.0,per_aana,13.0,Paved,3.1,Bhaktapur
+"Dhobighat, Lalitpur",East,,,12.0,Black Topped,,Lalitpur
+"Dhungeadda, Kathmandu",South,3500000.0,per_aana,12.0,Gravelled,,Kathmandu
+"Jharuwarasi, Lalitpur",South-East,1900000.0,per_aana,16.0,Dhalan,4.1,Lalitpur
+"Balambu, Kathmandu",East,3100000.0,per_aana,11.0,Black Topped,3.3,Kathmandu
+"Gatthaghar, Bhaktapur",South,5600000.0,per_aana,16.0,Black Topped,,Bhaktapur
+"Hattigauda, Kathmandu",East,4500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Dhapasi, Kathmandu",West,3000000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Lazimpat, Kathmandu",North,6500000.0,per_aana,13.0,Black Topped,5.2,Kathmandu
+"Purano Naikap, Kathmandu",South,2800000.0,per_aana,13.0,Black Topped,5.2,Kathmandu
+"Naya Naikap, Kathmandu",South-East,4500000.0,per_aana,13.0,Dhalan,3.3,Kathmandu
+"Batar, Nuwakot",West,9000000.0,per_aana,,,,Unknown
+"Kalanki, Kathmandu",South,3700000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sitapaila, Kathmandu",South-East,4300000.0,per_aana,13.0,Black Topped,3.1,Kathmandu
+"Harisiddhi, Lalitpur",West,3800000.0,per_aana,14.0,Gravelled,4.2,Lalitpur
+"Sanagaun Lubhu, Lalitpur",South,3700000.0,per_aana,12.0,Gravelled,9.3,Lalitpur
+"Tokha, Kathmandu",East,3700000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Nil Barahi Mandir, Bhaktapur",East,5200000.0,per_aana,24.0,Soil Stabilized,,Bhaktapur
+"Imadol, Lalitpur",South,4500000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sitapaila, Kathmandu",North-West,4300000.0,per_aana,16.0,Black Topped,4.2,Kathmandu
+"Budhanilkantha, Kathmandu",East,5000000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Chapali, Kathmandu",North-East,4500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Tikathali, Lalitpur",West,4200000.0,per_aana,13.0,Dhalan,8.2,Lalitpur
+"Thimi, Bhaktapur",North,5500000.0,per_aana,26.0,Black Topped,4.3,Bhaktapur
+"Kapan, Kathmandu",South-West,3500000.0,per_aana,10.0,Gravelled,4.3,Kathmandu
+"Deuwa chowk, Kathmandu",East,3700000.0,per_aana,13.0,Dhalan,3.2,Kathmandu
+"Hattigauda, Kathmandu",North,3800000.0,per_aana,12.0,Dhalan,4.2,Kathmandu
+"Bhangal , Kathmandu",West,4200000.0,per_aana,20.0,Dhalan,4.2,Kathmandu
+"Chapali, Kathmandu",North,4600000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Chapali, Kathmandu",South,4800000.0,per_aana,15.0,Soil Stabilized,,Kathmandu
+"Balkumari, Lalitpur",East,3500000.0,per_aana,20.0,Black Topped,,Lalitpur
+"Chobhar, Kathmandu",South-West,,,20.0,Black Topped,,Kathmandu
+"Ganesh Chowk, Kathmandu",West,,,12.0,Paved,,Kathmandu
+"Harisiddhi, Lalitpur",North,3400000.0,per_aana,13.0,Soil Stabilized,3.2,Lalitpur
+"Harisiddhi, Lalitpur",North,3400000.0,per_aana,13.0,Soil Stabilized,4.1,Lalitpur
+"Harisiddhi, Lalitpur",West,2800000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Sangla, Kathmandu",South,2750000.0,per_aana,,,,Kathmandu
+"Budhanilkantha, Kathmandu",East,5500000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Chhaling, Bhaktapur",North-East,1000000.0,per_aana,,Black Topped,,Bhaktapur
+"Pasikot, Kathmandu",West,4500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",North,2600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",North,2700000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Nagdaha, Lalitpur",East,3000000.0,per_aana,16.0,Soil Stabilized,,Lalitpur
+"Changathali, Lalitpur",West,3000000.0,per_aana,16.0,Soil Stabilized,,Lalitpur
+"New Baneshwor, Kathmandu",East,7500000.0,per_aana,22.0,Black Topped,5.1,Kathmandu
+"Dhumbarahi, Kathmandu",South,31500000.0,total,13.0,Black Topped,4.2,Kathmandu
+"Sanothimi, Bhaktapur",West,5700000.0,per_aana,22.0,Soil Stabilized,,Bhaktapur
+"Lazimpat, Kathmandu",West,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bhaisepati, Lalitpur",North-East,1200000000.0,total,72.0,Black Topped,,Lalitpur
+"Budhanilkantha, Kathmandu",East,5000000.0,per_aana,13.0,Black Topped,4.2,Kathmandu
+"Taulung, Kathmandu",South,4500000.0,per_aana,14.0,Dhalan,,Kathmandu
+"Tikathali, Lalitpur",North,3800000.0,per_aana,16.0,Dhalan,,Lalitpur
+"Lubhu, Lalitpur",South,5500000.0,per_aana,25.0,Paved,3.1,Lalitpur
+"Old Baneshwor, Kathmandu",South,,,20.0,Black Topped,,Kathmandu
+"Bafal, Kathmandu",South,7500000.0,per_aana,16.0,Black Topped,17.2,Kathmandu
+"Dhulikhel, Kavrepalanchok",North-West,,,42.0,Black Topped,,Unknown
+"Lubhu, Lalitpur",South,2600000.0,per_aana,13.0,Dhalan,3.3,Lalitpur
+"Lubhu, Lalitpur",South,2800000.0,per_aana,13.0,Dhalan,3.1,Lalitpur
+"Bafal, Kathmandu",East,5200000.0,per_aana,,,,Kathmandu
+"Bafal, Kathmandu",East,5500000.0,per_aana,,,,Kathmandu
+"Chapali, Kathmandu",East,5000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Dhapasi, Kathmandu",East,5000000.0,per_aana,22.0,Paved,6.3,Kathmandu
+"Hepali Height, Kathmandu",South,8500000.0,per_aana,20.0,Paved,5.2,Kathmandu
+"Bhangal , Kathmandu",South,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Kalyanpur, Chitwan",East,5000000.0,total,,Black Topped,,Unknown
+"Ganesh Chowk, Kathmandu",West,5500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Special chowk, Kathmandu",South,5000000.0,per_aana,12.0,Gravelled,4.1,Kathmandu
+"Budhanilkantha, Kathmandu",East,4000000.0,per_aana,,Black Topped,,Kathmandu
+"Panauti, Kavrepalanchok",North,800000.0,per_aana,20.0,Gravelled,,Unknown
+"Damaitar, Lalitpur",North,,,13.0,Gravelled,,Lalitpur
+"Bhimdhunga, Kathmandu",North-East,2000000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Budhanilkantha, Kathmandu",South-West,4500000.0,per_aana,12.0,Black Topped,15.2,Kathmandu
+"Bhanimandal, Lalitpur",North,6800000.0,per_aana,,,,Lalitpur
+"Dhapasi, Kathmandu",South,6000000.0,per_aana,20.0,Paved,,Kathmandu
+"Kalanki, Kathmandu",West,4500000.0,total,,,4.3,Kathmandu
+"Sanagaun Lubhu, Lalitpur",South,3100000.0,per_aana,13.0,Gravelled,4.2,Lalitpur
+"Chapali, Kathmandu",North-East,5000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Bhangal , Kathmandu",South-East,4800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",West,3800000.0,per_aana,14.0,Soil Stabilized,4.3,Lalitpur
+"Imadol, Lalitpur",South,3200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Dhapasi, Kathmandu",South-East,5200000.0,per_aana,18.0,Black Topped,,Kathmandu
+"Pasikot, Kathmandu",South,4100000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Kapan, Kathmandu",East,7000000.0,per_aana,,Black Topped,18.2,Kathmandu
+"Chapali, Kathmandu",East,12500000.0,per_aana,,Black Topped,,Kathmandu
+"Bhangal , Kathmandu",West,5000000.0,per_aana,35.0,Black Topped,7.2,Kathmandu
+"Sanagaun, Lalitpur",West,3700000.0,per_aana,20.0,Gravelled,3.1,Lalitpur
+"Deuwa Niwas, Kathmandu",South,37200000.0,total,12.0,Paved,,Kathmandu
+"Chapali, Kathmandu",North,4500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Chapali, Kathmandu",South,22000000.0,total,13.0,Gravelled,,Kathmandu
+"Thulobharyang, Kathmandu",,,,,,,Kathmandu
+"Tokha, Kathmandu",East,,,13.0,Black Topped,,Kathmandu
+"Sitapaila, Kathmandu",South,4200000.0,per_aana,20.0,Black Topped,4.3,Kathmandu
+"Balambu, Kathmandu",South-West,3500000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Balambu, Kathmandu",East,4000000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Italitar, Kathmandu",West,4700000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Bhaisepati, Lalitpur",South,6500000.0,per_aana,25.0,Black Topped,,Lalitpur
+"Battisputali, Kathmandu",South-East,7200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Tinkune, Kathmandu",West,7500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sinamangal, Kathmandu",East,14000000.0,per_aana,26.0,Black Topped,,Kathmandu
+"Thulobharyang, Kathmandu",East,,,15.0,Black Topped,4.2,Kathmandu
+"Deuwa chowk, Kathmandu",West,5500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Hepali Height, Kathmandu",East,4800000.0,per_aana,12.0,Black Topped,4.3,Kathmandu
+"Tathali, Bhaktapur",South-West,2100000.0,per_aana,20.0,Black Topped,,Bhaktapur
+"Chapali, Kathmandu",North-East,22000000.0,total,14.0,Gravelled,,Kathmandu
+"Deuwa chowk, Kathmandu",South,6000000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Tribhuwan Park, Kathmandu",East,2500000.0,per_aana,,,,Kathmandu
+"Chapali, Kathmandu",East,22799999.999999996,total,14.0,Paved,4.3,Kathmandu
+"Pasikot, Kathmandu",South-East,2700000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Deuwa chowk, Kathmandu",South,27200000.000000004,total,14.0,Paved,,Kathmandu
+"Kirtipur, Kathmandu",East,,,20.0,Soil Stabilized,,Kathmandu
+"Budhanilkantha, Kathmandu",East,5000000.0,per_aana,15.0,Black Topped,,Kathmandu
+"Hattigauda, Kathmandu",West,2500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Munde, Nawalpur",North,150000.0,per_dhur,20.0,Black Topped,,Unknown
+"Kuleshwor, Kathmandu",East,7000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Shantinagar, Kathmandu",South-East,7500000.0,per_aana,13.0,Black Topped,8.4,Kathmandu
+"Tathali, Bhaktapur",West,1500000.0,per_aana,10.0,Black Topped,,Bhaktapur
+"Madhesa, Sunsari",East,2300000.0,per_kattha,32.0,Black Topped,5.15,Unknown
+"Chunikhel, Kathmandu",South,4200000.0,per_aana,13.0,Paved,,Kathmandu
+"Sitapaila, Kathmandu",North,4500000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Sudal, Bhaktapur",East,,,8.0,Paved,71.2,Bhaktapur
+"Sanagaun Lubhu, Lalitpur",East,3600000.0,per_aana,20.0,Paved,,Lalitpur
+"Shantinagar, Kathmandu",South-East,7500000.0,per_aana,13.0,Black Topped,9.1,Kathmandu
+"Golfutar, Kathmandu",West,8000000.0,per_aana,35.0,Black Topped,,Kathmandu
+"Bramhakhel, Kathmandu",East,2100000.0,per_aana,13.0,Gravelled,3.2,Kathmandu
+"Radhe Radhe, Bhaktapur",West,5500000.0,per_aana,13.0,Dhalan,,Bhaktapur
+"Radhe Radhe, Bhaktapur",West,5500000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Chapali, Kathmandu",West,12500000.0,per_aana,40.0,Black Topped,8.1,Kathmandu
+"Budhanilkantha, Kathmandu",North-East,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Phutung, Kathmandu",South,1800000.0,per_aana,10.0,Soil Stabilized,,Kathmandu
+"Budhanilkantha, Kathmandu",North,6500000.0,per_aana,14.0,Black Topped,,Kathmandu
+"Baluwatar, Kathmandu",South-West,,,20.0,Black Topped,,Kathmandu
+"Bansbari, Kathmandu",West,6500000.0,per_aana,13.0,Paved,,Kathmandu
+"Deuwa Chowk, Kathmandu",South-East,5300000.0,per_aana,20.0,Black Topped,10.1,Kathmandu
+"Budhanilkantha, Kathmandu",West,4200000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Chapali, Kathmandu",South-West,5200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sitapaila, Kathmandu",North-East,4800000.0,per_aana,14.0,Gravelled,,Kathmandu
+"Gwarko, Lalitpur",East,5500000.0,per_aana,20.0,Gravelled,,Lalitpur
+"New Baneshwor, Kathmandu",East,8500000.0,per_aana,26.0,Dhalan,,Kathmandu
+"Ramkot, Kathmandu",North,2800000.0,per_aana,26.0,Black Topped,9.2,Kathmandu
+"Bakhri Gaun, Bhaktapur",East,900000.0,per_aana,20.0,Gravelled,,Bhaktapur
+"Wasik, Kathmandu",East,3800000.0,per_aana,13.0,Gravelled,11.2,Kathmandu
+"Wasik, Kathmandu",East,4000000.0,per_aana,13.0,Gravelled,24.2,Kathmandu
+"Lama Gaun, Nuwakot",,1200000.0,per_ropani,13.0,Gravelled,105.1,Unknown
+"Kharibhanjyang, Nuwakot",,1000000.0,per_ropani,13.0,Gravelled,108.3,Unknown
+"Lele, Lalitpur",East,1250000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Naxal, Kathmandu",South-East,7500000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Dadhikot, Bhaktapur",South,4500000.0,per_aana,14.0,Paved,,Bhaktapur
+"Kirtipur, Kathmandu",East,,,25.0,Dhalan,,Kathmandu
+"Kirtipur, Kathmandu",East,,,25.0,Dhalan,,Kathmandu
+"Kirtipur, Kathmandu",East,,,35.0,Dhalan,,Kathmandu
+"Chandol, Kathmandu",West,6500000.0,per_aana,13.0,Black Topped,,Kathmandu
+", Nuwakot",East,6000000.0,total,20.0,Soil Stabilized,96.2,Unknown
+"Mahadev Danda, Nuwakot",East,4750000.0,total,20.0,Soil Stabilized,84.3,Unknown
+"Dhumbarahi, Kathmandu",East,5000000.0,per_aana,13.0,Paved,,Kathmandu
+"Budhanilkantha, Kathmandu",North,2500000.0,per_aana,16.0,Gravelled,,Kathmandu
+"Tangal, Kathmandu",East,,,12.0,Dhalan,,Kathmandu
+"Bhaisepati, Lalitpur",,6500000.0,per_aana,,,,Lalitpur
+"Gwarko, Lalitpur",North,5000000.0,per_aana,13.0,Dhalan,5.2,Lalitpur
+"Hattigauda, Kathmandu",North,3900000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Samakhusi, Kathmandu",South,10000000.0,per_aana,20.0,Black Topped,12.2,Kathmandu
+"Shankhamul, Kathmandu",South,7500000.0,per_aana,20.0,Black Topped,29.2,Kathmandu
+"Chapali, Kathmandu",South-West,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Naya Naikap, Kathmandu",West,3000000.0,per_aana,13.0,Dhalan,5.2,Kathmandu
+"Nakhel, Bhaktapur",East,1200000.0,per_aana,13.0,Gravelled,,Bhaktapur
+"Hattigauda, Kathmandu",South,4800000.0,per_aana,13.0,Dhalan,4.3,Kathmandu
+"Bansbari, Kathmandu",West,5500000.0,per_aana,13.0,Black Topped,4.2,Kathmandu
+"Maharajgunj, Kathmandu",East,8000000.0,per_aana,16.0,Dhalan,,Kathmandu
+"Durbar Marga, Kathmandu",West,,,20.0,Black Topped,,Kathmandu
+"Budhanilkantha, Kathmandu",South-East,4000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Budhanilkantha, Kathmandu",South-East,4300000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Dhungeadda, Kathmandu",South,2300000.0,per_aana,13.0,Soil Stabilized,3.2,Kathmandu
+"Dahachowk, Kathmandu",South-East,3200000.0,per_aana,19.0,Dhalan,,Kathmandu
+"Sitapakha, Lalitpur",North-East,4500000.0,per_aana,13.0,Black Topped,5.3,Lalitpur
+"Kalanki, Kathmandu",North,4500000.0,per_aana,13.0,Black Topped,0.4,Kathmandu
+"Pasikot, Kathmandu",East,2400000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Godawari, Lalitpur",North-East,2000000.0,per_aana,13.0,Soil Stabilized,10.2,Lalitpur
+"Bramhakhel, Kathmandu",North,2000000.0,per_aana,20.0,Soil Stabilized,3.2,Kathmandu
+"Bansbari, Kathmandu",,,,20.0,Black Topped,,Kathmandu
+"Dharmasthali, Kathmandu",East,2700000.0,per_aana,20.0,Soil Stabilized,,Kathmandu
+"Chhetrapati, Kathmandu",South,10000000.0,per_aana,13.0,Black Topped,10.2,Kathmandu
+"Kaushaltar, Bhaktapur",South,5400000.0,per_aana,16.0,Black Topped,,Bhaktapur
+"New Baneshwor, Kathmandu",East,9000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Rudreshwor, Kathmandu",South,6600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Pasikot, Kathmandu",South-West,4500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sanepa, Lalitpur",East,,,12.0,Black Topped,,Lalitpur
+"Dhumbarahi, Kathmandu",East,5500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Kapan, Kathmandu",North,4000000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Chhampi, Lalitpur",East,,,20.0,Black Topped,,Lalitpur
+"Ranipauwa, Nuwakot",South,7700000.0,total,12.0,Gravelled,178.1,Unknown
+"Sunkhani, Nuwakot",East,5000000.0,total,13.0,Gravelled,,Unknown
+"Sunkhani, Nuwakot",East,2000000.0,total,13.0,Gravelled,22.3,Unknown
+"Shera Bagar, Nuwakot",East,,,13.0,Gravelled,418.1,Unknown
+"Chapali, Kathmandu",South,4800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Om Danda, Kavrepalanchok",South-West,275000.0,per_aana,20.0,Dhalan,,Unknown
+"Rudreshwor, Kathmandu",East,,,12.0,Black Topped,,Kathmandu
+"Sangla, Kathmandu",South-West,4000000.0,per_aana,13.0,Paved,,Kathmandu
+"Maitidevi, Kathmandu",South,7000000.0,per_aana,10.0,Black Topped,5.3,Kathmandu
+"Chapali, Kathmandu",South-East,4000000.0,per_aana,16.0,Black Topped,18.1,Kathmandu
+"Lele, Lalitpur",East,,,20.0,Paved,,Lalitpur
+"Kamerotar, Bhaktapur",North,6000000.0,per_aana,24.0,Black Topped,14.2,Bhaktapur
+"Deuwa Chowk, Kathmandu",South-East,6000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Aakasedhara, Kathmandu",South,2300000.0,per_aana,32.0,Black Topped,,Kathmandu
+"Mandikhatar, Kathmandu",West,5000000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Bhangal , Kathmandu",East,5200000.0,per_aana,20.0,Black Topped,5.5,Kathmandu
+"Hattigauda, Kathmandu",South,4350000.0,per_aana,13.0,Gravelled,5.2,Kathmandu
+"Tokha Saraswoti, Kathmandu",East,3800000.0,per_aana,13.0,Gravelled,4.2,Kathmandu
+"Dahachowk, Kathmandu",North,3200000.0,per_aana,10.0,Gravelled,,Kathmandu
+"Chhaimale, Kathmandu",South-East,250000.0,per_aana,14.0,Gravelled,,Kathmandu
+"Pudibhanjyang, Nuwakot",East,3600000.0,total,20.0,Soil Stabilized,,Unknown
+"Narayanthan, Nuwakot",East,7800000.0,total,20.0,Gravelled,,Unknown
+"Okharpauwa, Nuwakot",East,4800000.0,total,20.0,Gravelled,,Unknown
+"Mahadev Danda, Nuwakot",East,4750000.0,total,20.0,Soil Stabilized,80.3,Unknown
+"Shera Bagar, Nuwakot",East,5000000.0,total,20.0,Gravelled,96.3,Unknown
+"Ranipauwa, Nuwakot",East,7700000.0,total,20.0,Soil Stabilized,176.1,Unknown
+", Nuwakot",East,4200000.0,total,20.0,Soil Stabilized,,Unknown
+"Katheri, Nuwakot",East,3600000.0,total,20.0,Soil Stabilized,,Unknown
+"Ganesh Chowk, Kathmandu",North,6500000.0,per_aana,13.0,Gravelled,,Kathmandu
+"Chappal Karkhana, Kathmandu",North,6500000.0,per_aana,13.0,Black Topped,4.1,Kathmandu
+"Bhaisepati, Lalitpur",North-East,5300000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",North-East,1800000.0,per_aana,16.0,Gravelled,44.2,Lalitpur
+"Dhapakhel, Lalitpur",North-West,3500000.0,per_aana,13.0,Paved,4.2,Lalitpur
+"Thecho, Lalitpur",North-East,2700000.0,per_aana,22.0,Black Topped,4.3,Lalitpur
+"Imadol, Lalitpur",South-East,,,13.0,Gravelled,,Lalitpur
+"New Baneshwor, Kathmandu",South-East,9700000.0,per_aana,20.0,Gravelled,,Kathmandu
+"Danchhi, Kathmandu",South-East,3000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Dharmasthali, Kathmandu",East,4500000.0,per_aana,20.0,Paved,,Kathmandu
+"Paiyuntar, Kathmandu",South,4000000.0,per_aana,20.0,Paved,,Kathmandu
+"Chapagaun, Lalitpur",West,,,16.0,Dhalan,,Lalitpur
+"Parsa, Chitwan",East,6000000.0,per_kattha,,Black Topped,,Unknown
+"Rudreshwor, Kathmandu",South,6600000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Dhapakhel, Lalitpur",East,2300000.0,per_aana,,,,Lalitpur
+"Tathali, Bhaktapur",South-East,,,13.0,Dhalan,3.2,Bhaktapur
+"Dhapasi, Kathmandu",South-West,5500000.0,per_aana,10.0,Dhalan,,Kathmandu
+"Dhungeadda, Kathmandu",North-East,4700000.0,per_aana,15.0,Dhalan,3.1,Kathmandu
+"Bungamati, Lalitpur",East,1950000.0,per_aana,,,,Lalitpur
+"Sanepa, Lalitpur",South-West,3700000.0,per_aana,14.0,Dhalan,3.1,Lalitpur
+"Jharuwarasi, Lalitpur",South-West,1900000.0,per_aana,25.0,Black Topped,15.3,Lalitpur
+"Chobhar, Kathmandu",South-West,2900000.0,per_aana,18.0,Black Topped,,Kathmandu
+"Birendranagar, Chitwan",South-West,4000000.0,per_kattha,15.0,Dhalan,,Unknown
+"Budhanilkantha, Kathmandu",East,6200000.0,per_aana,12.0,Dhalan,8.2,Kathmandu
+"Budhanilkantha, Kathmandu",South,3200000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Budhanilkantha, Kathmandu",South,2800000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Kalanki, Kathmandu",West,5000000.0,per_aana,20.0,Dhalan,,Kathmandu
+"Badikhel, Lalitpur",East,2400000.0,per_aana,20.0,Black Topped,3.1,Lalitpur
+"Badeli, Kathmandu",North,3000000.0,per_aana,13.0,Gravelled,9.2,Kathmandu
+"Duwakot, Bhaktapur",,,,20.0,Gravelled,,Bhaktapur
+"Lele, Lalitpur",North,1300000.0,per_aana,16.0,Black Topped,,Lalitpur
+"Kanyam, Ilam",West,,,,Gravelled,,Unknown
+"Bungamati, Lalitpur",South-East,,,20.0,Gravelled,4.1,Lalitpur
+"Bhaisepati, Lalitpur",North-East,4000000.0,per_aana,14.0,Black Topped,,Lalitpur
+"Gajuri, Dhading",South,600000.0,per_aana,,,,Unknown
+"Tinkune, Kathmandu",East,5800000.0,per_aana,,,,Kathmandu
+"Goldhunga, Kathmandu",North,3200000.0,per_aana,,,3.2,Kathmandu
+"Nagdaha, Lalitpur",North,3200000.0,per_aana,20.0,Soil Stabilized,,Lalitpur
+"Jhamsikhel, Lalitpur",East,10000000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Gaushala, Kathmandu",North,15000000.0,per_aana,,,3.2,Kathmandu
+"Pasikot, Kathmandu",South,4200000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Ramkot, Kathmandu",South,2500000.0,per_aana,13.0,Black Topped,3.2,Kathmandu
+"Chapali, Kathmandu",South,5000000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Pasikot, Kathmandu",North,4500000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Chapali, Kathmandu",South-West,4500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Golfutar, Kathmandu",North-East,5500000.0,per_aana,20.0,Black Topped,,Kathmandu
+"Sirutar, Bhaktapur",South-East,4500000.0,per_aana,12.0,Dhalan,,Bhaktapur
+"Soltidobato, Kathmandu",South,,,8.0,Black Topped,5.3,Kathmandu
+"Soltimode, Kathmandu",East,,,42.0,Black Topped,,Kathmandu
+"Lazimpat, Kathmandu",South,8000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Kupandole, Lalitpur",South-East,12500000.0,per_aana,24.0,Black Topped,,Lalitpur
+"Imadol, Lalitpur",North,3800000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Batar, Nuwakot",East,4500000.0,per_aana,,Black Topped,8.3,Unknown
+"Bhaisepati, Lalitpur",South,5000000.0,total,12.0,Dhalan,,Lalitpur
+"Hetauda, Makwanpur",East,45000.0,per_sqm,,Black Topped,,Unknown
+"Balkot, Bhaktapur",East,4500000.0,per_aana,10.0,Gravelled,,Bhaktapur
+"Ganesh Chowk, Kathmandu",South,6500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Sanagaun, Lalitpur",East,3600000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",West,3600000.0,per_aana,19.0,Gravelled,,Lalitpur
+"Lele, Lalitpur",North,1100000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",South,3800000.0,per_aana,20.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",East,2500000.0,per_aana,15.0,Gravelled,3.3,Lalitpur
+"Kharipati, Bhaktapur",South-East,1600000.0,per_aana,20.0,Dhalan,8.2,Bhaktapur
+"Badikhel, Lalitpur",South,1800000.0,per_aana,,Gravelled,,Lalitpur
+"Sanagaun, Lalitpur",West,3800000.0,per_aana,20.0,Gravelled,3.2,Lalitpur
+"Chapagaun, Lalitpur",East,1500000.0,per_aana,9.0,Gravelled,,Lalitpur
+"Lazimpat, Kathmandu",West,7500000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Ganesh Chowk, Kathmandu",West,4200000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Lubhu, Lalitpur",South,2100000.0,per_aana,12.0,Gravelled,5.1,Lalitpur
+"Koteshwor, Kathmandu",West,7300000.0,per_aana,20.0,Black Topped,5.3,Kathmandu
+"Badeli, Kathmandu",North-East,4500000.0,per_aana,,,,Kathmandu
+"Rudreshwor, Kathmandu",West,4800000.0,per_aana,13.0,Black Topped,,Kathmandu
+"Lubhu, Lalitpur",North-West,3300000.0,per_aana,22.0,Gravelled,4.2,Lalitpur
+"Chapali, Kathmandu",East,3800000.0,per_aana,12.0,Black Topped,3.2,Kathmandu
+"Gaidakot, Nawalpur",East,6100000.0,total,18.0,Black Topped,5.2,Unknown
+"Naubise, Dhading",North-West,310000.0,total,20.0,Paved,40.2,Unknown
+"Putalisadak, Kathmandu",West,17500000.0,per_aana,40.0,Black Topped,,Kathmandu
+"Imadol, Lalitpur",East,4300000.0,per_aana,12.0,Gravelled,3.1,Lalitpur
+"Tikathali, Lalitpur",South,4800000.0,per_aana,12.0,Gravelled,4.2,Lalitpur
+"Tikathali, Lalitpur",North,3800000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Tikathali, Lalitpur",North,3800000.0,per_aana,13.0,Gravelled,3.1,Lalitpur
+"Tikathali, Lalitpur",South,4800000.0,per_aana,12.0,Gravelled,4.2,Lalitpur
+"Tikathali, Lalitpur",North,3800000.0,per_aana,12.0,Gravelled,3.2,Lalitpur
+"Gyaneshwor, Kathmandu",South,9000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Balkhu, Kathmandu",South,6000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Tikathali, Lalitpur",East,3800000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Lamatar, Lalitpur",South-East,2800000.0,per_aana,19.0,Gravelled,,Lalitpur
+"Chhauni, Kathmandu",South,8500000.0,per_aana,36.0,Black Topped,,Kathmandu
+"Changunarayan, Bhaktapur",South,,,14.0,Dhalan,5.1,Bhaktapur
+"Duwakot, Bhaktapur",North,,,13.0,Gravelled,,Bhaktapur
+"Duwakot, Bhaktapur",South,,,13.0,Gravelled,4.2,Bhaktapur
+"Lamatar, Lalitpur",East,3000000.0,per_aana,20.0,Dhalan,4.2,Lalitpur
+"Lamatar, Lalitpur",East,3000000.0,per_aana,13.0,Dhalan,,Lalitpur
+"Lubhu, Lalitpur",South,3000000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Sanagaun, Lalitpur",West,3300000.0,per_aana,13.0,Gravelled,8.3,Lalitpur
+"Sanagaun, Lalitpur",South,4000000.0,per_aana,16.0,Black Topped,,Lalitpur
+"Lamatar, Lalitpur",South,7000000.0,total,15.0,Gravelled,3.2,Lalitpur
+"Lamatar, Lalitpur",South,2700000.0,per_aana,13.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",North-West,8000000.0,total,13.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",East,3200000.0,total,13.0,Gravelled,2.2,Lalitpur
+"Lamatar, Lalitpur",South,8000000.0,total,12.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",South,1800000.0,per_aana,12.0,Gravelled,3.2,Lalitpur
+"Lamatar, Lalitpur",East,2200000.0,per_aana,,,,Lalitpur
+"Lamatar, Lalitpur",West,3500000.0,per_aana,16.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",South-West,2700000.0,per_aana,13.0,Gravelled,7.2,Lalitpur
+"Lamatar, Lalitpur",East,1800000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Lamatar, Lalitpur",East,4200000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",North-East,3500000.0,per_aana,19.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",West,2800000.0,per_aana,13.0,Gravelled,3.2,Lalitpur
+"Lubhu, Lalitpur",East,2800000.0,per_aana,12.0,Gravelled,,Lalitpur
+"Lubhu, Lalitpur",South-East,3700000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Lubhu, Lalitpur",South-East,3700000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Kapan, Kathmandu",West,3800000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Dhalpa road, Kathmandu",West,3000000.0,per_aana,28.0,Black Topped,,Kathmandu
+"Itahari, Sunsari",South,370000.0,per_dhur,20.0,Gravelled,0.13,Unknown
+"Jitpurphedi, Kathmandu",South,2500000.0,per_aana,13.0,Soil Stabilized,,Kathmandu
+"Setipakha, Lalitpur",South-West,4400000.0,per_aana,13.0,Dhalan,3.2,Lalitpur
+"Setipakha, Lalitpur",South-East,4400000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Sitapakha, Lalitpur",South,4400000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Sitapakha, Lalitpur",North,4400000.0,per_aana,12.0,Dhalan,,Lalitpur
+"Lamatar, Lalitpur",West,3200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Lamatar, Lalitpur",North-West,3200000.0,per_aana,13.0,Soil Stabilized,,Lalitpur
+"Aambadi Chowk, Morang",South,,,28.0,Black Topped,,Unknown
+"Lubhu, Lalitpur",West,2500000.0,per_aana,13.0,Soil Stabilized,5.2,Lalitpur
+"Sipadol, Bhaktapur",South-East,5000000.0,per_aana,10.0,Black Topped,,Bhaktapur
+"Gothgaun, Morang",North,3500000.0,per_dhur,20.0,Black Topped,0.8,Unknown
+"Koteshwor, Kathmandu",South,8000000.0,per_aana,12.0,Black Topped,,Kathmandu
+"Pasikot, Kathmandu",North,4200000.0,per_aana,13.0,Gravelled,3.3,Kathmandu
+"Pokhara, Kaski",East,1500000.0,per_ropani,12.0,Black Topped,,Unknown
+"Tinthana, Kathmandu",South,3400000.0,per_aana,16.0,Black Topped,,Kathmandu
+"Naikap, Kathmandu",West,3500000.0,per_aana,13.0,Black Topped,4.2,Kathmandu
+"Dhulikhel, Kavrepalanchok",South,500000.0,per_aana,16.0,Soil Stabilized,,Unknown
+"Chandragiri, Kathmandu",South,2600000.0,per_aana,10.0,Black Topped,6.2,Kathmandu
+"Panauti, Kavrepalanchok",South,600000.0,per_aana,18.0,Black Topped,,Unknown
+"Machhe Gaun, Kathmandu",South-East,2300000.0,per_aana,13.0,Dhalan,3.2,Kathmandu
+"Baluwatar, Kathmandu",North-East,8000000.0,per_aana,13.0,Paved,,Kathmandu
+"Jamune, Tanahun",East,3500000.0,total,20.0,Black Topped,4.2,Unknown
+"Pasikot, Kathmandu",North,4200000.0,per_aana,13.0,Dhalan,3.3,Kathmandu
+"Pasikot, Kathmandu",West,4100000.0,per_aana,14.0,Gravelled,,Kathmandu
+"Bhimdhunga, Kathmandu",West,2700000.0,per_aana,13.0,Dhalan,,Kathmandu
+"Gwarko, Lalitpur",South-East,5500000.0,per_aana,12.0,Black Topped,,Lalitpur
+"Palase, Bhaktapur",South,1200000.0,per_aana,8.0,Soil Stabilized,,Bhaktapur

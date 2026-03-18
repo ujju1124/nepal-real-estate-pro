@@ -4,13 +4,9 @@
 .streamlit/secrets.toml
 venv
 
-# ── Large binary model files ──
-*.pkl
-*.joblib
+
 
 # ── Large data files ──
-*.csv
-*.xlsx
 
 # ── Python ──
 __pycache__/
