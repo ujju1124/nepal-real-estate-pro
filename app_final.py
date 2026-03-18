@@ -1662,7 +1662,6 @@ elif section == "💬 Property Assistant":
         "What's the median house price in Kathmandu?",
         "Which neighborhoods have the highest land prices?",
         "How does road type affect land value?",
-        "What is a Lalpurja certificate?",
         "Which model has the best accuracy?",
         "What's a good budget for buying land in Lalitpur?",
     ]
