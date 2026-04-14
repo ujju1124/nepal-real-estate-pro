@@ -152,18 +152,18 @@ def calculate_matching_score(row, prefs):
 @st.cache_data
 def load_analytics_data():
     try:
-        gh = pd.read_csv("housing_model_ready_after_outlier_treatment.csv")
+        gh = pd.read_csv("data/housing_model_ready_after_outlier_treatment.csv")
         gh = gh[gh["district"].isin(MAIN_DISTRICTS)]
 
-        gl = pd.read_csv("cleaned_land_merged_final_after_eda.csv")
+        gl = pd.read_csv("data/cleaned_land_merged_final_after_eda.csv")
         gl = gl[gl["district"].isin(MAIN_DISTRICTS)]
         gl_named = gl[~gl["neighborhood"].str.contains("Zone", na=False)]
 
-        lh = pd.read_csv("cleaned_lalpurja_house_v2_after_cleaning.csv")
+        lh = pd.read_csv("data/cleaned_lalpurja_house_v2_after_cleaning.csv")
         lh["floors_x_land"] = lh["total_floors"] * lh["land_size_aana"]
         lh_named = lh[~lh["neighborhood"].str.contains("Zone", na=False)]
 
-        ll = pd.read_csv("cleaned_lalpurja_land_final_after_eda.csv")
+        ll = pd.read_csv("data/cleaned_lalpurja_land_final_after_eda.csv")
         ll_named = ll[~ll["neighborhood"].str.contains("Zone", na=False)]
 
         return gh, gl, gl_named, lh, lh_named, ll, ll_named
@@ -183,15 +183,15 @@ except Exception as e:
 @st.cache_data
 def build_encoding_maps():
     try:
-        house_fe     = pd.read_csv("housing_features_ready_after_feature_engineering.csv")
-        land_fe      = pd.read_csv("land_features_final_modeled.csv")
-        lph_house_fe = pd.read_csv("lalpurja_house_v2_features_ready.csv")
-        lph_land_fe  = pd.read_csv("lalpurja_dataset_ready_after_feature_engineering.csv")
+        house_fe     = pd.read_csv("data/housing_features_ready_after_feature_engineering.csv")
+        land_fe      = pd.read_csv("data/land_features_final_modeled.csv")
+        lph_house_fe = pd.read_csv("data/lalpurja_house_v2_features_ready.csv")
+        lph_land_fe  = pd.read_csv("data/lalpurja_dataset_ready_after_feature_engineering.csv")
 
-        clean_gh = pd.read_csv("housing_model_ready_after_outlier_treatment.csv")
-        clean_gl = pd.read_csv("cleaned_land_merged_final_after_eda.csv")
-        clean_lh = pd.read_csv("cleaned_lalpurja_house_v2_after_cleaning.csv")
-        clean_ll = pd.read_csv("cleaned_lalpurja_land_final_after_eda.csv")
+        clean_gh = pd.read_csv("data/housing_model_ready_after_outlier_treatment.csv")
+        clean_gl = pd.read_csv("data/cleaned_land_merged_final_after_eda.csv")
+        clean_lh = pd.read_csv("data/cleaned_lalpurja_house_v2_after_cleaning.csv")
+        clean_ll = pd.read_csv("data/cleaned_lalpurja_land_final_after_eda.csv")
 
         clean_gh_f = clean_gh[clean_gh["district"].isin(MAIN_DISTRICTS + ["Unknown"])].reset_index(drop=True)
         house_fe_f = house_fe[house_fe["district"].isin([0,1,2,3])].reset_index(drop=True)
@@ -281,10 +281,10 @@ def load_models():
     try:
         models = {}
         model_files = {
-            "gen_house": "xgboost_housing_final.pkl",
-            "gen_land":  "catboost_land_model_final.pkl",
-            "lph_house": "catboost_lalpurja_house_v2_final.pkl",
-            "lph_land":  "catboost_lalpurja_model_final.pkl",
+            "gen_house": "models/xgboost_housing_final.pkl",
+            "gen_land":  "models/catboost_land_model_final.pkl",
+            "lph_house": "models/catboost_lalpurja_house_v2_final.pkl",
+            "lph_land":  "models/catboost_lalpurja_model_final.pkl",
         }
         for key, fname in model_files.items():
             with open(fname, "rb") as f:
