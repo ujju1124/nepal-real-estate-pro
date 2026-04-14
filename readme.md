@@ -22,8 +22,8 @@ Kathmandu Valley real estate price prediction using scraped listing data,
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/Nepal-Land-Price-Prediction
-cd Nepal-Land-Price-Prediction
+git clone https://github.com/ujju1124/nepal-real-estate-pro
+cd nepal-real-estate-pro
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -96,6 +96,28 @@ Nepal-Land-Price-Prediction/
    (model-agnostic explainability — shows which features drive the price)
 3. **🔍 Recommendations** — Filter properties by budget, size, amenities
 4. **💬 Property Assistant** — RAG chatbot (LangChain + FAISS + GPT-4o-mini)
+
+---
+
+## 🐳 Docker Deployment (Optional)
+
+For containerized deployment:
+
+```bash
+# Build Docker image
+docker build -t nepal-realestate .
+
+# Run container
+docker run -p 8501:8501 --env-file .env nepal-realestate
+
+# Or use docker-compose
+docker-compose up -d
+```
+
+**Benefits:**
+- Consistent environment across platforms
+- Easy deployment to cloud services
+- Isolated dependencies
 
 ---
 
