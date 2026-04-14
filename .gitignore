@@ -7,6 +7,8 @@ venv
 
 
 # ── Large data files ──
+archive/
+utilities/
 
 # ── Python ──
 __pycache__/
