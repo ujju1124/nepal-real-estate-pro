@@ -59,24 +59,42 @@ HUGGINGFACEHUB_API_TOKEN=hf_your_token_here   # For HuggingFace embeddings
 
 ## 📁 Project Structure
 ```
-Nepal-Land-Price-Prediction/
-├── app_final.py                        # Main Streamlit app (4 sections)
-├── lalpurja_scraper_v2.py              # Selenium web scraper
+nepal-real-estate-pro/
+├── app_final.py                        # Main Streamlit app
 ├── requirements.txt                    # Python dependencies
+├── readme.md
+├── Dockerfile                          # Docker configuration
+├── docker-compose.yml
 ├── .env.example                        # Environment variable template
-├── .gitignore
 │
-├── models/                             # Trained model files
+├── data/                               # Cleaned datasets (8 files)
+│   ├── housing_model_ready_after_outlier_treatment.csv
+│   ├── cleaned_land_merged_final_after_eda.csv
+│   ├── cleaned_lalpurja_house_v2_after_cleaning.csv
+│   ├── cleaned_lalpurja_land_final_after_eda.csv
+│   ├── land_features_final_modeled.csv
+│   ├── housing_features_ready_after_feature_engineering.csv
+│   ├── lalpurja_house_v2_features_ready.csv
+│   └── lalpurja_dataset_ready_after_feature_engineering.csv
+│
+├── models/                             # Trained ML models (5 files)
 │   ├── xgboost_housing_final.pkl
 │   ├── catboost_land_model_final.pkl
+│   ├── catboost_lalpurja_house_v2_final.pkl
 │   ├── catboost_lalpurja_model_final.pkl
-│   └── catboost_lalpurja_house_v2_final.pkl
+│   └── scaler_lalpurja_house_v2.pkl
 │
-└── data/                               # Cleaned datasets
-    ├── housing_model_ready_after_outlier_treatment.csv
-    ├── cleaned_land_merged_final_after_eda.csv
-    ├── cleaned_lalpurja_house_v2_after_cleaning.csv
-    └── cleaned_lalpurja_land_final_after_eda.csv
+├── notebooks/                          # Jupyter notebooks (organized by phase)
+│   ├── 01-data-cleaning/
+│   ├── 02-eda/
+│   ├── 03-feature-engineering/
+│   └── 04-model-building/
+│
+├── archive/                            # Raw and intermediate data
+│   ├── raw-data/
+│   └── intermediate-data/
+│
+└── utilities/                          # Unused/old files
 ```
 
 ---

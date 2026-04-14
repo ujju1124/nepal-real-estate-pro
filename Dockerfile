@@ -32,7 +32,9 @@ RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the application
-COPY . .
+COPY app_final.py .
+COPY data/ data/
+COPY models/ models/
 
 # Create directory for Streamlit config (if not exists)
 RUN mkdir -p /root/.streamlit
