@@ -1,0 +1,103 @@
+# Nepal Land & House Price Prediction System
+# Docker Compose configuration for multi-service deployment
+
+version: '3.8'
+
+services:
+  # Main application service
+  nepal-realestate:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nepal-realestate-app
+    ports:
+      - "8501:8501"
+    environment:
+      # Environment variables (use .env file or set directly)
+      - GITHUB_TOKEN=${GITHUB_TOKEN}
+      - HUGGINGFACEHUB_API_TOKEN=${HUGGINGFACEHUB_API_TOKEN}
+      - STREAMLIT_SERVER_PORT=8501
+      - STREAMLIT_SERVER_ADDRESS=0.0.0.0
+      - STREAMLIT_SERVER_HEADLESS=true
+      - STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
+    volumes:
+      # Mount data directory (optional - for persistent data)
+      - ./data:/app/data:ro  # Read-only mount
+      # Mount logs directory (optional)
+      - ./logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - nepal-realestate-network
+    # Resource limits (optional - uncomment if needed)
+    # deploy:
+    #   resources:
+    #     limits:
+    #       memory: 2G
+    #       cpus: '1.0'
+    #     reservations:
+    #       memory: 1G
+    #       cpus: '0.5'
+
+  # Optional: Redis for caching (uncomment if you want to add caching)
+  # redis:
+  #   image: redis:7-alpine
+  #   container_name: nepal-realestate-redis
+  #   ports:
+  #     - "6379:6379"
+  #   volumes:
+  #     - redis_data:/data
+  #   restart: unless-stopped
+  #   networks:
+  #     - nepal-realestate-network
+  #   command: redis-server --appendonly yes
+
+  # Optional: PostgreSQL for data storage (uncomment if you want database)
+  # postgres:
+  #   image: postgres:15-alpine
+  #   container_name: nepal-realestate-db
+  #   environment:
+  #     POSTGRES_DB: nepal_realestate
+  #     POSTGRES_USER: nepal_user
+  #     POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-secure_password_123}
+  #   volumes:
+  #     - postgres_data:/var/lib/postgresql/data
+  #     - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+  #   ports:
+  #     - "5432:5432"
+  #   restart: unless-stopped
+  #   networks:
+  #     - nepal-realestate-network
+
+  # Optional: Nginx reverse proxy (uncomment for production)
+  # nginx:
+  #   image: nginx:alpine
+  #   container_name: nepal-realestate-nginx
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - ./nginx.conf:/etc/nginx/nginx.conf:ro
+  #     - ./ssl:/etc/nginx/ssl:ro
+  #   depends_on:
+  #     - nepal-realestate
+  #   restart: unless-stopped
+  #   networks:
+  #     - nepal-realestate-network
+
+# Networks
+networks:
+  nepal-realestate-network:
+    driver: bridge
+
+# Volumes (uncomment if using optional services)
+# volumes:
+#   redis_data:
+#     driver: local
+#   postgres_data:
+#     driver: local
