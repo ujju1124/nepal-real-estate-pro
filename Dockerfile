@@ -26,10 +26,14 @@ COPY requirements.txt .
 # Use --no-cache-dir to reduce image size
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Copy data files (CSV - small enough for git)
+COPY data/ ./data/
+
 # Copy application files
 COPY app_final.py .
 COPY .env.example .env
-COPY data/ ./data/
+
+# Copy model files (PKL - these are in Docker, not git)
 COPY models/ ./models/
 
 # Create .streamlit directory for config

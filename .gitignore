@@ -9,6 +9,7 @@ venv
 # ── Large data files ──
 archive/
 utilities/
+models/  # Model files included via Docker COPY, not git
 
 # ── Python ──
 __pycache__/
