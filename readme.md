@@ -1,5 +1,6 @@
 # 🏠 Nepal Land & House Price Prediction System
-> End-to-End Machine Learning Project — Final Year Project 2026
+
+**Originally developed as a final year university project; refined here with cleaner dependencies, documentation, and known limitations.**
 
 Kathmandu Valley real estate price prediction using scraped listing data,
 4 production ML models, interactive EDA dashboards, and a RAG-powered chatbot.
@@ -61,13 +62,13 @@ HUGGINGFACEHUB_API_TOKEN=hf_your_token_here   # For HuggingFace embeddings
 ```
 nepal-real-estate-pro/
 ├── app_final.py                        # Main Streamlit app
-├── requirements.txt                    # Python dependencies
+├── requirements.txt                    # Python dependencies (pinned versions)
 ├── readme.md
 ├── Dockerfile                          # Docker configuration
 ├── docker-compose.yml
 ├── .env.example                        # Environment variable template
 │
-├── data/                               # Cleaned datasets (8 files)
+├── data/                               # Cleaned datasets (8 CSV files, ~4 MB)
 │   ├── housing_model_ready_after_outlier_treatment.csv
 │   ├── cleaned_land_merged_final_after_eda.csv
 │   ├── cleaned_lalpurja_house_v2_after_cleaning.csv
@@ -77,7 +78,7 @@ nepal-real-estate-pro/
 │   ├── lalpurja_house_v2_features_ready.csv
 │   └── lalpurja_dataset_ready_after_feature_engineering.csv
 │
-├── models/                             # Trained ML models (5 files)
+├── models/                             # Trained ML models (5 PKL files, ~2 MB)
 │   ├── xgboost_housing_final.pkl
 │   ├── catboost_land_model_final.pkl
 │   ├── catboost_lalpurja_house_v2_final.pkl
@@ -90,12 +91,14 @@ nepal-real-estate-pro/
 │   ├── 03-feature-engineering/
 │   └── 04-model-building/
 │
-├── archive/                            # Raw and intermediate data
+├── archive/                            # Raw and intermediate data (excluded from git)
 │   ├── raw-data/
 │   └── intermediate-data/
 │
-└── utilities/                          # Unused/old files
+└── utilities/                          # Old files (excluded from git)
 ```
+
+**Note on Data Files**: The `data/` and `models/` directories (~6 MB total) are committed to git for easy deployment. All files are required at runtime and are under GitHub's 100 MB limit per file. The `archive/` directory (raw/intermediate data) is excluded via `.gitignore`.
 
 ---
 
@@ -114,6 +117,23 @@ nepal-real-estate-pro/
    (model-agnostic explainability — shows which features drive the price)
 3. **🔍 Recommendations** — Filter properties by budget, size, amenities
 4. **💬 Property Assistant** — RAG chatbot (LangChain + FAISS + GPT-4o-mini)
+
+---
+
+## ☁️ Streamlit Cloud Deployment
+
+This app can be deployed to [Streamlit Cloud](https://streamlit.io/cloud) for free:
+
+1. **Fork or push this repo** to your GitHub account
+2. **Go to** [share.streamlit.io](https://share.streamlit.io/)
+3. **Click "New app"** and select this repository
+4. **Set the main file** to `app_final.py`
+5. **Add secrets** (optional, for RAG chatbot):
+   - Click "Advanced settings" → "Secrets"
+   - Add your `GITHUB_TOKEN` for the chatbot feature
+6. **Deploy** — Streamlit Cloud will install dependencies and start the app
+
+**Note**: The pinned `requirements.txt` ensures consistent builds. If deployment fails, check that Streamlit Cloud is using Python 3.11+.
 
 ---
 
@@ -140,11 +160,14 @@ docker-compose up -d
 ---
 
 ## ⚠️ Known Limitations
-- Prices based on 2025 listing data — market conditions change
-- General Land model R² = 0.61 (land valuation is inherently harder to model)
-- Lalpurja data covers only 3 districts
+- **No automated testing**: This project prioritized model training and deployment over test coverage
+- **Standard ML algorithms**: Uses well-established XGBoost and CatBoost models rather than novel architectures
+- **Data staleness**: Prices based on 2025 listing data — market conditions and neighborhoods evolve
+- **Limited geographic scope**: Lalpurja datasets cover only 3 districts (Kathmandu, Lalitpur, Bhaktapur)
+- **Model accuracy varies**: General Land model R² = 0.61 (land valuation is inherently harder than housing)
+- **Scraped data quality**: Data extracted from listing sites may have inconsistencies or missing fields
 
 ---
 
 ## 👨‍💻 Author
-**Ujju** — Final Year Project 2026
+**Ujwal** — [GitHub](https://github.com/ujju1124)
