@@ -1,4 +1,3 @@
-# 🏠 Nepal Land & House Price Prediction System
 ---
 title: Nepal Real Estate Pro
 emoji: 🏠
@@ -8,6 +7,8 @@ sdk: docker
 app_port: 7860
 pinned: false
 ---
+
+# 🏠 Nepal Land & House Price Prediction System
 
 **Originally developed as a final year university project; refined here with cleaner dependencies, documentation, and known limitations.**
 
