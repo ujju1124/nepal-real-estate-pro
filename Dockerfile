@@ -4,7 +4,7 @@
 # Optimized for HF Spaces free CPU tier (limited RAM)
 # Port: 7860, listens on 0.0.0.0
 
-FROM python:3.11-slim
+FROM python:3.12-slim
 
 # Set working directory
 WORKDIR /app
