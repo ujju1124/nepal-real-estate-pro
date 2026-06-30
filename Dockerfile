@@ -1,62 +1,64 @@
-# Nepal Land & House Price Prediction System
-# Docker configuration for production deployment
+# ═══════════════════════════════════════════════════════════════
+# Nepal Real Estate Pro — Hugging Face Spaces Dockerfile
+# ═══════════════════════════════════════════════════════════════
+# Optimized for HF Spaces free CPU tier (limited RAM)
+# Port: 7860, listens on 0.0.0.0
 
-# Use official Python runtime as base image
 FROM python:3.11-slim
 
-# Set metadata
-LABEL maintainer="Ujju"
-LABEL description="Nepal Real Estate Price Prediction System"
-LABEL version="1.0"
-
-# Set working directory in container
+# Set working directory
 WORKDIR /app
 
-# Install system dependencies
-# - build-essential: For compiling Python packages
-# - curl: For health checks
-# - software-properties-common: For adding repositories
+# Install system dependencies required by scientific packages
+# - build-essential: for compiling some Python packages
+# - libgomp1: required by LightGBM and some ML libraries
+# - git: for some Python packages that install from git
 RUN apt-get update && apt-get install -y \
     build-essential \
-    curl \
-    software-properties-common \
+    libgomp1 \
+    git \
     && rm -rf /var/lib/apt/lists/*
 
-# Copy requirements first (for better Docker layer caching)
-# If requirements.txt doesn't change, this layer is cached
+# Copy requirements first for better Docker layer caching
 COPY requirements.txt .
 
 # Install Python dependencies
-# --no-cache-dir: Don't cache pip packages (reduces image size)
-RUN pip install --no-cache-dir --upgrade pip && \
-    pip install --no-cache-dir -r requirements.txt
+# Use --no-cache-dir to reduce image size
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application
+# Copy application files
 COPY app_final.py .
-COPY data/ data/
-COPY models/ models/
+COPY .env.example .env
+COPY data/ ./data/
+COPY models/ ./models/
 
-# Create directory for Streamlit config (if not exists)
+# Create .streamlit directory for config
 RUN mkdir -p /root/.streamlit
 
-# Copy Streamlit config
-COPY .streamlit/config.toml /root/.streamlit/config.toml
+# Create Streamlit config for HF Spaces
+RUN echo '\
+[server]\n\
+headless = true\n\
+enableCORS = false\n\
+enableXsrfProtection = false\n\
+port = 7860\n\
+address = "0.0.0.0"\n\
+\n\
+[browser]\n\
+gatherUsageStats = false\n\
+' > /root/.streamlit/config.toml
 
-# Expose Streamlit default port
-EXPOSE 8501
+# Expose port 7860 for HF Spaces
+EXPOSE 7860
 
-# Health check - ensures container is healthy
-# Checks every 30 seconds if Streamlit is responding
-HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
-    CMD curl --fail http://localhost:8501/_stcore/health || exit 1
+# Health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
+    CMD curl -f http://localhost:7860/_stcore/health || exit 1
 
-# Set environment variables
-ENV STREAMLIT_SERVER_PORT=8501
-ENV STREAMLIT_SERVER_ADDRESS=0.0.0.0
-ENV STREAMLIT_SERVER_HEADLESS=true
-ENV STREAMLIT_BROWSER_GATHER_USAGE_STATS=false
-
-# Run the application
-# Using ENTRYPOINT + CMD allows overriding CMD at runtime
-ENTRYPOINT ["streamlit", "run"]
-CMD ["app_final.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Run Streamlit app with HF Spaces configuration
+CMD ["streamlit", "run", "app_final.py", \
+     "--server.address=0.0.0.0", \
+     "--server.port=7860", \
+     "--server.enableCORS=false", \
+     "--server.enableXsrfProtection=false", \
+     "--server.headless=true"]
