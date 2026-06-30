@@ -1,0 +1,29 @@
+# ── Environment (NEVER commit these) ──
+.env
+*.env
+.streamlit/secrets.toml
+venv
+
+
+
+# ── Large data files ──
+archive/
+utilities/
+models/  # Model files included via Docker COPY, not git
+
+# ── Python ──
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# ── OS files ──
+.DS_Store
+Thumbs.db
+
+# ── IDE files ──
+.vscode/
+.idea/
