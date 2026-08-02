@@ -102,12 +102,12 @@ MODEL_INFO = {
 
 def fmt_npr(val, decimal=2):
     try:
-        if pd.isna(val) or val == 0: return "₹0"
+        if pd.isna(val) or val == 0: return "रू0"
     except Exception:
         pass
-    if val >= 10_000_000: return f"₹{val/10_000_000:.{decimal}f} Cr"
-    elif val >= 100_000:  return f"₹{val/100_000:.{decimal}f} L"
-    return f"₹{val:,.0f}"
+    if val >= 10_000_000: return f"रू{val/10_000_000:.{decimal}f} Cr"
+    elif val >= 100_000:  return f"रू{val/100_000:.{decimal}f} L"
+    return f"रू{val:,.0f}"
 
 def clean_chart(fig, height=None):
     fig.update_layout(
@@ -859,7 +859,7 @@ if section == "📊 Market Analytics":
                 fig.update_yaxes(title_text="Frequency")
                 fig.update_layout(showlegend=False, height=500)
                 st.plotly_chart(clean_chart(fig, height=500), use_container_width=True)
-                insight("Heavily right-skewed — most properties priced between ₹0.2–0.5 Cr, long tail to ₹4 Cr.")
+                insight("Heavily right-skewed — most properties priced between रू0.2–0.5 Cr, long tail to रू4 Cr.")
 
             st.markdown("---")
             c1, c2 = st.columns(2)
@@ -911,7 +911,7 @@ if section == "📊 Market Analytics":
                 fig.update_layout(xaxis_title="", xaxis_showticklabels=False,
                                   coloraxis_showscale=False, yaxis_title="")
                 st.plotly_chart(clean_chart(fig, height=500), use_container_width=True)
-                insight("Hattisar, Jawalakhel, Bansbari reach ₹19 Cr+ — ring-road proximity is the top premium driver.")
+                insight("Hattisar, Jawalakhel, Bansbari reach रू19 Cr+ — ring-road proximity is the top premium driver.")
 
             with c2:
                 amenity_dist_cols = [c for c in lh.columns if c.endswith("_m") and "price" not in c]
@@ -951,7 +951,7 @@ if section == "📊 Market Analytics":
                 fig.update_layout(xaxis_title="", xaxis_showticklabels=False,
                                   coloraxis_showscale=False, yaxis_title="")
                 st.plotly_chart(clean_chart(fig, height=500), use_container_width=True)
-                insight("Jhamsikhel and Naxal command near ₹1 Cr/Ana — all inside/near the ring road.")
+                insight("Jhamsikhel and Naxal command near रू1 Cr/Ana — all inside/near the ring road.")
 
             with c2:
                 fig = go.Figure()
@@ -986,7 +986,7 @@ if section == "📊 Market Analytics":
                 fig.update_layout(xaxis_title="", xaxis_showticklabels=False,
                                   coloraxis_showscale=False, yaxis_title="")
                 st.plotly_chart(clean_chart(fig, height=500), use_container_width=True)
-                insight("Old Baneshowr, Gaushala, Tahachal top the list at ~₹0.9 Cr/Ana.")
+                insight("Old Baneshowr, Gaushala, Tahachal top the list at ~रू0.9 Cr/Ana.")
 
             with c2:
                 amenity_dist_ll = [c for c in ll.columns if c.endswith("_m") and "price" not in c]
@@ -1051,7 +1051,7 @@ elif section == "🔍 Recommendations":
             districts = ["All Districts"] + sorted([d for d in gh["district"].unique() if pd.notna(d)])
             selected_district = st.selectbox("District", districts, key="house_district")
         with col2:
-            st.write("**💰 BUDGET (₹)**")
+            st.write("**💰 BUDGET (रू)**")
             min_budget = st.number_input("Min (Crore)", min_value=0.5, max_value=50.0, value=1.0, step=0.5, key="house_min_b") * 10_000_000
             max_budget = st.number_input("Max (Crore)", min_value=0.5, max_value=50.0, value=5.0, step=0.5, key="house_max_b") * 10_000_000
         with col3:
@@ -1134,7 +1134,7 @@ elif section == "🔍 Recommendations":
             districts = ["All Districts"] + sorted([d for d in ll["district"].unique() if pd.notna(d)])
             selected_district = st.selectbox("District", districts, key="land_district")
         with col2:
-            st.write("**💰 BUDGET per Ana (₹)**")
+            st.write("**💰 BUDGET per Ana (रू)**")
             min_ppa = st.number_input("Min (Lakhs/Ana)", min_value=5.0, max_value=500.0, value=20.0, step=5.0, key="land_min_ppa") * 100_000
             max_ppa = st.number_input("Max (Lakhs/Ana)", min_value=5.0, max_value=500.0, value=80.0, step=5.0, key="land_max_ppa") * 100_000
         with col3:
