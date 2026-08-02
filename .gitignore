@@ -28,7 +28,10 @@ Thumbs.db
 .vscode/
 .idea/
 
-# ── Deployment notes (keep locally, not on GitHub) ──
+# ── Documentation (keep locally, not on GitHub - only README.md on GitHub) ──
+COMPLETE_PROJECT_DOCUMENTATION.md
+DEFENSE_GUIDE.md
+HOW_MODEL_SELECTION_WORKS.md
 DEPLOY_TO_HF.md
 DEPLOY_NEW_HF_ACCOUNT.md
 DEPLOY_TO_NEW_HF_FREE.md
