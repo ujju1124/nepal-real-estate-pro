@@ -9,7 +9,7 @@ venv
 # ── Large data files ──
 archive/
 utilities/
-models/  # Model files included via Docker COPY, not git
+# models/ folder is tracked via Git LFS - DO NOT IGNORE
 
 # ── Python ──
 __pycache__/
