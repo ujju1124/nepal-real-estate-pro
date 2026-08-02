@@ -45,7 +45,7 @@ try:
     from langchain_core.prompts import PromptTemplate
     from langchain_core.runnables import RunnablePassthrough, RunnableLambda
     from langchain_core.output_parsers import StrOutputParser
-    from langchain_openai import ChatOpenAI
+    from langchain_groq import ChatGroq
     RAG_AVAILABLE = True
 except ImportError:
     RAG_AVAILABLE = False
@@ -54,7 +54,7 @@ from dotenv import load_dotenv
 
 # Load .env file
 load_dotenv()
-GITHUB_API_KEY = os.getenv("GITHUB_TOKEN")  # reads from .env
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")  # reads from .env
 
 # ─────────────────────────────────────────────────────────
 # PAGE CONFIG
@@ -697,17 +697,16 @@ Bhaktapur District:
     return vectorstore, embeddings
 
 
-def build_rag_chain(vectorstore, github_api_key: str):
+def build_rag_chain(vectorstore, api_key: str):
     retriever = vectorstore.as_retriever(
         search_type="similarity",
         search_kwargs={"k": 5},
     )
 
-    llm = ChatOpenAI(
-        model="gpt-4o-mini",
+    llm = ChatGroq(
+        model="llama-3.1-8b-instant",
         temperature=0.2,
-        api_key=github_api_key,
-        base_url="https://models.inference.ai.azure.com",
+        api_key=api_key,
         streaming=True,
     )
 
@@ -1629,12 +1628,12 @@ elif section == "💬 Property Assistant":
         )
         st.stop()
 
-    openai_key = GITHUB_API_KEY  # loaded from .env at startup
+    openai_key = GROQ_API_KEY  # loaded from .env at startup
 
     if not openai_key:
         st.error(
-            "❌ GitHub API key not found. Please add `GITHUB_TOKEN=your_token` to your `.env` file "
-            "and restart the app."
+            "❌ Groq API key not found. Please add `GROQ_API_KEY=your_token` to your `.env` file "
+            "or Streamlit secrets and restart the app."
         )
         st.stop()
 
